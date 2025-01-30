@@ -14,18 +14,18 @@ pdf.add_page()
 #font ('times', 'courier', 'helvetica', 'symbol', 'zpfdingbats')
 #style ('', 'B', 'I', 'U')
 
-pdf.set_font("Arial", "B", 24)
+pdf.set_font("Halvetica", "B", 24)
 
 #add a cell
 #width, height, text, border, ln, align
 #ln (0false, 1true - move to next line)
 pdf.cell(140, 10, "factuur")
 pdf.cell(40, 10, "Soft log", ln=True )
-pdf.set_font("Arial", "", 12)
+pdf.set_font("Halvetica", "", 12)
 pdf.cell(25, 10, "Datum:",  border=True)
-pdf.set_font("Arial", "B", 20)
+pdf.set_font("Halvetica", "B", 20)
 pdf.cell(115, 10, "factuurnummer:", border = False, align="C")
-pdf.set_font("Arial", "", 12)
+pdf.set_font("Halvetica", "", 12)
 pdf.cell(0, 10, "+088 98 73 87 32", ln=True)
 pdf.cell(90, 10, "12-12-2020")
 pdf.cell(50, 10, "f-0001")
@@ -44,9 +44,8 @@ data_as_dict = {"Naam" : ["lake"],
                 "Totaal" : ["90"]}
 pdf = PDF()
 pdf.add_page()
-pdf.set_font("Arial", "",  size=10)
+pdf.set_font("Halvetica", "",  size=10)
 
 pdf.create_table(table_data = data_as_dict, title_size=10, title="factuur data", cell_width="even")
-pdf.ln()
 
 pdf.output("output.pdf")
