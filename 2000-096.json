@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2000-096",
+    "orderdatum": "14-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 169",
+      "postcode": "1128 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "64293189"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 494.88,
+        "btw_percentage": 6
+      }
+    ]
+  }
+}
