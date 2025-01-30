@@ -1,0 +1,36 @@
+{
+    "order": {
+        "ordernummer": "2000-096",
+        "orderdatum": "14-05-2020",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 169",
+            "postcode": "1128 AA",
+            "stad": "Amsterdam",
+            "KVK-nummer": "64293189"
+        },
+        "producten": [
+            {
+                "productnaam": "Google Cloud Platform",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 494.88,
+                "btw_percentage": 6,
+                "btw": 89.08
+            }
+        ]
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsgegevens": {
+            "bedrijfsnaam": "Soft log",
+            "adres": "1234 CK,Rottendam",
+            "kvknummer": "123456789",
+            "btwnummer": "NL 12345678901",
+            "telefoonnummer": "+088 98 73 87 32",
+            "email": "info@softlog.nl"
+        }
+    },
+    "totalen": {
+        "totaal_incld_btw": 1573.72
+    }
+}
