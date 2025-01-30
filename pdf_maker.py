@@ -37,12 +37,16 @@ pdf.cell(40, 10, "BTW id: NL 12345678901", ln=True)
 pdf.cell(70, 10, "1234 CK, Rotterdam", ln=True)
 pdf.ln()
 
-data_as_dict = {"Naam" : ["lake"],
-                "Omschrijving" : ["ja"],
-                "Aantal" : ["7"],
-                "Prijs" : ["19"],
-                "Totaal" : ["90"]}
+# data_as_dict = {"Naam" : ["lake"],
+#                 "Omschrijving" : ["ja"],
+#                 "Aantal" : ["7"],
+#                 "Prijs" : ["19"],
+#                 "Totaal" : ["90"]}
+# pdf = PDF()
+# pdf.add_page()
+# pdf.set_font("Arial", "",  size=10)
 
-pdf.create_table(data_as_dict, title="Factuur details", col_width=40, data_size=12, header_size=14, line_height=10, align_header='C', align_data='C', emphasize_style='B', x_start='L')
+# pdf.create_table(table_data = data_as_dict, title_size=10, title="factuur data", cell_width=[15,15,10,45], x_start='C', align_header='C', align_data='C', emphasize_data=["Totaal"], emphasize_color=[255,0,0], emphasize_style='B')
+# pdf.ln()
 
-pdf.output("output.pdf")
+# pdf.output("output.pdf")
