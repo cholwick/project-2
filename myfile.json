@@ -16,7 +16,8 @@
                 "aantal": 3,
                 "prijs_per_stuk_excl_btw": 494.88,
                 "btw_percentage": 6,
-                "btw": 89.08
+                "btw": 89.08,
+                "totaal": 1573.72
             }
         ]
     },

@@ -22,6 +22,7 @@ for product in producten:
     btw = (product['btw_percentage'] /100 ) * prijs_zon_btw
     product['btw']= round(btw,2)
     totaal = round(prijs_zon_btw + btw,2)
+    product["totaal"]= totaal
 print(totaal)
 
 # product['btw_bedrag'] = product['aantal'] * product['prijs'] * product['btw'] / 100
@@ -39,7 +40,6 @@ bedrijfsgegevens = {"bedrijfsgegevens":
   }
 
 data['bedrijfsgegevens']= bedrijfsgegevens
-data['totalen'] = totalen
 out_file = open("myfile.json", "w")
 
 y = json.dump(data, out_file, indent=4)
