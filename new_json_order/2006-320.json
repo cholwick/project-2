@@ -1,0 +1,130 @@
+{
+  "order": {
+    "ordernummer": "2006-320",
+    "orderdatum": "22-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 725",
+      "postcode": "7371 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "51027400"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 457.49,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 24.43,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 87.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 250.06,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 316.78,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 133.83,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 78.23,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 449.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 432.37,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 140.68,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 271.37,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 236.52,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 63.74,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 490.11,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 493.38,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 203.95,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 254.42,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 395.04,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 291.27,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

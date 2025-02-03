@@ -1,0 +1,88 @@
+{
+  "order": {
+    "ordernummer": "2024-553",
+    "orderdatum": "10-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 630",
+      "postcode": "2450 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "57829017"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 209.9,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 215.92,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 279.43,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 357.61,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 396.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 473.73,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 489.06,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 211.45,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 27.43,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 300.38,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 82.77,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 124.56,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

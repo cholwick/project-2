@@ -1,0 +1,112 @@
+{
+  "order": {
+    "ordernummer": "2020-584",
+    "orderdatum": "01-05-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 764",
+      "postcode": "4449 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "10386949"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 122.54,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 427.74,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 242.09,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 227.14,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 130.36,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 52.97,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 138.19,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 205.06,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 423.14,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 41.31,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 459.26,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 485.71,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 391.51,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 238.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 386.41,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 330.5,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

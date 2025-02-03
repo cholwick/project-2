@@ -1,0 +1,136 @@
+{
+  "order": {
+    "ordernummer": "2021-729",
+    "orderdatum": "20-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 539",
+      "postcode": "3505 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "83103151"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 242.73,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 311.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 362.35,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 225.18,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 32.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 44.89,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 194.17,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 376.35,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 331.7,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 310.16,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 61.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 51.28,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 336.5,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 79.72,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 439.05,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 10.07,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 345.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 35.02,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 446.65,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 373.08,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

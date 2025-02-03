@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2016-425",
+    "orderdatum": "03-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 643",
+      "postcode": "8214 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "45419044"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 204.34,
+        "btw_per_stuk": 42.91
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 127.06,
+        "btw_per_stuk": 26.68
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 145.47,
+        "btw_per_stuk": 30.55
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 371.61,
+        "btw_per_stuk": 78.04
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 131.1,
+        "btw_per_stuk": 27.53
+      }
+    ]
+  }
+}

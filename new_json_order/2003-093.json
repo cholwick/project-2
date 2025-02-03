@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-093",
+    "orderdatum": "16-09-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 277",
+      "postcode": "8840 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "22776244"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 446.96,
+        "btw_per_stuk": 93.86
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 327.68,
+        "btw_per_stuk": 68.81
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 280.76,
+        "btw_per_stuk": 58.96
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 69.12,
+        "btw_per_stuk": 14.52
+      }
+    ]
+  }
+}

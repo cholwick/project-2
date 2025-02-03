@@ -1,0 +1,88 @@
+{
+  "order": {
+    "ordernummer": "2022-783",
+    "orderdatum": "04-11-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 154",
+      "postcode": "9518 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33082899"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 269.73,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 363.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 228.42,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 445.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 490.31,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 227.79,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 34.01,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 369.41,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 359.47,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 88.54,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 385.8,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 441.68,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

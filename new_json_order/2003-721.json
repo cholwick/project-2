@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-721",
+    "orderdatum": "09-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 857",
+      "postcode": "5884 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "65719524"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 455.23,
+        "btw_per_stuk": 95.6
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 211.03,
+        "btw_per_stuk": 44.32
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 15.31,
+        "btw_per_stuk": 3.22
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 411.07,
+        "btw_per_stuk": 86.32
+      }
+    ]
+  }
+}

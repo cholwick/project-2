@@ -1,0 +1,70 @@
+{
+  "order": {
+    "ordernummer": "2009-135",
+    "orderdatum": "06-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 277",
+      "postcode": "1163 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53522651"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 178.88,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 384.67,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 283.72,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 165.62,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 232.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 339.29,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 213.98,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 26.7,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 308.58,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

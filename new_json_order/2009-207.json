@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2009-207",
+    "orderdatum": "05-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 627",
+      "postcode": "6772 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31747897"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 53.17,
+        "btw_per_stuk": 11.17
+      }
+    ]
+  }
+}

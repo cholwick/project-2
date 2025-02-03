@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-699",
+    "orderdatum": "02-01-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 521",
+      "postcode": "3201 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "68334222"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 262.65,
+        "btw_per_stuk": 55.16
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 284.41,
+        "btw_per_stuk": 59.73
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 124.44,
+        "btw_per_stuk": 26.13
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 469.43,
+        "btw_per_stuk": 98.58
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 400.28,
+        "btw_per_stuk": 84.06
+      }
+    ]
+  }
+}

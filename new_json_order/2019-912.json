@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-912",
+    "orderdatum": "02-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 148",
+      "postcode": "1996 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "22658913"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 175.96,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 86.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 326.04,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 46.39,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

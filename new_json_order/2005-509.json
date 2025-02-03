@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2005-509",
+    "orderdatum": "18-02-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 231",
+      "postcode": "6871 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "29820142"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 52.13,
+        "btw_per_stuk": 10.95
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 88.46,
+        "btw_per_stuk": 18.58
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 444.12,
+        "btw_per_stuk": 93.27
+      }
+    ]
+  }
+}

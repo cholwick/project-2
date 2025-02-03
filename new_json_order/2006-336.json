@@ -1,0 +1,64 @@
+{
+  "order": {
+    "ordernummer": "2006-336",
+    "orderdatum": "03-05-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 93",
+      "postcode": "7490 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "37247838"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 480.67,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 54.12,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 331.27,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 253.18,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 447.03,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 141.03,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 307.97,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 366.56,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

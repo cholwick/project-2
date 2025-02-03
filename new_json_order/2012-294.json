@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2012-294",
+    "orderdatum": "18-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 672",
+      "postcode": "1449 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "26402303"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 300.49,
+        "btw_per_stuk": 63.1
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 39.29,
+        "btw_per_stuk": 8.25
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 78.17,
+        "btw_per_stuk": 16.42
+      }
+    ]
+  }
+}

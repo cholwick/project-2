@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-403",
+    "orderdatum": "27-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 580",
+      "postcode": "9155 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18820167"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 91.86,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 336.92,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

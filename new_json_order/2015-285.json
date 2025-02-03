@@ -1,0 +1,118 @@
+{
+  "order": {
+    "ordernummer": "2015-285",
+    "orderdatum": "26-08-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 531",
+      "postcode": "2574 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "36204714"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 38.97,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 346.47,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 444.79,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 179.64,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 23.47,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 37.07,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 232.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 58.0,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 415.06,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 438.16,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 211.55,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 376.29,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 386.25,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 151.67,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 453.0,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 303.94,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 419.29,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

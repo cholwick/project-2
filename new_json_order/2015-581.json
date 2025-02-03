@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-581",
+    "orderdatum": "04-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 410",
+      "postcode": "4647 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "64388839"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 428.67,
+        "btw_per_stuk": 90.02
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 397.35,
+        "btw_per_stuk": 83.44
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 409.99,
+        "btw_per_stuk": 86.1
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 426.98,
+        "btw_per_stuk": 89.67
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 346.15,
+        "btw_per_stuk": 72.69
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "order": {
+    "ordernummer": "2023-449",
+    "orderdatum": "23-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 417",
+      "postcode": "5963 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66205462"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 355.62,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 391.14,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 218.48,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 335.88,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 461.25,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 73.85,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 292.32,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 298.31,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 224.72,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 244.75,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 36.86,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 351.6,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 409.07,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 417.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 222.53,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

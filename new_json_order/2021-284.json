@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2021-284",
+    "orderdatum": "10-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 687",
+      "postcode": "6635 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "34777362"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 453.61,
+        "btw_per_stuk": 95.26
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 227.65,
+        "btw_per_stuk": 47.81
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 178.52,
+        "btw_per_stuk": 37.49
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 160.24,
+        "btw_per_stuk": 33.65
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 311.51,
+        "btw_per_stuk": 65.42
+      }
+    ]
+  }
+}

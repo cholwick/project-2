@@ -1,0 +1,88 @@
+{
+  "order": {
+    "ordernummer": "2020-478",
+    "orderdatum": "07-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 273",
+      "postcode": "7189 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "17289164"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 349.41,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 370.43,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 156.5,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 86.24,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 61.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 401.63,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 59.46,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 410.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 326.96,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 178.82,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 380.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 332.07,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

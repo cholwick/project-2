@@ -1,0 +1,130 @@
+{
+  "order": {
+    "ordernummer": "2021-892",
+    "orderdatum": "17-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 415",
+      "postcode": "6701 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "52596068"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 229.87,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 365.79,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 147.48,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 359.67,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 324.72,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 150.57,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 424.25,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 280.75,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 301.02,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 393.46,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 438.9,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 265.95,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 493.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 169.19,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 139.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 135.05,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 187.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 229.01,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 99.67,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

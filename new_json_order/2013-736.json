@@ -1,0 +1,76 @@
+{
+  "order": {
+    "ordernummer": "2013-736",
+    "orderdatum": "05-01-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 723",
+      "postcode": "4104 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "36627300"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 14.12,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 370.68,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 193.84,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 37.95,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 128.75,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 434.52,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 157.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 227.83,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 342.65,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 96.06,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

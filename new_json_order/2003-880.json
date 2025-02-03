@@ -1,0 +1,88 @@
+{
+  "order": {
+    "ordernummer": "2003-880",
+    "orderdatum": "23-09-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 36",
+      "postcode": "4647 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18909532"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 293.13,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 156.2,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 223.78,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 175.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 86.23,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 106.5,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 39.72,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 481.83,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 399.78,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 262.3,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 106.73,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 255.37,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

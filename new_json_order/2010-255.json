@@ -1,0 +1,124 @@
+{
+  "order": {
+    "ordernummer": "2010-255",
+    "orderdatum": "16-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 686",
+      "postcode": "5600 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "73874051"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 194.96,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 191.76,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 220.02,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 78.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 274.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 394.61,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 416.61,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 451.5,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 191.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 239.19,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 389.88,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 405.29,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 468.32,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 360.87,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 463.56,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 85.08,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 493.64,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 12.38,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

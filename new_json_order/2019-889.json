@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-889",
+    "orderdatum": "07-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 326",
+      "postcode": "3695 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "11221362"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 398.1,
+        "btw_per_stuk": 83.6
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 429.66,
+        "btw_per_stuk": 90.23
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 366.64,
+        "btw_per_stuk": 76.99
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 311.05,
+        "btw_per_stuk": 65.32
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "order": {
+    "ordernummer": "2007-923",
+    "orderdatum": "18-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 327",
+      "postcode": "1354 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27162253"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 155.17,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 498.63,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 296.03,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 474.06,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 393.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 320.04,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 90.25,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 299.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 135.16,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 419.54,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 130.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 303.26,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 431.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 412.34,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

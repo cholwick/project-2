@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-056",
+    "orderdatum": "02-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 130",
+      "postcode": "3598 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "98736525"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 496.36,
+        "btw_per_stuk": 104.24
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 286.13,
+        "btw_per_stuk": 60.09
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 287.91,
+        "btw_per_stuk": 60.46
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 106.42,
+        "btw_per_stuk": 22.35
+      }
+    ]
+  }
+}

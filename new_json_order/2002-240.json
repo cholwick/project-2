@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-240",
+    "orderdatum": "17-02-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 409",
+      "postcode": "9384 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "57183448"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 364.21,
+        "btw_per_stuk": 76.48
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 175.92,
+        "btw_per_stuk": 36.94
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 239.46,
+        "btw_per_stuk": 50.29
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "order": {
+    "ordernummer": "2009-052",
+    "orderdatum": "25-10-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 336",
+      "postcode": "6737 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "87184716"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 408.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 335.32,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 306.49,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 230.59,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 400.61,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 198.71,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2008-235",
+    "orderdatum": "08-06-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 101",
+      "postcode": "1121 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "66941665"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 407.62,
+        "btw_per_stuk": 85.6
+      }
+    ]
+  }
+}

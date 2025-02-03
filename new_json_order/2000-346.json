@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-346",
+    "orderdatum": "12-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 790",
+      "postcode": "5992 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "94191441"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 267.22,
+        "btw_per_stuk": 56.12
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 363.79,
+        "btw_per_stuk": 76.4
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 224.73,
+        "btw_per_stuk": 47.19
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 352.45,
+        "btw_per_stuk": 74.01
+      }
+    ]
+  }
+}

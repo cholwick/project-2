@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-246",
+    "orderdatum": "07-09-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 322",
+      "postcode": "5992 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "44248209"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 142.6,
+        "btw_per_stuk": 29.95
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 472.86,
+        "btw_per_stuk": 99.3
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 258.2,
+        "btw_per_stuk": 54.22
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 104.55,
+        "btw_per_stuk": 21.96
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 22.47,
+        "btw_per_stuk": 4.72
+      }
+    ]
+  }
+}

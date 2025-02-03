@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-292",
+    "orderdatum": "14-02-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 915",
+      "postcode": "3574 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "58046684"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 493.83,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 304.66,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-478",
+    "orderdatum": "07-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 636",
+      "postcode": "6789 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "70155628"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 64.83,
+        "btw_per_stuk": 13.61
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 221.79,
+        "btw_per_stuk": 46.58
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 259.31,
+        "btw_per_stuk": 54.46
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 353.34,
+        "btw_per_stuk": 74.2
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 148.52,
+        "btw_per_stuk": 31.19
+      }
+    ]
+  }
+}

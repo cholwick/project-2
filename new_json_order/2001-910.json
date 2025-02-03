@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-910",
+    "orderdatum": "01-11-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 172",
+      "postcode": "7105 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "47242687"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 166.93,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 12.64,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 160.12,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 400.12,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

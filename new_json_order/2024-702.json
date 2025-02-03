@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-702",
+    "orderdatum": "13-03-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 650",
+      "postcode": "6551 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "54040966"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 63.37,
+        "btw_per_stuk": 13.31
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 112.66,
+        "btw_per_stuk": 23.66
+      }
+    ]
+  }
+}

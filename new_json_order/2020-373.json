@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-373",
+    "orderdatum": "04-12-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 847",
+      "postcode": "8802 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "22049393"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 168.11,
+        "btw_per_stuk": 35.3
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 229.25,
+        "btw_per_stuk": 48.14
+      }
+    ]
+  }
+}

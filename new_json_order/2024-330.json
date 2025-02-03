@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-330",
+    "orderdatum": "27-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 834",
+      "postcode": "7453 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "56159600"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 383.86,
+        "btw_per_stuk": 80.61
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 165.98,
+        "btw_per_stuk": 34.86
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 274.51,
+        "btw_per_stuk": 57.65
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 467.38,
+        "btw_per_stuk": 98.15
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 317.78,
+        "btw_per_stuk": 66.73
+      }
+    ]
+  }
+}

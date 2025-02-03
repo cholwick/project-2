@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-146",
+    "orderdatum": "05-03-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 238",
+      "postcode": "3243 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "21712123"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 261.17,
+        "btw_per_stuk": 54.85
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 232.5,
+        "btw_per_stuk": 48.82
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 443.98,
+        "btw_per_stuk": 93.24
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 40.18,
+        "btw_per_stuk": 8.44
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 406.63,
+        "btw_per_stuk": 85.39
+      }
+    ]
+  }
+}

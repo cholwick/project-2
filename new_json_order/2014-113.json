@@ -1,0 +1,70 @@
+{
+  "order": {
+    "ordernummer": "2014-113",
+    "orderdatum": "10-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 211",
+      "postcode": "6509 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "77991907"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 466.08,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 385.46,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 137.31,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 57.24,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 398.38,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 339.86,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 27.2,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 188.67,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 339.04,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

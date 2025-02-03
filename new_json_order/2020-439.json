@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-439",
+    "orderdatum": "07-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 299",
+      "postcode": "2287 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18937522"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 463.95,
+        "btw_per_stuk": 97.43
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 457.97,
+        "btw_per_stuk": 96.17
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 148.36,
+        "btw_per_stuk": 31.16
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 376.41,
+        "btw_per_stuk": 79.05
+      }
+    ]
+  }
+}

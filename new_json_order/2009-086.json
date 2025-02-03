@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2009-086",
+    "orderdatum": "13-03-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 246",
+      "postcode": "6406 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "14970340"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 232.77,
+        "btw_per_stuk": 48.88
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 352.42,
+        "btw_per_stuk": 74.01
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 432.57,
+        "btw_per_stuk": 90.84
+      }
+    ]
+  }
+}

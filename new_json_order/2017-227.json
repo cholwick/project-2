@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-227",
+    "orderdatum": "14-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 219",
+      "postcode": "6308 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "48561331"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 216.9,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 294.35,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 178.33,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 281.51,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

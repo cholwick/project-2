@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-236",
+    "orderdatum": "05-03-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 459",
+      "postcode": "2694 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "24577198"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 415.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 262.05,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 47.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 348.22,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

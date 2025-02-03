@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-326",
+    "orderdatum": "25-04-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 269",
+      "postcode": "2875 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "29784821"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 169.78,
+        "btw_per_stuk": 35.65
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 155.35,
+        "btw_per_stuk": 32.62
+      }
+    ]
+  }
+}

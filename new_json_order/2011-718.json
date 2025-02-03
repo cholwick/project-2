@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-718",
+    "orderdatum": "28-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 755",
+      "postcode": "8253 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "71677323"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 11.48,
+        "btw_per_stuk": 2.41
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 183.85,
+        "btw_per_stuk": 38.61
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 335.41,
+        "btw_per_stuk": 70.44
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 486.24,
+        "btw_per_stuk": 102.11
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 487.43,
+        "btw_per_stuk": 102.36
+      }
+    ]
+  }
+}

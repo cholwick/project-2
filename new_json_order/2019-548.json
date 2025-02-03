@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-548",
+    "orderdatum": "21-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 344",
+      "postcode": "3439 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "22341982"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 264.3,
+        "btw_per_stuk": 55.5
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 318.23,
+        "btw_per_stuk": 66.83
+      }
+    ]
+  }
+}

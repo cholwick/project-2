@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-861",
+    "orderdatum": "04-03-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 848",
+      "postcode": "9829 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "79439479"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 431.04,
+        "btw_per_stuk": 90.52
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 234.65,
+        "btw_per_stuk": 49.28
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 347.01,
+        "btw_per_stuk": 72.87
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 358.7,
+        "btw_per_stuk": 75.33
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 83.36,
+        "btw_per_stuk": 17.51
+      }
+    ]
+  }
+}

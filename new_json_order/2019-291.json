@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-291",
+    "orderdatum": "08-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 175",
+      "postcode": "6433 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "61397400"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 76.76,
+        "btw_per_stuk": 16.12
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 283.89,
+        "btw_per_stuk": 59.62
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 147.47,
+        "btw_per_stuk": 30.97
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 340.45,
+        "btw_per_stuk": 71.49
+      }
+    ]
+  }
+}

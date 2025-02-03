@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-898",
+    "orderdatum": "14-07-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 151",
+      "postcode": "7160 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42092432"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 233.36,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 87.41,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 339.15,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 36.85,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

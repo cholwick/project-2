@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-912",
+    "orderdatum": "21-12-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 176",
+      "postcode": "3546 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "31686536"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 147.2,
+        "btw_per_stuk": 30.91
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 497.81,
+        "btw_per_stuk": 104.54
+      }
+    ]
+  }
+}

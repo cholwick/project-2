@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-171",
+    "orderdatum": "10-01-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 909",
+      "postcode": "9345 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "24705258"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 192.73,
+        "btw_per_stuk": 40.47
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 497.1,
+        "btw_per_stuk": 104.39
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 152.21,
+        "btw_per_stuk": 31.96
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-950",
+    "orderdatum": "11-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 471",
+      "postcode": "6400 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "24964869"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 499.6,
+        "btw_per_stuk": 104.92
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 147.05,
+        "btw_per_stuk": 30.88
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 92.22,
+        "btw_per_stuk": 19.37
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 96.79,
+        "btw_per_stuk": 20.33
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 479.96,
+        "btw_per_stuk": 100.79
+      }
+    ]
+  }
+}

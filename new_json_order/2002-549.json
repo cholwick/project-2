@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-549",
+    "orderdatum": "26-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 802",
+      "postcode": "2026 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "85598500"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 442.14,
+        "btw_per_stuk": 92.85
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 69.58,
+        "btw_per_stuk": 14.61
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 372.91,
+        "btw_per_stuk": 78.31
+      }
+    ]
+  }
+}

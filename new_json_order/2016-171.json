@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-171",
+    "orderdatum": "28-09-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Kerkstraat 783",
+      "postcode": "3654 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "90880950"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 21.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 323.82,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

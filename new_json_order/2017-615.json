@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-615",
+    "orderdatum": "26-04-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 637",
+      "postcode": "1865 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "82449844"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 135.02,
+        "btw_per_stuk": 28.35
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 455.71,
+        "btw_per_stuk": 95.7
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 66.31,
+        "btw_per_stuk": 13.93
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 185.15,
+        "btw_per_stuk": 38.88
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 153.44,
+        "btw_per_stuk": 32.22
+      }
+    ]
+  }
+}

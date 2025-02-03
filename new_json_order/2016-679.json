@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-679",
+    "orderdatum": "23-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 140",
+      "postcode": "2684 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "38747108"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 187.48,
+        "btw_per_stuk": 39.37
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 261.2,
+        "btw_per_stuk": 54.85
+      }
+    ]
+  }
+}

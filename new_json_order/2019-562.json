@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-562",
+    "orderdatum": "05-02-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 475",
+      "postcode": "1067 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "95760922"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 138.48,
+        "btw_per_stuk": 29.08
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 363.38,
+        "btw_per_stuk": 76.31
+      }
+    ]
+  }
+}

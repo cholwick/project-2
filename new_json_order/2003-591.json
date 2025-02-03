@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2003-591",
+    "orderdatum": "23-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 906",
+      "postcode": "6189 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "17315728"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 339.45,
+        "btw_per_stuk": 71.28
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2013-327",
+    "orderdatum": "23-12-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 104",
+      "postcode": "1550 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65529895"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 74.1,
+        "btw_per_stuk": 15.56
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 253.06,
+        "btw_per_stuk": 53.14
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 197.0,
+        "btw_per_stuk": 41.37
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 302.57,
+        "btw_per_stuk": 63.54
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 458.83,
+        "btw_per_stuk": 96.35
+      }
+    ]
+  }
+}

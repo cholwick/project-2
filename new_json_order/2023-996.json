@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-996",
+    "orderdatum": "21-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 422",
+      "postcode": "1967 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "57623639"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 222.5,
+        "btw_per_stuk": 46.73
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 316.58,
+        "btw_per_stuk": 66.48
+      }
+    ]
+  }
+}

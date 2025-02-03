@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-905",
+    "orderdatum": "19-07-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 535",
+      "postcode": "4372 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "31410470"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 353.23,
+        "btw_per_stuk": 74.18
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 70.91,
+        "btw_per_stuk": 14.89
+      }
+    ]
+  }
+}

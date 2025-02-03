@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-495",
+    "orderdatum": "05-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 169",
+      "postcode": "1348 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "42502983"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 160.34,
+        "btw_per_stuk": 33.67
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 337.17,
+        "btw_per_stuk": 70.81
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 325.25,
+        "btw_per_stuk": 68.3
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 305.7,
+        "btw_per_stuk": 64.2
+      }
+    ]
+  }
+}

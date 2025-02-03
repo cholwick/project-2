@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2004-844",
+    "orderdatum": "04-03-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 411",
+      "postcode": "9257 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "58616383"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 189.1,
+        "btw_per_stuk": 39.71
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 30.08,
+        "btw_per_stuk": 6.32
+      }
+    ]
+  }
+}

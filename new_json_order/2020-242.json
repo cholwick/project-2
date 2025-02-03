@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-242",
+    "orderdatum": "03-02-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 136",
+      "postcode": "1145 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "16210854"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 425.94,
+        "btw_per_stuk": 89.45
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 201.24,
+        "btw_per_stuk": 42.26
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 21.89,
+        "btw_per_stuk": 4.6
+      }
+    ]
+  }
+}

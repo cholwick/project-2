@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-765",
+    "orderdatum": "05-03-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 396",
+      "postcode": "4001 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "26458790"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 384.63,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 413.4,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

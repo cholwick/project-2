@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-279",
+    "orderdatum": "15-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 796",
+      "postcode": "1633 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "76978445"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 402.64,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 106.77,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

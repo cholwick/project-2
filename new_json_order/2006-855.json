@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2006-855",
+    "orderdatum": "20-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 718",
+      "postcode": "1179 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "88816273"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 410.13,
+        "btw_per_stuk": 86.13
+      }
+    ]
+  }
+}

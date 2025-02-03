@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-436",
+    "orderdatum": "24-06-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 563",
+      "postcode": "6728 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44490839"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 265.25,
+        "btw_per_stuk": 55.7
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 268.67,
+        "btw_per_stuk": 56.42
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 388.61,
+        "btw_per_stuk": 81.61
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 269.67,
+        "btw_per_stuk": 56.63
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 270.04,
+        "btw_per_stuk": 56.71
+      }
+    ]
+  }
+}

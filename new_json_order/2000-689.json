@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2000-689",
+    "orderdatum": "13-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Kerkstraat 446",
+      "postcode": "2436 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "18819831"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 188.75,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 435.08,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

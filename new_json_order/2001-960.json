@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-960",
+    "orderdatum": "15-01-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 952",
+      "postcode": "7518 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33043848"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 335.21,
+        "btw_per_stuk": 70.39
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 15.32,
+        "btw_per_stuk": 3.22
+      }
+    ]
+  }
+}

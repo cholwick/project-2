@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-508",
+    "orderdatum": "06-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 711",
+      "postcode": "6761 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "10351280"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 176.97,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 470.92,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 208.23,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

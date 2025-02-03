@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-196",
+    "orderdatum": "03-10-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 92",
+      "postcode": "7094 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "60640166"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 58.21,
+        "btw_per_stuk": 12.22
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 357.81,
+        "btw_per_stuk": 75.14
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 21.02,
+        "btw_per_stuk": 4.41
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 175.41,
+        "btw_per_stuk": 36.84
+      }
+    ]
+  }
+}

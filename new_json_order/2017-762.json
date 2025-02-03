@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-762",
+    "orderdatum": "04-06-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 617",
+      "postcode": "5750 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "88470080"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 374.93,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 148.35,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 326.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 488.59,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 358.8,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

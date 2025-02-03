@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-235",
+    "orderdatum": "23-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 281",
+      "postcode": "7169 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66712287"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 55.52,
+        "btw_per_stuk": 11.66
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 44.38,
+        "btw_per_stuk": 9.32
+      }
+    ]
+  }
+}

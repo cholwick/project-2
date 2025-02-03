@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-041",
+    "orderdatum": "04-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 142",
+      "postcode": "1611 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "51917718"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 173.82,
+        "btw_per_stuk": 36.5
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 95.69,
+        "btw_per_stuk": 20.09
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 140.91,
+        "btw_per_stuk": 29.59
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 402.88,
+        "btw_per_stuk": 84.6
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 329.2,
+        "btw_per_stuk": 69.13
+      }
+    ]
+  }
+}

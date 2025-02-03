@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-439",
+    "orderdatum": "24-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 937",
+      "postcode": "1814 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "39719563"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 147.74,
+        "btw_per_stuk": 31.03
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 363.77,
+        "btw_per_stuk": 76.39
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 452.52,
+        "btw_per_stuk": 95.03
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 336.68,
+        "btw_per_stuk": 70.7
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 346.24,
+        "btw_per_stuk": 72.71
+      }
+    ]
+  }
+}

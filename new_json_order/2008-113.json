@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-113",
+    "orderdatum": "02-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 963",
+      "postcode": "8370 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "80952237"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 135.82,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 332.62,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

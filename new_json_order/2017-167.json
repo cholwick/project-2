@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2017-167",
+    "orderdatum": "20-04-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 260",
+      "postcode": "1368 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "55923688"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 68.04,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 263.64,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-587",
+    "orderdatum": "23-07-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Kerkstraat 957",
+      "postcode": "5625 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31396942"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 85.96,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 463.35,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

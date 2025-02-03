@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-226",
+    "orderdatum": "14-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 189",
+      "postcode": "2144 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66909373"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 109.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 32.25,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

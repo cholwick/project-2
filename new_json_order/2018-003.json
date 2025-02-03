@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2018-003",
+    "orderdatum": "05-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 397",
+      "postcode": "9711 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "93661855"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 55.21,
+        "btw_per_stuk": 11.59
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 307.38,
+        "btw_per_stuk": 64.55
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 328.68,
+        "btw_per_stuk": 69.02
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-460",
+    "orderdatum": "09-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 947",
+      "postcode": "9139 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "39062373"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 480.95,
+        "btw_per_stuk": 101.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 74.97,
+        "btw_per_stuk": 15.74
+      }
+    ]
+  }
+}

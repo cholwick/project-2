@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-414",
+    "orderdatum": "10-04-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 965",
+      "postcode": "2174 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "14257637"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 63.01,
+        "btw_per_stuk": 13.23
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 470.22,
+        "btw_per_stuk": 98.75
+      }
+    ]
+  }
+}

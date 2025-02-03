@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-780",
+    "orderdatum": "02-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 943",
+      "postcode": "4597 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "87961438"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 313.65,
+        "btw_per_stuk": 65.87
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 332.52,
+        "btw_per_stuk": 69.83
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 361.27,
+        "btw_per_stuk": 75.87
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 46.71,
+        "btw_per_stuk": 9.81
+      }
+    ]
+  }
+}

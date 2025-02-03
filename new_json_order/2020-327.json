@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-327",
+    "orderdatum": "01-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 408",
+      "postcode": "3164 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91130231"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 187.65,
+        "btw_per_stuk": 39.41
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 230.14,
+        "btw_per_stuk": 48.33
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 292.55,
+        "btw_per_stuk": 61.44
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 266.88,
+        "btw_per_stuk": 56.04
+      }
+    ]
+  }
+}

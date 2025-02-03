@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2012-528",
+    "orderdatum": "16-03-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 428",
+      "postcode": "2848 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "32901603"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 172.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 38.74,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 127.36,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

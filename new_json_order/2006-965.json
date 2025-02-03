@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-965",
+    "orderdatum": "10-11-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 748",
+      "postcode": "8512 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "78364156"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 455.93,
+        "btw_per_stuk": 95.75
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 481.52,
+        "btw_per_stuk": 101.12
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 364.95,
+        "btw_per_stuk": 76.64
+      }
+    ]
+  }
+}

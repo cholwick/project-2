@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-686",
+    "orderdatum": "06-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 872",
+      "postcode": "5065 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "90751593"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 486.57,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 78.37,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 91.43,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-577",
+    "orderdatum": "25-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 598",
+      "postcode": "8285 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "80031681"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 441.02,
+        "btw_per_stuk": 92.61
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 260.6,
+        "btw_per_stuk": 54.73
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 330.87,
+        "btw_per_stuk": 69.48
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 371.38,
+        "btw_per_stuk": 77.99
+      }
+    ]
+  }
+}

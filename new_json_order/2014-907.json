@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-907",
+    "orderdatum": "01-09-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 595",
+      "postcode": "2087 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "47960306"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 458.79,
+        "btw_per_stuk": 96.35
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 469.33,
+        "btw_per_stuk": 98.56
+      }
+    ]
+  }
+}

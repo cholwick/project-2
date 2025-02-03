@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-261",
+    "orderdatum": "19-11-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 5",
+      "postcode": "8570 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "45957946"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 245.14,
+        "btw_per_stuk": 51.48
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 107.97,
+        "btw_per_stuk": 22.67
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 292.72,
+        "btw_per_stuk": 61.47
+      }
+    ]
+  }
+}

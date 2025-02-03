@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-467",
+    "orderdatum": "28-03-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 409",
+      "postcode": "5579 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "19038509"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 38.32,
+        "btw_per_stuk": 8.05
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 85.32,
+        "btw_per_stuk": 17.92
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 346.24,
+        "btw_per_stuk": 72.71
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 112.13,
+        "btw_per_stuk": 23.55
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 497.93,
+        "btw_per_stuk": 104.57
+      }
+    ]
+  }
+}

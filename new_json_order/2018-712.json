@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2018-712",
+    "orderdatum": "04-08-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 739",
+      "postcode": "9787 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "27351366"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 401.26,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 487.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 498.38,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

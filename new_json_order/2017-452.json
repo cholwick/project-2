@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-452",
+    "orderdatum": "15-01-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 135",
+      "postcode": "9147 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "42458136"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 148.03,
+        "btw_per_stuk": 31.09
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 196.46,
+        "btw_per_stuk": 41.26
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 332.69,
+        "btw_per_stuk": 69.86
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 137.84,
+        "btw_per_stuk": 28.95
+      }
+    ]
+  }
+}

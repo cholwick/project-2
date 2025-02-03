@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-026",
+    "orderdatum": "05-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 573",
+      "postcode": "4841 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "70201932"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 99.05,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 126.41,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

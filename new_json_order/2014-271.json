@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-271",
+    "orderdatum": "13-08-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 743",
+      "postcode": "1615 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "66131410"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 478.47,
+        "btw_per_stuk": 100.48
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 361.65,
+        "btw_per_stuk": 75.95
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 216.39,
+        "btw_per_stuk": 45.44
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 402.65,
+        "btw_per_stuk": 84.56
+      }
+    ]
+  }
+}

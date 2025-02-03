@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-561",
+    "orderdatum": "13-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 906",
+      "postcode": "7851 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "88849271"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 150.95,
+        "btw_per_stuk": 31.7
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 277.65,
+        "btw_per_stuk": 58.31
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 124.33,
+        "btw_per_stuk": 26.11
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 294.36,
+        "btw_per_stuk": 61.82
+      }
+    ]
+  }
+}

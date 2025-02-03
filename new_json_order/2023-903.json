@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-903",
+    "orderdatum": "09-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 362",
+      "postcode": "6409 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "22845900"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 192.86,
+        "btw_per_stuk": 40.5
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 246.63,
+        "btw_per_stuk": 51.79
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 183.64,
+        "btw_per_stuk": 38.56
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 158.35,
+        "btw_per_stuk": 33.25
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 419.22,
+        "btw_per_stuk": 88.04
+      }
+    ]
+  }
+}

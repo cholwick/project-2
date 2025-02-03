@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-316",
+    "orderdatum": "19-10-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 905",
+      "postcode": "1891 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "22780137"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 321.08,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 216.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 272.47,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 449.12,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

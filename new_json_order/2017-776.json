@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-776",
+    "orderdatum": "02-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 14",
+      "postcode": "2746 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44070922"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 10.8,
+        "btw_per_stuk": 2.27
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 188.27,
+        "btw_per_stuk": 39.54
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 80.53,
+        "btw_per_stuk": 16.91
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 294.34,
+        "btw_per_stuk": 61.81
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-036",
+    "orderdatum": "10-01-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 734",
+      "postcode": "6651 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "94393292"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 114.73,
+        "btw_per_stuk": 24.09
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 462.46,
+        "btw_per_stuk": 97.12
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 59.52,
+        "btw_per_stuk": 12.5
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 155.29,
+        "btw_per_stuk": 32.61
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 427.39,
+        "btw_per_stuk": 89.75
+      }
+    ]
+  }
+}

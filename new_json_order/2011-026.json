@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-026",
+    "orderdatum": "06-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 650",
+      "postcode": "2021 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "51551181"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 412.34,
+        "btw_per_stuk": 86.59
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 418.82,
+        "btw_per_stuk": 87.95
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 406.03,
+        "btw_per_stuk": 85.27
+      }
+    ]
+  }
+}

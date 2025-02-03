@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-820",
+    "orderdatum": "04-11-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 844",
+      "postcode": "7487 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "41797902"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 17.31,
+        "btw_per_stuk": 3.64
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 20.72,
+        "btw_per_stuk": 4.35
+      }
+    ]
+  }
+}

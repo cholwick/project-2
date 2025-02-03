@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2001-619",
+    "orderdatum": "06-03-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 59",
+      "postcode": "8951 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "28065488"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 73.8,
+        "btw_per_stuk": 15.5
+      }
+    ]
+  }
+}

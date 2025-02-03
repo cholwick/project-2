@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-701",
+    "orderdatum": "28-09-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 637",
+      "postcode": "3134 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "55750001"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 443.82,
+        "btw_per_stuk": 93.2
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 36.15,
+        "btw_per_stuk": 7.59
+      }
+    ]
+  }
+}

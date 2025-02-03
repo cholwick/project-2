@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-645",
+    "orderdatum": "03-08-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 171",
+      "postcode": "8624 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "92573890"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 442.09,
+        "btw_per_stuk": 92.84
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 204.97,
+        "btw_per_stuk": 43.04
+      }
+    ]
+  }
+}

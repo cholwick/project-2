@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2020-314",
+    "orderdatum": "25-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 729",
+      "postcode": "8964 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "60689937"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 150.61,
+        "btw_per_stuk": 31.63
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 114.32,
+        "btw_per_stuk": 24.01
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 134.41,
+        "btw_per_stuk": 28.23
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 244.02,
+        "btw_per_stuk": 51.24
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 423.56,
+        "btw_per_stuk": 88.95
+      }
+    ]
+  }
+}

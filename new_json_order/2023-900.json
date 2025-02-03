@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2023-900",
+    "orderdatum": "23-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 740",
+      "postcode": "5387 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "81625944"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 173.12,
+        "btw_per_stuk": 36.36
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 23.6,
+        "btw_per_stuk": 4.96
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 493.45,
+        "btw_per_stuk": 103.62
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 132.79,
+        "btw_per_stuk": 27.89
+      }
+    ]
+  }
+}

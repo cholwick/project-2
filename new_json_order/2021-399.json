@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2021-399",
+    "orderdatum": "24-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 549",
+      "postcode": "4036 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "98746811"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 317.3,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 49.62,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 133.25,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 86.78,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

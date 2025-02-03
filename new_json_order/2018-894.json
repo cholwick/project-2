@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-894",
+    "orderdatum": "20-05-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 778",
+      "postcode": "1041 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "96124829"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 152.7,
+        "btw_per_stuk": 32.07
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 71.98,
+        "btw_per_stuk": 15.12
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 120.11,
+        "btw_per_stuk": 25.22
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 235.65,
+        "btw_per_stuk": 49.49
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 423.22,
+        "btw_per_stuk": 88.88
+      }
+    ]
+  }
+}

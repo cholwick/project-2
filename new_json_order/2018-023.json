@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-023",
+    "orderdatum": "16-03-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 455",
+      "postcode": "8647 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "54992149"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 348.06,
+        "btw_per_stuk": 73.09
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 159.84,
+        "btw_per_stuk": 33.57
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 224.82,
+        "btw_per_stuk": 47.21
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 214.98,
+        "btw_per_stuk": 45.15
+      }
+    ]
+  }
+}

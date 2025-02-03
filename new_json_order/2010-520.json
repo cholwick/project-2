@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2010-520",
+    "orderdatum": "14-08-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 11",
+      "postcode": "9064 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "58342856"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 305.3,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

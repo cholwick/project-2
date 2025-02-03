@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-569",
+    "orderdatum": "24-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 75",
+      "postcode": "8439 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "17031590"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 293.03,
+        "btw_per_stuk": 61.54
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 248.4,
+        "btw_per_stuk": 52.16
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 210.98,
+        "btw_per_stuk": 44.31
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 304.88,
+        "btw_per_stuk": 64.02
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 315.75,
+        "btw_per_stuk": 66.31
+      }
+    ]
+  }
+}

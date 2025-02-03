@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2017-246",
+    "orderdatum": "02-10-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 625",
+      "postcode": "5949 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18259475"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 87.72,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

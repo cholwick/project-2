@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-567",
+    "orderdatum": "04-11-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 172",
+      "postcode": "1123 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "17795943"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 276.79,
+        "btw_per_stuk": 58.13
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 451.1,
+        "btw_per_stuk": 94.73
+      }
+    ]
+  }
+}

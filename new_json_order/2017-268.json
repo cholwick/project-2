@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2017-268",
+    "orderdatum": "20-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 844",
+      "postcode": "1364 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "40155959"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 284.11,
+        "btw_per_stuk": 59.66
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 87.69,
+        "btw_per_stuk": 18.41
+      }
+    ]
+  }
+}

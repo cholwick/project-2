@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-992",
+    "orderdatum": "24-03-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 509",
+      "postcode": "2905 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "41255114"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 482.42,
+        "btw_per_stuk": 101.31
+      }
+    ]
+  }
+}

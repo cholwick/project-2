@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2000-255",
+    "orderdatum": "14-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 576",
+      "postcode": "5638 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "75086426"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 271.46,
+        "btw_per_stuk": 57.01
+      }
+    ]
+  }
+}

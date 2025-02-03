@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-772",
+    "orderdatum": "13-02-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 34",
+      "postcode": "8466 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "64426911"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 355.09,
+        "btw_per_stuk": 74.57
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 193.27,
+        "btw_per_stuk": 40.59
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 423.34,
+        "btw_per_stuk": 88.9
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 250.47,
+        "btw_per_stuk": 52.6
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 428.9,
+        "btw_per_stuk": 90.07
+      }
+    ]
+  }
+}

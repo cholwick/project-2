@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-109",
+    "orderdatum": "09-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 677",
+      "postcode": "9757 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "72335986"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 324.65,
+        "btw_per_stuk": 68.18
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 452.33,
+        "btw_per_stuk": 94.99
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 319.3,
+        "btw_per_stuk": 67.05
+      }
+    ]
+  }
+}

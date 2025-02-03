@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-863",
+    "orderdatum": "10-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 658",
+      "postcode": "1832 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "97669348"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 215.97,
+        "btw_per_stuk": 45.35
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 242.45,
+        "btw_per_stuk": 50.91
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 150.76,
+        "btw_per_stuk": 31.66
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 407.2,
+        "btw_per_stuk": 85.51
+      }
+    ]
+  }
+}

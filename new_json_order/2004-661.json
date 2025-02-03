@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2004-661",
+    "orderdatum": "15-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 801",
+      "postcode": "5653 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "64200858"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 149.9,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 149.98,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 305.09,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 297.46,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

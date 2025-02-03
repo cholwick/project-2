@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-302",
+    "orderdatum": "27-01-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 939",
+      "postcode": "6210 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "15640220"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 236.22,
+        "btw_per_stuk": 49.61
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 294.62,
+        "btw_per_stuk": 61.87
+      }
+    ]
+  }
+}

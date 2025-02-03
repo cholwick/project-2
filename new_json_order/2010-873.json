@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-873",
+    "orderdatum": "10-01-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 309",
+      "postcode": "3425 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "43903505"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 458.02,
+        "btw_per_stuk": 96.18
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 114.57,
+        "btw_per_stuk": 24.06
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 313.72,
+        "btw_per_stuk": 65.88
+      }
+    ]
+  }
+}

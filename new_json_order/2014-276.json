@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-276",
+    "orderdatum": "15-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 188",
+      "postcode": "9112 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "28155598"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 80.49,
+        "btw_per_stuk": 16.9
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 385.41,
+        "btw_per_stuk": 80.94
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 92.16,
+        "btw_per_stuk": 19.35
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 416.26,
+        "btw_per_stuk": 87.41
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 458.82,
+        "btw_per_stuk": 96.35
+      }
+    ]
+  }
+}

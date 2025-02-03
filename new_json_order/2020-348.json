@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-348",
+    "orderdatum": "24-12-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 680",
+      "postcode": "6373 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "73372666"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 409.57,
+        "btw_per_stuk": 86.01
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 316.38,
+        "btw_per_stuk": 66.44
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 470.77,
+        "btw_per_stuk": 98.86
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 428.92,
+        "btw_per_stuk": 90.07
+      }
+    ]
+  }
+}

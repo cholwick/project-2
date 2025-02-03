@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-826",
+    "orderdatum": "05-10-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 814",
+      "postcode": "9928 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27041889"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 33.39,
+        "btw_per_stuk": 7.01
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 99.7,
+        "btw_per_stuk": 20.94
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 483.57,
+        "btw_per_stuk": 101.55
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 28.03,
+        "btw_per_stuk": 5.89
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 261.75,
+        "btw_per_stuk": 54.97
+      }
+    ]
+  }
+}

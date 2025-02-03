@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-358",
+    "orderdatum": "11-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 197",
+      "postcode": "8197 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "47063919"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 385.29,
+        "btw_per_stuk": 80.91
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 60.56,
+        "btw_per_stuk": 12.72
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 259.75,
+        "btw_per_stuk": 54.55
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 294.63,
+        "btw_per_stuk": 61.87
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 131.22,
+        "btw_per_stuk": 27.56
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-111",
+    "orderdatum": "20-02-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 857",
+      "postcode": "5056 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "45269671"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 41.45,
+        "btw_per_stuk": 8.7
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 332.77,
+        "btw_per_stuk": 69.88
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 114.96,
+        "btw_per_stuk": 24.14
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 147.59,
+        "btw_per_stuk": 30.99
+      }
+    ]
+  }
+}

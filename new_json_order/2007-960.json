@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-960",
+    "orderdatum": "01-04-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 776",
+      "postcode": "4270 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "65041536"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 85.34,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 289.67,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 288.69,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

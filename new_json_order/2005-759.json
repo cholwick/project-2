@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-759",
+    "orderdatum": "11-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 791",
+      "postcode": "8294 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "34402911"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 250.2,
+        "btw_per_stuk": 52.54
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 232.74,
+        "btw_per_stuk": 48.88
+      }
+    ]
+  }
+}

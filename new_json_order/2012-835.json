@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-835",
+    "orderdatum": "16-02-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 409",
+      "postcode": "6315 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "49289143"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 429.74,
+        "btw_per_stuk": 90.25
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 251.86,
+        "btw_per_stuk": 52.89
+      }
+    ]
+  }
+}

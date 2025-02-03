@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-313",
+    "orderdatum": "01-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 626",
+      "postcode": "9379 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "39090530"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 306.71,
+        "btw_per_stuk": 64.41
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 447.94,
+        "btw_per_stuk": 94.07
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 391.02,
+        "btw_per_stuk": 82.11
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 498.0,
+        "btw_per_stuk": 104.58
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 407.13,
+        "btw_per_stuk": 85.5
+      }
+    ]
+  }
+}

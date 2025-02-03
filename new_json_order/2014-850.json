@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-850",
+    "orderdatum": "09-02-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 792",
+      "postcode": "1423 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "77565259"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 362.22,
+        "btw_per_stuk": 76.07
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 283.71,
+        "btw_per_stuk": 59.58
+      }
+    ]
+  }
+}

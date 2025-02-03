@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-433",
+    "orderdatum": "06-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 217",
+      "postcode": "7210 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "23748671"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 29.34,
+        "btw_per_stuk": 6.16
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 497.68,
+        "btw_per_stuk": 104.51
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 124.35,
+        "btw_per_stuk": 26.11
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 121.69,
+        "btw_per_stuk": 25.55
+      }
+    ]
+  }
+}

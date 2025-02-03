@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-665",
+    "orderdatum": "12-03-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 635",
+      "postcode": "6350 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "16069148"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 396.64,
+        "btw_per_stuk": 83.29
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 207.87,
+        "btw_per_stuk": 43.65
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 87.25,
+        "btw_per_stuk": 18.32
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 215.98,
+        "btw_per_stuk": 45.36
+      }
+    ]
+  }
+}

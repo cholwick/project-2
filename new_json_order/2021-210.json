@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-210",
+    "orderdatum": "28-01-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 742",
+      "postcode": "4158 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "15867597"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 189.84,
+        "btw_per_stuk": 39.87
+      }
+    ]
+  }
+}

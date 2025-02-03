@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2019-005",
+    "orderdatum": "14-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 784",
+      "postcode": "9543 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27487459"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 11.68,
+        "btw_per_stuk": 2.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-463",
+    "orderdatum": "01-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 404",
+      "postcode": "6488 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "12910683"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 272.89,
+        "btw_per_stuk": 57.31
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 261.47,
+        "btw_per_stuk": 54.91
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 147.92,
+        "btw_per_stuk": 31.06
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 102.98,
+        "btw_per_stuk": 21.63
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 106.33,
+        "btw_per_stuk": 22.33
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-142",
+    "orderdatum": "15-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 705",
+      "postcode": "3070 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "13296375"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 87.41,
+        "btw_per_stuk": 18.36
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 158.88,
+        "btw_per_stuk": 33.36
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 86.03,
+        "btw_per_stuk": 18.07
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 358.76,
+        "btw_per_stuk": 75.34
+      }
+    ]
+  }
+}

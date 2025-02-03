@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-510",
+    "orderdatum": "06-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 942",
+      "postcode": "3157 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "44274850"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 385.0,
+        "btw_per_stuk": 80.85
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 253.07,
+        "btw_per_stuk": 53.14
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 334.11,
+        "btw_per_stuk": 70.16
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 109.05,
+        "btw_per_stuk": 22.9
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 260.79,
+        "btw_per_stuk": 54.77
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-866",
+    "orderdatum": "23-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 11",
+      "postcode": "9422 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "17380469"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 331.63,
+        "btw_per_stuk": 69.64
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 131.41,
+        "btw_per_stuk": 27.6
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 241.88,
+        "btw_per_stuk": 50.79
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 291.59,
+        "btw_per_stuk": 61.23
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 12.16,
+        "btw_per_stuk": 2.55
+      }
+    ]
+  }
+}

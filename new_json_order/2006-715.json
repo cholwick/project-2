@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-715",
+    "orderdatum": "18-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 845",
+      "postcode": "5237 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "85757796"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 159.63,
+        "btw_per_stuk": 33.52
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 52.9,
+        "btw_per_stuk": 11.11
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 307.38,
+        "btw_per_stuk": 64.55
+      }
+    ]
+  }
+}

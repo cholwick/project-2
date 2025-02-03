@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2008-075",
+    "orderdatum": "24-12-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 655",
+      "postcode": "1871 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "76342892"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 472.2,
+        "btw_per_stuk": 99.16
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 395.12,
+        "btw_per_stuk": 82.98
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 418.86,
+        "btw_per_stuk": 87.96
+      }
+    ]
+  }
+}

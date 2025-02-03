@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-602",
+    "orderdatum": "03-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 488",
+      "postcode": "3297 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "32324446"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 13.9,
+        "btw_per_stuk": 2.92
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 495.78,
+        "btw_per_stuk": 104.11
+      }
+    ]
+  }
+}

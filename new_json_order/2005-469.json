@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-469",
+    "orderdatum": "15-12-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 254",
+      "postcode": "5171 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65605095"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 13.33,
+        "btw_per_stuk": 2.8
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 140.94,
+        "btw_per_stuk": 29.6
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 300.79,
+        "btw_per_stuk": 63.17
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 82.16,
+        "btw_per_stuk": 17.25
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 149.34,
+        "btw_per_stuk": 31.36
+      }
+    ]
+  }
+}

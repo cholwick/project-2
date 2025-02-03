@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-194",
+    "orderdatum": "07-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 747",
+      "postcode": "1407 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "22482645"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 220.98,
+        "btw_per_stuk": 46.41
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 415.31,
+        "btw_per_stuk": 87.22
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 12.03,
+        "btw_per_stuk": 2.53
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 377.82,
+        "btw_per_stuk": 79.34
+      }
+    ]
+  }
+}

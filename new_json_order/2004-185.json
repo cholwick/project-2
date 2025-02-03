@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2004-185",
+    "orderdatum": "06-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 936",
+      "postcode": "2419 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "81473509"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 462.87,
+        "btw_per_stuk": 97.2
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 233.4,
+        "btw_per_stuk": 49.01
+      }
+    ]
+  }
+}

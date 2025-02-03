@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-891",
+    "orderdatum": "14-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 597",
+      "postcode": "2674 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "57952306"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 475.81,
+        "btw_per_stuk": 99.92
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 488.84,
+        "btw_per_stuk": 102.66
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 85.49,
+        "btw_per_stuk": 17.95
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 230.37,
+        "btw_per_stuk": 48.38
+      }
+    ]
+  }
+}

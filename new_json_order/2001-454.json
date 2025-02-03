@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-454",
+    "orderdatum": "02-07-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 166",
+      "postcode": "5606 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "98431336"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 136.44,
+        "btw_per_stuk": 28.65
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 228.45,
+        "btw_per_stuk": 47.97
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 201.43,
+        "btw_per_stuk": 42.3
+      }
+    ]
+  }
+}

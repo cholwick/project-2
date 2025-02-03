@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-759",
+    "orderdatum": "07-02-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 377",
+      "postcode": "9255 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "58971670"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 469.13,
+        "btw_per_stuk": 98.52
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 97.9,
+        "btw_per_stuk": 20.56
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 446.46,
+        "btw_per_stuk": 93.76
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 16.94,
+        "btw_per_stuk": 3.56
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 430.04,
+        "btw_per_stuk": 90.31
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-388",
+    "orderdatum": "06-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 331",
+      "postcode": "2511 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "14161761"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 85.24,
+        "btw_per_stuk": 17.9
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 363.89,
+        "btw_per_stuk": 76.42
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 49.49,
+        "btw_per_stuk": 10.39
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 300.99,
+        "btw_per_stuk": 63.21
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 239.64,
+        "btw_per_stuk": 50.32
+      }
+    ]
+  }
+}

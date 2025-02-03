@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2003-697",
+    "orderdatum": "03-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 274",
+      "postcode": "4803 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "78259026"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 344.05,
+        "btw_per_stuk": 72.25
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 467.65,
+        "btw_per_stuk": 98.21
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 211.34,
+        "btw_per_stuk": 44.38
+      }
+    ]
+  }
+}

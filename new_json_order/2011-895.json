@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-895",
+    "orderdatum": "20-04-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 484",
+      "postcode": "1836 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "93439244"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 335.14,
+        "btw_per_stuk": 70.38
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 355.58,
+        "btw_per_stuk": 74.67
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 23.05,
+        "btw_per_stuk": 4.84
+      }
+    ]
+  }
+}

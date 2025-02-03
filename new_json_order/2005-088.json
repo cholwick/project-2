@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-088",
+    "orderdatum": "05-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 755",
+      "postcode": "9322 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52219711"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 390.75,
+        "btw_per_stuk": 82.06
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 68.54,
+        "btw_per_stuk": 14.39
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 103.79,
+        "btw_per_stuk": 21.8
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 95.05,
+        "btw_per_stuk": 19.96
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 171.47,
+        "btw_per_stuk": 36.01
+      }
+    ]
+  }
+}

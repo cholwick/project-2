@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-612",
+    "orderdatum": "01-02-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 906",
+      "postcode": "1778 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78151154"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 231.94,
+        "btw_per_stuk": 48.71
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 472.65,
+        "btw_per_stuk": 99.26
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 482.82,
+        "btw_per_stuk": 101.39
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 163.39,
+        "btw_per_stuk": 34.31
+      }
+    ]
+  }
+}

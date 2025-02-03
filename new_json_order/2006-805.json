@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-805",
+    "orderdatum": "09-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 341",
+      "postcode": "8696 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "17019297"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 268.08,
+        "btw_per_stuk": 56.3
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 129.95,
+        "btw_per_stuk": 27.29
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 10.99,
+        "btw_per_stuk": 2.31
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 119.37,
+        "btw_per_stuk": 25.07
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 245.64,
+        "btw_per_stuk": 51.58
+      }
+    ]
+  }
+}

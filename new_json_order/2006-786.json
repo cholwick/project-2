@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-786",
+    "orderdatum": "03-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 919",
+      "postcode": "5178 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "24516724"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 79.31,
+        "btw_per_stuk": 16.66
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 321.72,
+        "btw_per_stuk": 67.56
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 61.19,
+        "btw_per_stuk": 12.85
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 332.22,
+        "btw_per_stuk": 69.77
+      }
+    ]
+  }
+}

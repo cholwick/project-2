@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2024-460",
+    "orderdatum": "26-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 283",
+      "postcode": "5765 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "17787278"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 53.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 260.85,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 412.78,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

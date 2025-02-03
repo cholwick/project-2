@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-355",
+    "orderdatum": "26-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 796",
+      "postcode": "6560 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "61947046"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 137.23,
+        "btw_per_stuk": 28.82
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 153.61,
+        "btw_per_stuk": 32.26
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 367.61,
+        "btw_per_stuk": 77.2
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 73.41,
+        "btw_per_stuk": 15.42
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 73.38,
+        "btw_per_stuk": 15.41
+      }
+    ]
+  }
+}

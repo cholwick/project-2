@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2008-655",
+    "orderdatum": "20-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 327",
+      "postcode": "7514 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78543644"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 482.88,
+        "btw_per_stuk": 101.4
+      }
+    ]
+  }
+}

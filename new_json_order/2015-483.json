@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2015-483",
+    "orderdatum": "10-08-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 924",
+      "postcode": "2348 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "37458110"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 255.88,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-042",
+    "orderdatum": "09-11-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 145",
+      "postcode": "8589 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "28227473"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 221.97,
+        "btw_per_stuk": 46.61
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 310.08,
+        "btw_per_stuk": 65.12
+      }
+    ]
+  }
+}

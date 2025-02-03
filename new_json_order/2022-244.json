@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2022-244",
+    "orderdatum": "24-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 263",
+      "postcode": "1231 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "55164660"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 405.25,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 207.29,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-773",
+    "orderdatum": "24-09-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 119",
+      "postcode": "4593 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "30316035"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 486.01,
+        "btw_per_stuk": 102.06
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 28.91,
+        "btw_per_stuk": 6.07
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 196.76,
+        "btw_per_stuk": 41.32
+      }
+    ]
+  }
+}

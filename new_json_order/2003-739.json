@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2003-739",
+    "orderdatum": "09-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 334",
+      "postcode": "2946 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "62889268"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 159.8,
+        "btw_per_stuk": 33.56
+      }
+    ]
+  }
+}

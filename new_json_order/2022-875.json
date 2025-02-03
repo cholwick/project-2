@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-875",
+    "orderdatum": "01-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 761",
+      "postcode": "9997 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "39441775"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 454.08,
+        "btw_per_stuk": 95.36
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 198.4,
+        "btw_per_stuk": 41.66
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 473.07,
+        "btw_per_stuk": 99.34
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 285.78,
+        "btw_per_stuk": 60.01
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 112.89,
+        "btw_per_stuk": 23.71
+      }
+    ]
+  }
+}

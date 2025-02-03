@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2022-377",
+    "orderdatum": "16-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 20",
+      "postcode": "5950 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "77298723"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 440.58,
+        "btw_per_stuk": 92.52
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 284.4,
+        "btw_per_stuk": 59.72
+      }
+    ]
+  }
+}

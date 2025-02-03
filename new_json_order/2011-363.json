@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-363",
+    "orderdatum": "23-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 71",
+      "postcode": "8379 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "74848720"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 148.39,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 286.76,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

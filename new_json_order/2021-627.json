@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2021-627",
+    "orderdatum": "11-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 469",
+      "postcode": "4878 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "50502792"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 155.14,
+        "btw_per_stuk": 32.58
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 33.2,
+        "btw_per_stuk": 6.97
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 410.8,
+        "btw_per_stuk": 86.27
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 13.3,
+        "btw_per_stuk": 2.79
+      }
+    ]
+  }
+}

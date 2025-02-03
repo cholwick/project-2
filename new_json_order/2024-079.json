@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-079",
+    "orderdatum": "02-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 835",
+      "postcode": "3202 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "49598905"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 372.46,
+        "btw_per_stuk": 78.22
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 231.78,
+        "btw_per_stuk": 48.67
+      }
+    ]
+  }
+}

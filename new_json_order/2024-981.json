@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2024-981",
+    "orderdatum": "11-06-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 659",
+      "postcode": "2831 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "82986521"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 305.85,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 169.41,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 389.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 159.28,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

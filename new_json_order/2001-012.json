@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-012",
+    "orderdatum": "05-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 92",
+      "postcode": "2247 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "19491614"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 205.86,
+        "btw_per_stuk": 43.23
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 47.43,
+        "btw_per_stuk": 9.96
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 452.08,
+        "btw_per_stuk": 94.94
+      }
+    ]
+  }
+}

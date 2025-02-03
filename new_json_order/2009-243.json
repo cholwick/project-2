@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-243",
+    "orderdatum": "03-05-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 820",
+      "postcode": "8597 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "15955540"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 432.04,
+        "btw_per_stuk": 90.73
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 204.5,
+        "btw_per_stuk": 42.95
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 316.91,
+        "btw_per_stuk": 66.55
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 494.24,
+        "btw_per_stuk": 103.79
+      }
+    ]
+  }
+}

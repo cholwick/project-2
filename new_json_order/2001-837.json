@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-837",
+    "orderdatum": "09-08-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 701",
+      "postcode": "7499 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "49063448"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 245.15,
+        "btw_per_stuk": 51.48
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 418.53,
+        "btw_per_stuk": 87.89
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 401.25,
+        "btw_per_stuk": 84.26
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 52.36,
+        "btw_per_stuk": 11.0
+      }
+    ]
+  }
+}

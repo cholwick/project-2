@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-558",
+    "orderdatum": "16-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 286",
+      "postcode": "8366 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "29034152"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 473.91,
+        "btw_per_stuk": 99.52
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 73.98,
+        "btw_per_stuk": 15.54
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 226.2,
+        "btw_per_stuk": 47.5
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 166.91,
+        "btw_per_stuk": 35.05
+      }
+    ]
+  }
+}

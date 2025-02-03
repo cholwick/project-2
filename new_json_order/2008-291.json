@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2008-291",
+    "orderdatum": "05-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 380",
+      "postcode": "4023 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "26533655"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 494.91,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

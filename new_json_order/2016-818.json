@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-818",
+    "orderdatum": "08-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 26",
+      "postcode": "9371 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "15262291"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 202.18,
+        "btw_per_stuk": 42.46
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 478.3,
+        "btw_per_stuk": 100.44
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-579",
+    "orderdatum": "08-12-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 196",
+      "postcode": "3301 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "20956568"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 143.27,
+        "btw_per_stuk": 30.09
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 157.63,
+        "btw_per_stuk": 33.1
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 375.54,
+        "btw_per_stuk": 78.86
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 410.03,
+        "btw_per_stuk": 86.11
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 99.42,
+        "btw_per_stuk": 20.88
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-296",
+    "orderdatum": "14-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 270",
+      "postcode": "2514 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "78619049"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 433.66,
+        "btw_per_stuk": 91.07
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 146.53,
+        "btw_per_stuk": 30.77
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 390.2,
+        "btw_per_stuk": 81.94
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 288.09,
+        "btw_per_stuk": 60.5
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 200.73,
+        "btw_per_stuk": 42.15
+      }
+    ]
+  }
+}

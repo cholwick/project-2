@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-070",
+    "orderdatum": "13-04-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 673",
+      "postcode": "7457 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44959109"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 305.96,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 22.03,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 372.75,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

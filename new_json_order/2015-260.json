@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2015-260",
+    "orderdatum": "25-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 407",
+      "postcode": "7937 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "98482792"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 394.36,
+        "btw_per_stuk": 82.82
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 423.74,
+        "btw_per_stuk": 88.99
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 342.2,
+        "btw_per_stuk": 71.86
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 336.82,
+        "btw_per_stuk": 70.73
+      }
+    ]
+  }
+}

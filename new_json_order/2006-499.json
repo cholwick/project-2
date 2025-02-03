@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-499",
+    "orderdatum": "28-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 922",
+      "postcode": "3715 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "80287377"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 108.3,
+        "btw_per_stuk": 22.74
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 69.27,
+        "btw_per_stuk": 14.55
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 489.44,
+        "btw_per_stuk": 102.78
+      }
+    ]
+  }
+}

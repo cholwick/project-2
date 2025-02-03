@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-795",
+    "orderdatum": "18-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 548",
+      "postcode": "3663 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "18124014"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 162.14,
+        "btw_per_stuk": 34.05
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 331.55,
+        "btw_per_stuk": 69.63
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 92.31,
+        "btw_per_stuk": 19.39
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 371.19,
+        "btw_per_stuk": 77.95
+      }
+    ]
+  }
+}

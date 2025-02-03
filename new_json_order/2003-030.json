@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-030",
+    "orderdatum": "07-07-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 74",
+      "postcode": "1841 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "15064049"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 419.94,
+        "btw_per_stuk": 88.19
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 457.66,
+        "btw_per_stuk": 96.11
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 252.62,
+        "btw_per_stuk": 53.05
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 93.68,
+        "btw_per_stuk": 19.67
+      }
+    ]
+  }
+}

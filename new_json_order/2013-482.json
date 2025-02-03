@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-482",
+    "orderdatum": "12-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 307",
+      "postcode": "2929 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "62314474"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 225.48,
+        "btw_per_stuk": 47.35
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 192.15,
+        "btw_per_stuk": 40.35
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 136.7,
+        "btw_per_stuk": 28.71
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 419.99,
+        "btw_per_stuk": 88.2
+      }
+    ]
+  }
+}

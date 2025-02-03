@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2022-370",
+    "orderdatum": "07-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 930",
+      "postcode": "7426 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91797763"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 330.73,
+        "btw_per_stuk": 69.45
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 395.63,
+        "btw_per_stuk": 83.08
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 49.77,
+        "btw_per_stuk": 10.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-139",
+    "orderdatum": "05-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 392",
+      "postcode": "3715 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "49166628"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 391.71,
+        "btw_per_stuk": 82.26
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 264.23,
+        "btw_per_stuk": 55.49
+      }
+    ]
+  }
+}

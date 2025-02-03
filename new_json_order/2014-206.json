@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-206",
+    "orderdatum": "18-05-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 408",
+      "postcode": "4401 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "12574971"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 104.14,
+        "btw_per_stuk": 21.87
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 160.32,
+        "btw_per_stuk": 33.67
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 485.6,
+        "btw_per_stuk": 101.98
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 480.7,
+        "btw_per_stuk": 100.95
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 14.27,
+        "btw_per_stuk": 3.0
+      }
+    ]
+  }
+}

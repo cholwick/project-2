@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2016-924",
+    "orderdatum": "14-10-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 236",
+      "postcode": "7136 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "23280886"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 123.48,
+        "btw_per_stuk": 25.93
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 12.53,
+        "btw_per_stuk": 2.63
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 395.39,
+        "btw_per_stuk": 83.03
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 197.02,
+        "btw_per_stuk": 41.37
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 139.1,
+        "btw_per_stuk": 29.21
+      }
+    ]
+  }
+}

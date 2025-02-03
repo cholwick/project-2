@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2009-528",
+    "orderdatum": "10-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 404",
+      "postcode": "9997 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "43180760"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 238.78,
+        "btw_per_stuk": 50.14
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 99.03,
+        "btw_per_stuk": 20.8
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 399.58,
+        "btw_per_stuk": 83.91
+      }
+    ]
+  }
+}

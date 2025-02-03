@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-213",
+    "orderdatum": "28-02-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 805",
+      "postcode": "1368 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "64672372"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 14.65,
+        "btw_per_stuk": 3.08
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 496.29,
+        "btw_per_stuk": 104.22
+      }
+    ]
+  }
+}

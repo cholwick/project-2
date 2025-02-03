@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-530",
+    "orderdatum": "17-04-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 157",
+      "postcode": "1510 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "99118012"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 246.57,
+        "btw_per_stuk": 51.78
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 492.28,
+        "btw_per_stuk": 103.38
+      }
+    ]
+  }
+}

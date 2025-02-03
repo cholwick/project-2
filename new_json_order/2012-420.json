@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2012-420",
+    "orderdatum": "10-01-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 739",
+      "postcode": "4282 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "86746445"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 426.38,
+        "btw_per_stuk": 89.54
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 428.69,
+        "btw_per_stuk": 90.02
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 28.39,
+        "btw_per_stuk": 5.96
+      }
+    ]
+  }
+}

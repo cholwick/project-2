@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-548",
+    "orderdatum": "27-01-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 708",
+      "postcode": "3984 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "25765162"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 244.93,
+        "btw_per_stuk": 51.44
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 207.44,
+        "btw_per_stuk": 43.56
+      }
+    ]
+  }
+}

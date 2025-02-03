@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-060",
+    "orderdatum": "18-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 759",
+      "postcode": "6320 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "56272067"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 208.29,
+        "btw_per_stuk": 43.74
+      }
+    ]
+  }
+}

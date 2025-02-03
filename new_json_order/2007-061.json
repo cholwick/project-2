@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2007-061",
+    "orderdatum": "08-10-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 687",
+      "postcode": "2390 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "12653982"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 471.98,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

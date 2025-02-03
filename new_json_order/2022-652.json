@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2022-652",
+    "orderdatum": "10-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 393",
+      "postcode": "4419 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "51109912"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 399.91,
+        "btw_per_stuk": 83.98
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 214.41,
+        "btw_per_stuk": 45.03
+      }
+    ]
+  }
+}

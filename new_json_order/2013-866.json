@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2013-866",
+    "orderdatum": "03-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 529",
+      "postcode": "8240 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "18466086"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 173.61,
+        "btw_per_stuk": 36.46
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 245.2,
+        "btw_per_stuk": 51.49
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 55.83,
+        "btw_per_stuk": 11.72
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 213.59,
+        "btw_per_stuk": 44.85
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 171.94,
+        "btw_per_stuk": 36.11
+      }
+    ]
+  }
+}

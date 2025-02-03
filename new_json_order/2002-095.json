@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-095",
+    "orderdatum": "27-02-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 792",
+      "postcode": "4247 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "67838396"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 249.13,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 400.2,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

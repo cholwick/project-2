@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-299",
+    "orderdatum": "12-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 230",
+      "postcode": "4506 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "16111602"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 284.57,
+        "btw_per_stuk": 59.76
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 349.77,
+        "btw_per_stuk": 73.45
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 157.81,
+        "btw_per_stuk": 33.14
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 54.32,
+        "btw_per_stuk": 11.41
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 332.69,
+        "btw_per_stuk": 69.86
+      }
+    ]
+  }
+}

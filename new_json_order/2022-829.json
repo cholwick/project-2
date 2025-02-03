@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-829",
+    "orderdatum": "26-11-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 659",
+      "postcode": "8245 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "63458939"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 488.97,
+        "btw_per_stuk": 102.68
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 31.52,
+        "btw_per_stuk": 6.62
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 150.52,
+        "btw_per_stuk": 31.61
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 261.2,
+        "btw_per_stuk": 54.85
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 441.95,
+        "btw_per_stuk": 92.81
+      }
+    ]
+  }
+}

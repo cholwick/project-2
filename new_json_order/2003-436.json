@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-436",
+    "orderdatum": "20-03-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 265",
+      "postcode": "3067 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "85861613"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 331.97,
+        "btw_per_stuk": 69.71
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 339.34,
+        "btw_per_stuk": 71.26
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 206.73,
+        "btw_per_stuk": 43.41
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 104.53,
+        "btw_per_stuk": 21.95
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 304.55,
+        "btw_per_stuk": 63.96
+      }
+    ]
+  }
+}

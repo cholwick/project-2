@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2018-965",
+    "orderdatum": "10-05-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 374",
+      "postcode": "5344 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "98719705"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 200.28,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 124.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 418.33,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

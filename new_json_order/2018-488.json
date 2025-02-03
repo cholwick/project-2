@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-488",
+    "orderdatum": "28-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 162",
+      "postcode": "5132 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "58108494"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 379.85,
+        "btw_per_stuk": 79.77
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 379.28,
+        "btw_per_stuk": 79.65
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 480.44,
+        "btw_per_stuk": 100.89
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 470.42,
+        "btw_per_stuk": 98.79
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-689",
+    "orderdatum": "02-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 653",
+      "postcode": "2105 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "54508106"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 225.26,
+        "btw_per_stuk": 47.3
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 243.27,
+        "btw_per_stuk": 51.09
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 489.15,
+        "btw_per_stuk": 102.72
+      }
+    ]
+  }
+}

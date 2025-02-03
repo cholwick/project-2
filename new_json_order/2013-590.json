@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-590",
+    "orderdatum": "06-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 208",
+      "postcode": "4899 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "56148192"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 41.76,
+        "btw_per_stuk": 8.77
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 476.92,
+        "btw_per_stuk": 100.15
+      }
+    ]
+  }
+}

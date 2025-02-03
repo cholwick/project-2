@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-205",
+    "orderdatum": "17-01-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 634",
+      "postcode": "6487 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "59558216"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 204.8,
+        "btw_per_stuk": 43.01
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 408.04,
+        "btw_per_stuk": 85.69
+      }
+    ]
+  }
+}

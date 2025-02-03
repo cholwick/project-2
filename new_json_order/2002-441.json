@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-441",
+    "orderdatum": "19-01-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 404",
+      "postcode": "1200 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "58798541"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 18.69,
+        "btw_per_stuk": 3.92
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 49.29,
+        "btw_per_stuk": 10.35
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 33.91,
+        "btw_per_stuk": 7.12
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 329.63,
+        "btw_per_stuk": 69.22
+      }
+    ]
+  }
+}

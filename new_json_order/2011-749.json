@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2011-749",
+    "orderdatum": "13-08-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 693",
+      "postcode": "5462 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "39115673"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 71.45,
+        "btw_per_stuk": 15.0
+      }
+    ]
+  }
+}

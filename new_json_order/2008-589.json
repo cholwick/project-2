@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-589",
+    "orderdatum": "11-11-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 214",
+      "postcode": "8116 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "56622696"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 418.56,
+        "btw_per_stuk": 87.9
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 487.22,
+        "btw_per_stuk": 102.32
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 271.57,
+        "btw_per_stuk": 57.03
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 216.24,
+        "btw_per_stuk": 45.41
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 186.03,
+        "btw_per_stuk": 39.07
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-288",
+    "orderdatum": "22-01-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 316",
+      "postcode": "8241 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "43299734"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 149.94,
+        "btw_per_stuk": 31.49
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 172.0,
+        "btw_per_stuk": 36.12
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 302.56,
+        "btw_per_stuk": 63.54
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 204.81,
+        "btw_per_stuk": 43.01
+      }
+    ]
+  }
+}

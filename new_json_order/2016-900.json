@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-900",
+    "orderdatum": "14-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 499",
+      "postcode": "6880 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31668607"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 491.95,
+        "btw_per_stuk": 103.31
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 29.86,
+        "btw_per_stuk": 6.27
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 200.88,
+        "btw_per_stuk": 42.18
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 446.04,
+        "btw_per_stuk": 93.67
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-173",
+    "orderdatum": "24-12-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 708",
+      "postcode": "2647 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "41412709"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 296.54,
+        "btw_per_stuk": 62.27
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 188.94,
+        "btw_per_stuk": 39.68
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 422.02,
+        "btw_per_stuk": 88.62
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 383.18,
+        "btw_per_stuk": 80.47
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 369.08,
+        "btw_per_stuk": 77.51
+      }
+    ]
+  }
+}

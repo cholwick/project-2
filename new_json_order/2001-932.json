@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-932",
+    "orderdatum": "21-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 674",
+      "postcode": "2354 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "62703185"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 317.69,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 353.33,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

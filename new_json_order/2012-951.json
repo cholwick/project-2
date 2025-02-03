@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-951",
+    "orderdatum": "27-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 400",
+      "postcode": "3724 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "32927015"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 349.42,
+        "btw_per_stuk": 73.38
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 246.82,
+        "btw_per_stuk": 51.83
+      }
+    ]
+  }
+}

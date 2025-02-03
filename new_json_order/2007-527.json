@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-527",
+    "orderdatum": "04-01-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 717",
+      "postcode": "1064 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "74985523"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 305.15,
+        "btw_per_stuk": 64.08
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 143.75,
+        "btw_per_stuk": 30.19
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 173.33,
+        "btw_per_stuk": 36.4
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 127.68,
+        "btw_per_stuk": 26.81
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-773",
+    "orderdatum": "21-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 306",
+      "postcode": "2864 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27904951"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 389.87,
+        "btw_per_stuk": 81.87
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 22.8,
+        "btw_per_stuk": 4.79
+      }
+    ]
+  }
+}

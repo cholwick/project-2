@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-537",
+    "orderdatum": "20-10-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 609",
+      "postcode": "9579 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "44388325"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 174.01,
+        "btw_per_stuk": 36.54
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 42.57,
+        "btw_per_stuk": 8.94
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 165.56,
+        "btw_per_stuk": 34.77
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 209.33,
+        "btw_per_stuk": 43.96
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 22.28,
+        "btw_per_stuk": 4.68
+      }
+    ]
+  }
+}

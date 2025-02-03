@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2001-220",
+    "orderdatum": "02-09-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 342",
+      "postcode": "6051 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "95179764"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 210.75,
+        "btw_per_stuk": 44.26
+      }
+    ]
+  }
+}

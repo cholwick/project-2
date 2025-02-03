@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-920",
+    "orderdatum": "08-01-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 313",
+      "postcode": "1965 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "16884482"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 23.33,
+        "btw_per_stuk": 4.9
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 58.35,
+        "btw_per_stuk": 12.25
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 232.35,
+        "btw_per_stuk": 48.79
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 268.07,
+        "btw_per_stuk": 56.29
+      }
+    ]
+  }
+}

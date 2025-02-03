@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-244",
+    "orderdatum": "23-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 101",
+      "postcode": "6422 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "24072507"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 499.31,
+        "btw_per_stuk": 104.86
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 245.64,
+        "btw_per_stuk": 51.58
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 67.56,
+        "btw_per_stuk": 14.19
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 444.82,
+        "btw_per_stuk": 93.41
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 254.88,
+        "btw_per_stuk": 53.52
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2000-353",
+    "orderdatum": "18-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 119",
+      "postcode": "3495 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "98536927"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 228.44,
+        "btw_per_stuk": 47.97
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 198.18,
+        "btw_per_stuk": 41.62
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 127.88,
+        "btw_per_stuk": 26.85
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 265.64,
+        "btw_per_stuk": 55.78
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 470.12,
+        "btw_per_stuk": 98.73
+      }
+    ]
+  }
+}

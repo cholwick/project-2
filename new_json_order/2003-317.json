@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-317",
+    "orderdatum": "17-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 674",
+      "postcode": "3129 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "54941683"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 341.98,
+        "btw_per_stuk": 71.82
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 336.67,
+        "btw_per_stuk": 70.7
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 304.78,
+        "btw_per_stuk": 64.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 143.22,
+        "btw_per_stuk": 30.08
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 383.28,
+        "btw_per_stuk": 80.49
+      }
+    ]
+  }
+}

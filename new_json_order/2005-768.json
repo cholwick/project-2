@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-768",
+    "orderdatum": "10-09-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 497",
+      "postcode": "7635 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "22155300"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 492.72,
+        "btw_per_stuk": 103.47
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 153.78,
+        "btw_per_stuk": 32.29
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 375.18,
+        "btw_per_stuk": 78.79
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 373.3,
+        "btw_per_stuk": 78.39
+      }
+    ]
+  }
+}

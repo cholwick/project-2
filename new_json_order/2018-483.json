@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-483",
+    "orderdatum": "04-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 627",
+      "postcode": "5486 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "15050044"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 425.58,
+        "btw_per_stuk": 89.37
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 369.8,
+        "btw_per_stuk": 77.66
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 111.54,
+        "btw_per_stuk": 23.42
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 232.33,
+        "btw_per_stuk": 48.79
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 229.22,
+        "btw_per_stuk": 48.14
+      }
+    ]
+  }
+}

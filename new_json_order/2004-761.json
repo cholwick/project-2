@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2004-761",
+    "orderdatum": "20-12-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 443",
+      "postcode": "2700 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "56142425"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 416.4,
+        "btw_per_stuk": 87.44
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 265.68,
+        "btw_per_stuk": 55.79
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 297.18,
+        "btw_per_stuk": 62.41
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 272.77,
+        "btw_per_stuk": 57.28
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 373.94,
+        "btw_per_stuk": 78.53
+      }
+    ]
+  }
+}

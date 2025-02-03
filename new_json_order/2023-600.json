@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-600",
+    "orderdatum": "28-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 650",
+      "postcode": "6440 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "88391909"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 300.5,
+        "btw_per_stuk": 63.1
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 131.45,
+        "btw_per_stuk": 27.6
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 303.03,
+        "btw_per_stuk": 63.64
+      }
+    ]
+  }
+}

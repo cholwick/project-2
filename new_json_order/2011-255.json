@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-255",
+    "orderdatum": "19-07-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 91",
+      "postcode": "1086 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "26817740"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 142.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 285.54,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 366.58,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

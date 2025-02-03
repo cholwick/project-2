@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-246",
+    "orderdatum": "06-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 857",
+      "postcode": "7135 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "21334557"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 203.99,
+        "btw_per_stuk": 42.84
+      }
+    ]
+  }
+}

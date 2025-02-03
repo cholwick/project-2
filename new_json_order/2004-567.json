@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2004-567",
+    "orderdatum": "08-05-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 972",
+      "postcode": "3888 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "42644566"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 323.68,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 72.75,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

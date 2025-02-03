@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-279",
+    "orderdatum": "19-02-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 470",
+      "postcode": "9323 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "18536705"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 278.38,
+        "btw_per_stuk": 58.46
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 103.77,
+        "btw_per_stuk": 21.79
+      }
+    ]
+  }
+}

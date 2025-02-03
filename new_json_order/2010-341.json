@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-341",
+    "orderdatum": "09-01-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 433",
+      "postcode": "3254 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "71604250"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 89.01,
+        "btw_per_stuk": 18.69
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 86.56,
+        "btw_per_stuk": 18.18
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 114.8,
+        "btw_per_stuk": 24.11
+      }
+    ]
+  }
+}

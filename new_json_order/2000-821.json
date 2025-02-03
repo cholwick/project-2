@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2000-821",
+    "orderdatum": "25-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 392",
+      "postcode": "3288 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "74472845"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 50.42,
+        "btw_per_stuk": 10.59
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 496.22,
+        "btw_per_stuk": 104.21
+      }
+    ]
+  }
+}

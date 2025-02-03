@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-712",
+    "orderdatum": "28-09-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 439",
+      "postcode": "1273 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "65659026"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 263.91,
+        "btw_per_stuk": 55.42
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 455.87,
+        "btw_per_stuk": 95.73
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 149.51,
+        "btw_per_stuk": 31.4
+      }
+    ]
+  }
+}

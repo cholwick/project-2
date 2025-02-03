@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-781",
+    "orderdatum": "11-10-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 203",
+      "postcode": "6075 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "14719694"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 360.17,
+        "btw_per_stuk": 75.64
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 335.43,
+        "btw_per_stuk": 70.44
+      }
+    ]
+  }
+}

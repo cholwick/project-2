@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-399",
+    "orderdatum": "13-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 245",
+      "postcode": "1307 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "26361203"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 207.07,
+        "btw_per_stuk": 43.48
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 159.93,
+        "btw_per_stuk": 33.59
+      }
+    ]
+  }
+}

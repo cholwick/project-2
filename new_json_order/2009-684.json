@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2009-684",
+    "orderdatum": "12-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 133",
+      "postcode": "4801 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "64100639"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 82.28,
+        "btw_per_stuk": 17.28
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 431.37,
+        "btw_per_stuk": 90.59
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 353.2,
+        "btw_per_stuk": 74.17
+      }
+    ]
+  }
+}

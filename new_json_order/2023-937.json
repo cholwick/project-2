@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-937",
+    "orderdatum": "16-02-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 439",
+      "postcode": "9094 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52433462"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 342.64,
+        "btw_per_stuk": 71.95
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 288.14,
+        "btw_per_stuk": 60.51
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 164.09,
+        "btw_per_stuk": 34.46
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-276",
+    "orderdatum": "16-07-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 225",
+      "postcode": "5410 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "11022834"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 21.76,
+        "btw_per_stuk": 4.57
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 64.66,
+        "btw_per_stuk": 13.58
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 429.0,
+        "btw_per_stuk": 90.09
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 365.13,
+        "btw_per_stuk": 76.68
+      }
+    ]
+  }
+}

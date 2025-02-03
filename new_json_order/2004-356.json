@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2004-356",
+    "orderdatum": "24-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 841",
+      "postcode": "6711 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "85251945"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 283.35,
+        "btw_per_stuk": 59.5
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 143.54,
+        "btw_per_stuk": 30.14
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 488.04,
+        "btw_per_stuk": 102.49
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 118.64,
+        "btw_per_stuk": 24.91
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 285.89,
+        "btw_per_stuk": 60.04
+      }
+    ]
+  }
+}

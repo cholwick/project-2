@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2020-228",
+    "orderdatum": "12-02-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 688",
+      "postcode": "3672 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "10015637"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 449.09,
+        "btw_per_stuk": 94.31
+      }
+    ]
+  }
+}

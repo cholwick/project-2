@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-690",
+    "orderdatum": "23-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 90",
+      "postcode": "7544 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "16811833"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 43.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 75.58,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

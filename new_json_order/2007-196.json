@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-196",
+    "orderdatum": "16-12-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 502",
+      "postcode": "5828 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "92137026"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 42.73,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 176.39,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

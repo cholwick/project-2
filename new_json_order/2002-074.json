@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-074",
+    "orderdatum": "02-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 535",
+      "postcode": "8402 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "78262336"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 24.55,
+        "btw_per_stuk": 5.16
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 125.05,
+        "btw_per_stuk": 26.26
+      }
+    ]
+  }
+}

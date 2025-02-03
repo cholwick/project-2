@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2021-812",
+    "orderdatum": "25-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 85",
+      "postcode": "8076 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31073379"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 330.8,
+        "btw_per_stuk": 69.47
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 228.98,
+        "btw_per_stuk": 48.09
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 40.55,
+        "btw_per_stuk": 8.52
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 183.48,
+        "btw_per_stuk": 38.53
+      }
+    ]
+  }
+}

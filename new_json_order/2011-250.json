@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-250",
+    "orderdatum": "17-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 26",
+      "postcode": "1376 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "38971162"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 288.97,
+        "btw_per_stuk": 60.68
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 220.32,
+        "btw_per_stuk": 46.27
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 14.85,
+        "btw_per_stuk": 3.12
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 265.24,
+        "btw_per_stuk": 55.7
+      }
+    ]
+  }
+}

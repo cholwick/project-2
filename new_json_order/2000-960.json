@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-960",
+    "orderdatum": "01-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 308",
+      "postcode": "2634 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "69369670"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 389.95,
+        "btw_per_stuk": 81.89
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 377.98,
+        "btw_per_stuk": 79.38
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 156.62,
+        "btw_per_stuk": 32.89
+      }
+    ]
+  }
+}

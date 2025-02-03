@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-821",
+    "orderdatum": "28-04-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 320",
+      "postcode": "9756 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "79504279"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 422.19,
+        "btw_per_stuk": 88.66
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 460.94,
+        "btw_per_stuk": 96.8
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 141.96,
+        "btw_per_stuk": 29.81
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 224.1,
+        "btw_per_stuk": 47.06
+      }
+    ]
+  }
+}

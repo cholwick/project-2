@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-093",
+    "orderdatum": "08-05-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 406",
+      "postcode": "3225 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "83875361"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 198.93,
+        "btw_per_stuk": 41.78
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 377.25,
+        "btw_per_stuk": 79.22
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 294.16,
+        "btw_per_stuk": 61.77
+      }
+    ]
+  }
+}

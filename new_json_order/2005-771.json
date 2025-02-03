@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-771",
+    "orderdatum": "14-01-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 706",
+      "postcode": "8505 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "94660546"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 92.17,
+        "btw_per_stuk": 19.36
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 232.62,
+        "btw_per_stuk": 48.85
+      }
+    ]
+  }
+}

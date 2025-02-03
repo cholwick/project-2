@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-491",
+    "orderdatum": "17-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 394",
+      "postcode": "2147 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "16750161"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 179.68,
+        "btw_per_stuk": 37.73
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 384.99,
+        "btw_per_stuk": 80.85
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 482.83,
+        "btw_per_stuk": 101.39
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 399.76,
+        "btw_per_stuk": 83.95
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 285.95,
+        "btw_per_stuk": 60.05
+      }
+    ]
+  }
+}

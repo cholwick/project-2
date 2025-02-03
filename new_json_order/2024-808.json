@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2024-808",
+    "orderdatum": "22-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 812",
+      "postcode": "5828 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "62018173"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 364.0,
+        "btw_per_stuk": 76.44
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 335.27,
+        "btw_per_stuk": 70.41
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 445.48,
+        "btw_per_stuk": 93.55
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 254.15,
+        "btw_per_stuk": 53.37
+      }
+    ]
+  }
+}

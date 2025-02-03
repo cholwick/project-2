@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2011-049",
+    "orderdatum": "18-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 737",
+      "postcode": "1390 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "28876546"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 326.08,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

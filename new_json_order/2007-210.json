@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-210",
+    "orderdatum": "25-01-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 114",
+      "postcode": "7986 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "24095053"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 141.52,
+        "btw_per_stuk": 29.72
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 264.48,
+        "btw_per_stuk": 55.54
+      }
+    ]
+  }
+}

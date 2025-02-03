@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-161",
+    "orderdatum": "26-01-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 928",
+      "postcode": "1918 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "96895126"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 132.91,
+        "btw_per_stuk": 27.91
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 40.4,
+        "btw_per_stuk": 8.48
+      }
+    ]
+  }
+}

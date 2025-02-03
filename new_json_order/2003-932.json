@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2003-932",
+    "orderdatum": "18-05-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 31",
+      "postcode": "9790 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "99654950"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 337.01,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 271.55,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 275.23,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-547",
+    "orderdatum": "14-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 197",
+      "postcode": "5811 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "75378802"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 163.48,
+        "btw_per_stuk": 34.33
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 437.98,
+        "btw_per_stuk": 91.98
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 174.23,
+        "btw_per_stuk": 36.59
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 87.67,
+        "btw_per_stuk": 18.41
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 446.16,
+        "btw_per_stuk": 93.69
+      }
+    ]
+  }
+}

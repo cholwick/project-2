@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-388",
+    "orderdatum": "06-04-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 465",
+      "postcode": "9282 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "41910998"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 22.49,
+        "btw_per_stuk": 4.72
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 200.72,
+        "btw_per_stuk": 42.15
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 131.55,
+        "btw_per_stuk": 27.63
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 325.1,
+        "btw_per_stuk": 68.27
+      }
+    ]
+  }
+}

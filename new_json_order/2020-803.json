@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2020-803",
+    "orderdatum": "07-03-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 941",
+      "postcode": "8009 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52364738"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 426.27,
+        "btw_per_stuk": 89.52
+      }
+    ]
+  }
+}

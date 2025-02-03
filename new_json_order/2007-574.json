@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-574",
+    "orderdatum": "20-07-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 932",
+      "postcode": "5288 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31225408"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 323.04,
+        "btw_per_stuk": 67.84
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 299.97,
+        "btw_per_stuk": 62.99
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 272.51,
+        "btw_per_stuk": 57.23
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 24.01,
+        "btw_per_stuk": 5.04
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 494.22,
+        "btw_per_stuk": 103.79
+      }
+    ]
+  }
+}

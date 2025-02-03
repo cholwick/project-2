@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2004-580",
+    "orderdatum": "18-11-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 948",
+      "postcode": "1742 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "96693491"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 65.54,
+        "btw_per_stuk": 13.76
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 352.76,
+        "btw_per_stuk": 74.08
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 324.53,
+        "btw_per_stuk": 68.15
+      }
+    ]
+  }
+}

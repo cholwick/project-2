@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-066",
+    "orderdatum": "26-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 138",
+      "postcode": "2690 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "10314373"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 194.33,
+        "btw_per_stuk": 40.81
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 290.38,
+        "btw_per_stuk": 60.98
+      }
+    ]
+  }
+}

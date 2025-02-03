@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-336",
+    "orderdatum": "23-03-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 371",
+      "postcode": "7616 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "51473871"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 234.15,
+        "btw_per_stuk": 49.17
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 179.28,
+        "btw_per_stuk": 37.65
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 186.04,
+        "btw_per_stuk": 39.07
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 233.18,
+        "btw_per_stuk": 48.97
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 314.81,
+        "btw_per_stuk": 66.11
+      }
+    ]
+  }
+}

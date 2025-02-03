@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-876",
+    "orderdatum": "10-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 734",
+      "postcode": "5073 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "40304442"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 174.35,
+        "btw_per_stuk": 36.61
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 333.29,
+        "btw_per_stuk": 69.99
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 395.96,
+        "btw_per_stuk": 83.15
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 117.2,
+        "btw_per_stuk": 24.61
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 76.49,
+        "btw_per_stuk": 16.06
+      }
+    ]
+  }
+}

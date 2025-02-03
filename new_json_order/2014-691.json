@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-691",
+    "orderdatum": "05-07-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 365",
+      "postcode": "3657 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "25284428"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 435.39,
+        "btw_per_stuk": 91.43
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 114.84,
+        "btw_per_stuk": 24.12
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 452.97,
+        "btw_per_stuk": 95.12
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-360",
+    "orderdatum": "17-10-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 730",
+      "postcode": "8422 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "32085438"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 362.81,
+        "btw_per_stuk": 76.19
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 221.95,
+        "btw_per_stuk": 46.61
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 429.65,
+        "btw_per_stuk": 90.23
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 242.44,
+        "btw_per_stuk": 50.91
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 220.32,
+        "btw_per_stuk": 46.27
+      }
+    ]
+  }
+}

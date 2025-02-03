@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-814",
+    "orderdatum": "23-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 477",
+      "postcode": "8630 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "87409371"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 13.76,
+        "btw_per_stuk": 2.89
+      }
+    ]
+  }
+}

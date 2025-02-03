@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-758",
+    "orderdatum": "25-04-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 804",
+      "postcode": "7089 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31376643"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 411.07,
+        "btw_per_stuk": 86.32
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 385.28,
+        "btw_per_stuk": 80.91
+      }
+    ]
+  }
+}

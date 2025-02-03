@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2020-692",
+    "orderdatum": "10-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 309",
+      "postcode": "7433 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "98866591"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 23.79,
+        "btw_per_stuk": 5.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 250.43,
+        "btw_per_stuk": 52.59
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 338.68,
+        "btw_per_stuk": 71.12
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 458.73,
+        "btw_per_stuk": 96.33
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 38.15,
+        "btw_per_stuk": 8.01
+      }
+    ]
+  }
+}

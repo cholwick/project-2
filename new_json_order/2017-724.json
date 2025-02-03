@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-724",
+    "orderdatum": "11-06-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 364",
+      "postcode": "2569 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "43618744"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 62.63,
+        "btw_per_stuk": 13.15
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 79.81,
+        "btw_per_stuk": 16.76
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 337.92,
+        "btw_per_stuk": 70.96
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 166.72,
+        "btw_per_stuk": 35.01
+      }
+    ]
+  }
+}

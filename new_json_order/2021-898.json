@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-898",
+    "orderdatum": "01-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 386",
+      "postcode": "4372 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "65272768"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 477.59,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

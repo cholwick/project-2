@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-644",
+    "orderdatum": "05-03-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 468",
+      "postcode": "7865 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "58714969"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 186.23,
+        "btw_per_stuk": 39.11
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 88.07,
+        "btw_per_stuk": 18.49
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 418.11,
+        "btw_per_stuk": 87.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-677",
+    "orderdatum": "20-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 828",
+      "postcode": "2705 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "32187360"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 490.85,
+        "btw_per_stuk": 103.08
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 470.15,
+        "btw_per_stuk": 98.73
+      }
+    ]
+  }
+}

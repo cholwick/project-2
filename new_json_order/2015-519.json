@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-519",
+    "orderdatum": "01-02-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 251",
+      "postcode": "3964 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "60102703"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 375.81,
+        "btw_per_stuk": 78.92
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 218.95,
+        "btw_per_stuk": 45.98
+      }
+    ]
+  }
+}

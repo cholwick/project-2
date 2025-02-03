@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-990",
+    "orderdatum": "24-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 542",
+      "postcode": "8236 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "73980712"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 377.84,
+        "btw_per_stuk": 79.35
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 441.51,
+        "btw_per_stuk": 92.72
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-304",
+    "orderdatum": "15-10-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 223",
+      "postcode": "4930 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "23378140"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 36.68,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 243.95,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 264.21,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 442.77,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-812",
+    "orderdatum": "20-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 979",
+      "postcode": "9101 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "76075034"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 329.02,
+        "btw_per_stuk": 69.09
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 477.93,
+        "btw_per_stuk": 100.37
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 116.76,
+        "btw_per_stuk": 24.52
+      }
+    ]
+  }
+}

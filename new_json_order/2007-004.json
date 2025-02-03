@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-004",
+    "orderdatum": "16-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 990",
+      "postcode": "3906 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "40560088"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 41.71,
+        "btw_per_stuk": 8.76
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 294.65,
+        "btw_per_stuk": 61.88
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 451.81,
+        "btw_per_stuk": 94.88
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2018-814",
+    "orderdatum": "01-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 306",
+      "postcode": "9001 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78673612"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 272.08,
+        "btw_per_stuk": 57.14
+      }
+    ]
+  }
+}

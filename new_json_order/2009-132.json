@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2009-132",
+    "orderdatum": "04-02-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 166",
+      "postcode": "2905 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "94381920"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 42.87,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2004-993",
+    "orderdatum": "18-10-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 674",
+      "postcode": "7091 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "65841690"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 153.96,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

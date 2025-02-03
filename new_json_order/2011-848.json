@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-848",
+    "orderdatum": "05-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 632",
+      "postcode": "7594 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "49078042"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 178.05,
+        "btw_per_stuk": 37.39
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 65.74,
+        "btw_per_stuk": 13.81
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 79.56,
+        "btw_per_stuk": 16.71
+      }
+    ]
+  }
+}

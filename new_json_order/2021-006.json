@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-006",
+    "orderdatum": "17-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 354",
+      "postcode": "3572 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "90569309"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 165.85,
+        "btw_per_stuk": 34.83
+      }
+    ]
+  }
+}

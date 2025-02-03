@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-461",
+    "orderdatum": "23-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 3",
+      "postcode": "6044 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "13862274"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 266.44,
+        "btw_per_stuk": 55.95
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 153.81,
+        "btw_per_stuk": 32.3
+      }
+    ]
+  }
+}

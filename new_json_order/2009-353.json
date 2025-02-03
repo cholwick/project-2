@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-353",
+    "orderdatum": "08-08-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 283",
+      "postcode": "1798 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "44859459"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 70.86,
+        "btw_per_stuk": 14.88
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 24.16,
+        "btw_per_stuk": 5.07
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 324.36,
+        "btw_per_stuk": 68.12
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 424.21,
+        "btw_per_stuk": 89.08
+      }
+    ]
+  }
+}

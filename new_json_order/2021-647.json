@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-647",
+    "orderdatum": "08-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 287",
+      "postcode": "8590 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "12368456"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 429.51,
+        "btw_per_stuk": 90.2
+      }
+    ]
+  }
+}

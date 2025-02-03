@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-506",
+    "orderdatum": "19-12-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 655",
+      "postcode": "9774 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "13678702"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 55.04,
+        "btw_per_stuk": 11.56
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 303.48,
+        "btw_per_stuk": 63.73
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 290.84,
+        "btw_per_stuk": 61.08
+      }
+    ]
+  }
+}

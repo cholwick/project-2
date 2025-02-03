@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-969",
+    "orderdatum": "17-07-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 806",
+      "postcode": "6349 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "20719517"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 373.27,
+        "btw_per_stuk": 78.39
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 243.59,
+        "btw_per_stuk": 51.15
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 163.33,
+        "btw_per_stuk": 34.3
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 441.33,
+        "btw_per_stuk": 92.68
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 361.09,
+        "btw_per_stuk": 75.83
+      }
+    ]
+  }
+}

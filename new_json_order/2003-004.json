@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-004",
+    "orderdatum": "14-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 699",
+      "postcode": "8377 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "86295787"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 405.13,
+        "btw_per_stuk": 85.08
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 449.9,
+        "btw_per_stuk": 94.48
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 161.65,
+        "btw_per_stuk": 33.95
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 459.28,
+        "btw_per_stuk": 96.45
+      }
+    ]
+  }
+}

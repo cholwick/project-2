@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-475",
+    "orderdatum": "05-07-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 839",
+      "postcode": "7270 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "97434373"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 20.17,
+        "btw_per_stuk": 4.24
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 84.06,
+        "btw_per_stuk": 17.65
+      }
+    ]
+  }
+}

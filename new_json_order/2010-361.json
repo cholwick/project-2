@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-361",
+    "orderdatum": "05-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 237",
+      "postcode": "9133 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "96066525"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 183.98,
+        "btw_per_stuk": 38.64
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 75.1,
+        "btw_per_stuk": 15.77
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 170.22,
+        "btw_per_stuk": 35.75
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 283.4,
+        "btw_per_stuk": 59.51
+      }
+    ]
+  }
+}

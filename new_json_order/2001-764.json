@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2001-764",
+    "orderdatum": "15-11-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 529",
+      "postcode": "1741 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "45557250"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 16.92,
+        "btw_per_stuk": 3.55
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 197.49,
+        "btw_per_stuk": 41.47
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 496.19,
+        "btw_per_stuk": 104.2
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 232.83,
+        "btw_per_stuk": 48.89
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 209.85,
+        "btw_per_stuk": 44.07
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-725",
+    "orderdatum": "23-10-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 112",
+      "postcode": "6404 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "59458707"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 149.26,
+        "btw_per_stuk": 31.34
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 284.35,
+        "btw_per_stuk": 59.71
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 473.78,
+        "btw_per_stuk": 99.49
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 403.8,
+        "btw_per_stuk": 84.8
+      }
+    ]
+  }
+}

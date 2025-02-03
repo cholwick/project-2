@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2004-365",
+    "orderdatum": "11-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 47",
+      "postcode": "7566 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "68080652"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 51.28,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 392.73,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 335.61,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-862",
+    "orderdatum": "23-10-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 279",
+      "postcode": "3553 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "74690677"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 358.1,
+        "btw_per_stuk": 75.2
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 34.3,
+        "btw_per_stuk": 7.2
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 408.18,
+        "btw_per_stuk": 85.72
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 488.69,
+        "btw_per_stuk": 102.62
+      }
+    ]
+  }
+}

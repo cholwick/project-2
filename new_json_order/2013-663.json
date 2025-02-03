@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-663",
+    "orderdatum": "24-10-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 875",
+      "postcode": "3404 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "46733044"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 373.66,
+        "btw_per_stuk": 78.47
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 263.64,
+        "btw_per_stuk": 55.36
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-181",
+    "orderdatum": "14-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 136",
+      "postcode": "4462 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "25942490"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 232.62,
+        "btw_per_stuk": 48.85
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 133.79,
+        "btw_per_stuk": 28.1
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 309.71,
+        "btw_per_stuk": 65.04
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 474.45,
+        "btw_per_stuk": 99.63
+      }
+    ]
+  }
+}

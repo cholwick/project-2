@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-158",
+    "orderdatum": "02-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 702",
+      "postcode": "3892 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "85599417"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 231.7,
+        "btw_per_stuk": 48.66
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 309.45,
+        "btw_per_stuk": 64.98
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 407.66,
+        "btw_per_stuk": 85.61
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 161.41,
+        "btw_per_stuk": 33.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-992",
+    "orderdatum": "04-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 92",
+      "postcode": "4673 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "60229031"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 417.57,
+        "btw_per_stuk": 87.69
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 111.44,
+        "btw_per_stuk": 23.4
+      }
+    ]
+  }
+}

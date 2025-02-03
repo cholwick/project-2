@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-061",
+    "orderdatum": "23-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 896",
+      "postcode": "3911 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "48834775"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 125.22,
+        "btw_per_stuk": 26.3
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 460.34,
+        "btw_per_stuk": 96.67
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 368.75,
+        "btw_per_stuk": 77.44
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 437.68,
+        "btw_per_stuk": 91.91
+      }
+    ]
+  }
+}

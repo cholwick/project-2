@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-747",
+    "orderdatum": "13-01-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 226",
+      "postcode": "6997 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "31517189"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 215.41,
+        "btw_per_stuk": 45.24
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 171.1,
+        "btw_per_stuk": 35.93
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 396.58,
+        "btw_per_stuk": 83.28
+      }
+    ]
+  }
+}

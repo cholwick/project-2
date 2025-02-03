@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2023-952",
+    "orderdatum": "01-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 193",
+      "postcode": "3416 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "89516749"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 47.0,
+        "btw_per_stuk": 9.87
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 191.78,
+        "btw_per_stuk": 40.27
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 478.35,
+        "btw_per_stuk": 100.45
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 194.97,
+        "btw_per_stuk": 40.94
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2008-022",
+    "orderdatum": "13-03-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 722",
+      "postcode": "5914 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "76207791"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 294.14,
+        "btw_per_stuk": 61.77
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 15.12,
+        "btw_per_stuk": 3.18
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 215.48,
+        "btw_per_stuk": 45.25
+      }
+    ]
+  }
+}

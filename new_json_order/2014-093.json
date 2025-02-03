@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2014-093",
+    "orderdatum": "11-08-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 104",
+      "postcode": "9230 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "88380777"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 173.81,
+        "btw_per_stuk": 36.5
+      }
+    ]
+  }
+}

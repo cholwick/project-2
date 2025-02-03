@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2012-741",
+    "orderdatum": "19-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 895",
+      "postcode": "2398 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "79293648"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 188.36,
+        "btw_per_stuk": 39.56
+      }
+    ]
+  }
+}

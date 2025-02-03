@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-436",
+    "orderdatum": "16-12-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 137",
+      "postcode": "1228 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "83988792"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 363.49,
+        "btw_per_stuk": 76.33
+      }
+    ]
+  }
+}

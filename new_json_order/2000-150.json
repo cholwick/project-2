@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-150",
+    "orderdatum": "20-08-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 255",
+      "postcode": "3408 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "70318769"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 291.3,
+        "btw_per_stuk": 61.17
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 391.63,
+        "btw_per_stuk": 82.24
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 386.91,
+        "btw_per_stuk": 81.25
+      }
+    ]
+  }
+}

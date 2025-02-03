@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-177",
+    "orderdatum": "03-10-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 461",
+      "postcode": "7806 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "40987449"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 179.28,
+        "btw_per_stuk": 37.65
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 439.25,
+        "btw_per_stuk": 92.24
+      }
+    ]
+  }
+}

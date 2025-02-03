@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2004-289",
+    "orderdatum": "21-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 470",
+      "postcode": "7522 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "51898952"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 224.19,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 364.92,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

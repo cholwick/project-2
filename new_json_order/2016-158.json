@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-158",
+    "orderdatum": "25-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 215",
+      "postcode": "5093 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "80656070"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 327.38,
+        "btw_per_stuk": 68.75
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 220.34,
+        "btw_per_stuk": 46.27
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 244.69,
+        "btw_per_stuk": 51.38
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 252.27,
+        "btw_per_stuk": 52.98
+      }
+    ]
+  }
+}

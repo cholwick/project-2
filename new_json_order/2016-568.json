@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2016-568",
+    "orderdatum": "12-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 97",
+      "postcode": "2609 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "77118732"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 168.74,
+        "btw_per_stuk": 35.44
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 238.31,
+        "btw_per_stuk": 50.05
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 38.49,
+        "btw_per_stuk": 8.08
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 245.64,
+        "btw_per_stuk": 51.58
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 327.23,
+        "btw_per_stuk": 68.72
+      }
+    ]
+  }
+}

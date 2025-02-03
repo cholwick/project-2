@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2015-914",
+    "orderdatum": "27-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 440",
+      "postcode": "4770 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "54535271"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 159.56,
+        "btw_per_stuk": 33.51
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 388.88,
+        "btw_per_stuk": 81.66
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 225.98,
+        "btw_per_stuk": 47.46
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-477",
+    "orderdatum": "22-03-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 754",
+      "postcode": "7540 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78514461"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 55.06,
+        "btw_per_stuk": 11.56
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 160.96,
+        "btw_per_stuk": 33.8
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 435.7,
+        "btw_per_stuk": 91.5
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 325.8,
+        "btw_per_stuk": 68.42
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 479.22,
+        "btw_per_stuk": 100.64
+      }
+    ]
+  }
+}

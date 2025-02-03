@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-166",
+    "orderdatum": "25-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 238",
+      "postcode": "4513 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "20829120"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 328.83,
+        "btw_per_stuk": 69.05
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 172.81,
+        "btw_per_stuk": 36.29
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 410.25,
+        "btw_per_stuk": 86.15
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 193.48,
+        "btw_per_stuk": 40.63
+      }
+    ]
+  }
+}

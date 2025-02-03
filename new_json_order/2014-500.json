@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-500",
+    "orderdatum": "13-02-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 832",
+      "postcode": "3782 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "43685647"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 391.08,
+        "btw_per_stuk": 82.13
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 205.93,
+        "btw_per_stuk": 43.25
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 59.1,
+        "btw_per_stuk": 12.41
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-439",
+    "orderdatum": "13-09-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 446",
+      "postcode": "8543 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "12526818"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 178.12,
+        "btw_per_stuk": 37.41
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 209.87,
+        "btw_per_stuk": 44.07
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 17.67,
+        "btw_per_stuk": 3.71
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 244.17,
+        "btw_per_stuk": 51.28
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 467.0,
+        "btw_per_stuk": 98.07
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2019-293",
+    "orderdatum": "04-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 166",
+      "postcode": "8775 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "46341654"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 146.8,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 20.05,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 37.15,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

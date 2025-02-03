@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-677",
+    "orderdatum": "01-08-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 558",
+      "postcode": "9855 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "74450982"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 268.8,
+        "btw_per_stuk": 56.45
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 412.98,
+        "btw_per_stuk": 86.73
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 476.54,
+        "btw_per_stuk": 100.07
+      }
+    ]
+  }
+}

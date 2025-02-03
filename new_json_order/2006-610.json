@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-610",
+    "orderdatum": "06-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 635",
+      "postcode": "5472 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "11417009"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 321.55,
+        "btw_per_stuk": 67.53
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 284.04,
+        "btw_per_stuk": 59.65
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 298.97,
+        "btw_per_stuk": 62.78
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 347.5,
+        "btw_per_stuk": 72.97
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 290.88,
+        "btw_per_stuk": 61.08
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-076",
+    "orderdatum": "09-12-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 438",
+      "postcode": "8266 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33726057"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 277.33,
+        "btw_per_stuk": 58.24
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 201.69,
+        "btw_per_stuk": 42.35
+      }
+    ]
+  }
+}

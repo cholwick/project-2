@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-691",
+    "orderdatum": "17-02-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 42",
+      "postcode": "8183 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "19668635"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 419.8,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-745",
+    "orderdatum": "26-11-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 426",
+      "postcode": "9961 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "84322515"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 177.21,
+        "btw_per_stuk": 37.21
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 165.49,
+        "btw_per_stuk": 34.75
+      }
+    ]
+  }
+}

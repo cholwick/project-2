@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-993",
+    "orderdatum": "27-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 963",
+      "postcode": "8226 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "12332320"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 73.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 492.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 32.83,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

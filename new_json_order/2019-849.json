@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-849",
+    "orderdatum": "12-03-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 596",
+      "postcode": "2587 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "54506378"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 306.96,
+        "btw_per_stuk": 64.46
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 236.77,
+        "btw_per_stuk": 49.72
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 494.17,
+        "btw_per_stuk": 103.78
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 329.04,
+        "btw_per_stuk": 69.1
+      }
+    ]
+  }
+}

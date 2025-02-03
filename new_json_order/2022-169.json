@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-169",
+    "orderdatum": "11-09-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 966",
+      "postcode": "6226 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "13825840"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 469.77,
+        "btw_per_stuk": 98.65
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 19.83,
+        "btw_per_stuk": 4.16
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 322.95,
+        "btw_per_stuk": 67.82
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 269.94,
+        "btw_per_stuk": 56.69
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 34.8,
+        "btw_per_stuk": 7.31
+      }
+    ]
+  }
+}

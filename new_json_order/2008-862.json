@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-862",
+    "orderdatum": "04-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 132",
+      "postcode": "7543 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "96776009"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 440.96,
+        "btw_per_stuk": 92.6
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 55.83,
+        "btw_per_stuk": 11.72
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 84.49,
+        "btw_per_stuk": 17.74
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 317.3,
+        "btw_per_stuk": 66.63
+      }
+    ]
+  }
+}

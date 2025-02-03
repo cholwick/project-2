@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-136",
+    "orderdatum": "18-08-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 905",
+      "postcode": "8768 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "58596957"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 398.48,
+        "btw_per_stuk": 83.68
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 171.69,
+        "btw_per_stuk": 36.05
+      }
+    ]
+  }
+}

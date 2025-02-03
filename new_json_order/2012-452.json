@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-452",
+    "orderdatum": "11-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 303",
+      "postcode": "1555 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "57608862"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 69.62,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 453.29,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

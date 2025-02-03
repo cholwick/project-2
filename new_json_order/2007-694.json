@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2007-694",
+    "orderdatum": "17-11-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 652",
+      "postcode": "6722 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39832006"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 453.24,
+        "btw_per_stuk": 95.18
+      }
+    ]
+  }
+}

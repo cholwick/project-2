@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2015-597",
+    "orderdatum": "23-07-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 905",
+      "postcode": "1961 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "26268007"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 87.73,
+        "btw_per_stuk": 18.42
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 381.19,
+        "btw_per_stuk": 80.05
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 424.64,
+        "btw_per_stuk": 89.17
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 28.12,
+        "btw_per_stuk": 5.91
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2005-736",
+    "orderdatum": "14-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 155",
+      "postcode": "9919 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "48632633"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 183.52,
+        "btw_per_stuk": 38.54
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 221.14,
+        "btw_per_stuk": 46.44
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 115.87,
+        "btw_per_stuk": 24.33
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-987",
+    "orderdatum": "11-08-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 872",
+      "postcode": "5367 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "78223849"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 476.24,
+        "btw_per_stuk": 100.01
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 298.29,
+        "btw_per_stuk": 62.64
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 90.62,
+        "btw_per_stuk": 19.03
+      }
+    ]
+  }
+}

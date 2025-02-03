@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-166",
+    "orderdatum": "18-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 100",
+      "postcode": "1240 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "98968125"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 207.88,
+        "btw_per_stuk": 43.65
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 146.52,
+        "btw_per_stuk": 30.77
+      }
+    ]
+  }
+}

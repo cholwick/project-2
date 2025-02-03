@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2024-789",
+    "orderdatum": "21-02-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 237",
+      "postcode": "9714 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "26132295"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 224.47,
+        "btw_per_stuk": 47.14
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 444.34,
+        "btw_per_stuk": 93.31
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 110.23,
+        "btw_per_stuk": 23.15
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 94.56,
+        "btw_per_stuk": 19.86
+      }
+    ]
+  }
+}

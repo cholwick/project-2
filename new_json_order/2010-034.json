@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-034",
+    "orderdatum": "09-06-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 125",
+      "postcode": "4813 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18326466"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 465.28,
+        "btw_per_stuk": 97.71
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 131.59,
+        "btw_per_stuk": 27.63
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 474.29,
+        "btw_per_stuk": 99.6
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 422.52,
+        "btw_per_stuk": 88.73
+      }
+    ]
+  }
+}

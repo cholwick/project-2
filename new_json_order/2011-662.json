@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-662",
+    "orderdatum": "14-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 263",
+      "postcode": "3405 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "98490821"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 28.68,
+        "btw_per_stuk": 6.02
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 250.09,
+        "btw_per_stuk": 52.52
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 96.21,
+        "btw_per_stuk": 20.2
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 21.71,
+        "btw_per_stuk": 4.56
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 85.73,
+        "btw_per_stuk": 18.0
+      }
+    ]
+  }
+}

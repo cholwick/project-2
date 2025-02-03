@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-775",
+    "orderdatum": "05-11-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 306",
+      "postcode": "4019 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "55344287"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 470.35,
+        "btw_per_stuk": 98.77
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 372.24,
+        "btw_per_stuk": 78.17
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 89.66,
+        "btw_per_stuk": 18.83
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 314.68,
+        "btw_per_stuk": 66.08
+      }
+    ]
+  }
+}

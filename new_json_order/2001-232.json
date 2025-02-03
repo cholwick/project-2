@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-232",
+    "orderdatum": "14-10-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 220",
+      "postcode": "2302 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "59580984"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 126.34,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 109.98,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 71.61,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

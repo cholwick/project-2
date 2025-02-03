@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-783",
+    "orderdatum": "08-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 991",
+      "postcode": "6287 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "90552339"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 259.45,
+        "btw_per_stuk": 54.48
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 35.12,
+        "btw_per_stuk": 7.38
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 297.53,
+        "btw_per_stuk": 62.48
+      }
+    ]
+  }
+}

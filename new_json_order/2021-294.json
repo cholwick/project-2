@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2021-294",
+    "orderdatum": "05-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 774",
+      "postcode": "8822 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "67017362"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 140.5,
+        "btw_per_stuk": 29.5
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 463.69,
+        "btw_per_stuk": 97.37
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 424.61,
+        "btw_per_stuk": 89.17
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 469.72,
+        "btw_per_stuk": 98.64
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 287.21,
+        "btw_per_stuk": 60.31
+      }
+    ]
+  }
+}

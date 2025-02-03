@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-057",
+    "orderdatum": "22-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 708",
+      "postcode": "4636 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "45071053"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 252.72,
+        "btw_per_stuk": 53.07
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 12.0,
+        "btw_per_stuk": 2.52
+      }
+    ]
+  }
+}

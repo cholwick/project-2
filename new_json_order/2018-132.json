@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-132",
+    "orderdatum": "01-12-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Kerkstraat 843",
+      "postcode": "8722 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "37867397"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 229.11,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 300.15,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

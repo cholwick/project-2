@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2003-641",
+    "orderdatum": "17-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 316",
+      "postcode": "1493 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "44448081"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 167.33,
+        "btw_per_stuk": 35.14
+      }
+    ]
+  }
+}

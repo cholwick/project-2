@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2021-599",
+    "orderdatum": "06-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 138",
+      "postcode": "5053 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "45125603"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 488.49,
+        "btw_per_stuk": 102.58
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 139.42,
+        "btw_per_stuk": 29.28
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 317.16,
+        "btw_per_stuk": 66.6
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 112.46,
+        "btw_per_stuk": 23.62
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 370.97,
+        "btw_per_stuk": 77.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-348",
+    "orderdatum": "10-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 580",
+      "postcode": "6851 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "45455189"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 439.36,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 97.61,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-124",
+    "orderdatum": "08-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 161",
+      "postcode": "4062 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "28811451"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 14.36,
+        "btw_per_stuk": 3.02
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 54.62,
+        "btw_per_stuk": 11.47
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 442.56,
+        "btw_per_stuk": 92.94
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 29.38,
+        "btw_per_stuk": 6.17
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 319.87,
+        "btw_per_stuk": 67.17
+      }
+    ]
+  }
+}

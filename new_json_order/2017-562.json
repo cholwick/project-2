@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-562",
+    "orderdatum": "16-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 878",
+      "postcode": "2026 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33571089"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 272.47,
+        "btw_per_stuk": 57.22
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 275.25,
+        "btw_per_stuk": 57.8
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 155.44,
+        "btw_per_stuk": 32.64
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 212.76,
+        "btw_per_stuk": 44.68
+      }
+    ]
+  }
+}

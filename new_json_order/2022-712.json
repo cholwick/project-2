@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-712",
+    "orderdatum": "01-11-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 901",
+      "postcode": "5387 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "86763344"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 115.99,
+        "btw_per_stuk": 24.36
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 160.56,
+        "btw_per_stuk": 33.72
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 160.95,
+        "btw_per_stuk": 33.8
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 33.07,
+        "btw_per_stuk": 6.94
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 232.54,
+        "btw_per_stuk": 48.83
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-119",
+    "orderdatum": "12-01-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 261",
+      "postcode": "4522 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "15398476"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 95.26,
+        "btw_per_stuk": 20.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 420.28,
+        "btw_per_stuk": 88.26
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 479.68,
+        "btw_per_stuk": 100.73
+      }
+    ]
+  }
+}

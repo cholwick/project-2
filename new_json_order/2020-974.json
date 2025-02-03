@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-974",
+    "orderdatum": "10-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 58",
+      "postcode": "2307 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "20680882"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 20.24,
+        "btw_per_stuk": 4.25
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 177.14,
+        "btw_per_stuk": 37.2
+      }
+    ]
+  }
+}

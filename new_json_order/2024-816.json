@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2024-816",
+    "orderdatum": "23-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 987",
+      "postcode": "6553 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "64869090"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 254.09,
+        "btw_per_stuk": 53.36
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 333.89,
+        "btw_per_stuk": 70.12
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 438.65,
+        "btw_per_stuk": 92.12
+      }
+    ]
+  }
+}

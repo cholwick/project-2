@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-574",
+    "orderdatum": "11-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 280",
+      "postcode": "5828 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44257669"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 58.21,
+        "btw_per_stuk": 12.22
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 282.2,
+        "btw_per_stuk": 59.26
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 69.15,
+        "btw_per_stuk": 14.52
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 315.12,
+        "btw_per_stuk": 66.18
+      }
+    ]
+  }
+}

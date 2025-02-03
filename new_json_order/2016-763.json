@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-763",
+    "orderdatum": "28-10-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 59",
+      "postcode": "3095 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "12714535"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 362.92,
+        "btw_per_stuk": 76.21
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 25.8,
+        "btw_per_stuk": 5.42
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 231.24,
+        "btw_per_stuk": 48.56
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 113.82,
+        "btw_per_stuk": 23.9
+      }
+    ]
+  }
+}

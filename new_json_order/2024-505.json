@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-505",
+    "orderdatum": "25-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 43",
+      "postcode": "4204 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "32920469"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 492.32,
+        "btw_per_stuk": 103.39
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 431.45,
+        "btw_per_stuk": 90.6
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 400.58,
+        "btw_per_stuk": 84.12
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 169.18,
+        "btw_per_stuk": 35.53
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 148.4,
+        "btw_per_stuk": 31.16
+      }
+    ]
+  }
+}

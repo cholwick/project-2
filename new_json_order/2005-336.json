@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-336",
+    "orderdatum": "06-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 775",
+      "postcode": "3706 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39672172"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 496.09,
+        "btw_per_stuk": 104.18
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 124.97,
+        "btw_per_stuk": 26.24
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 318.8,
+        "btw_per_stuk": 66.95
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 42.9,
+        "btw_per_stuk": 9.01
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 389.22,
+        "btw_per_stuk": 81.74
+      }
+    ]
+  }
+}

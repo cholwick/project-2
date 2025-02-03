@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-621",
+    "orderdatum": "28-07-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 991",
+      "postcode": "8370 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "64355148"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 373.87,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 284.63,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 357.54,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

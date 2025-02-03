@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2016-666",
+    "orderdatum": "20-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 368",
+      "postcode": "6752 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "98578192"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 328.29,
+        "btw_per_stuk": 68.94
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 284.98,
+        "btw_per_stuk": 59.85
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 86.51,
+        "btw_per_stuk": 18.17
+      }
+    ]
+  }
+}

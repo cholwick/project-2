@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2006-740",
+    "orderdatum": "08-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 836",
+      "postcode": "7815 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "51526567"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 295.52,
+        "btw_per_stuk": 62.06
+      }
+    ]
+  }
+}

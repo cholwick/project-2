@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2015-223",
+    "orderdatum": "25-08-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 87",
+      "postcode": "1222 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "32102351"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 347.64,
+        "btw_per_stuk": 73.0
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 187.84,
+        "btw_per_stuk": 39.45
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 351.62,
+        "btw_per_stuk": 73.84
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 487.33,
+        "btw_per_stuk": 102.34
+      }
+    ]
+  }
+}

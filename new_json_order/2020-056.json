@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-056",
+    "orderdatum": "21-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 624",
+      "postcode": "9529 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91574092"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 60.79,
+        "btw_per_stuk": 12.77
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 152.97,
+        "btw_per_stuk": 32.12
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 52.22,
+        "btw_per_stuk": 10.97
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 21.28,
+        "btw_per_stuk": 4.47
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2012-842",
+    "orderdatum": "24-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 39",
+      "postcode": "4562 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "85710782"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 272.57,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

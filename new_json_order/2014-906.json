@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-906",
+    "orderdatum": "18-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 673",
+      "postcode": "4788 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "70119348"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 499.92,
+        "btw_per_stuk": 104.98
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 176.48,
+        "btw_per_stuk": 37.06
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 127.95,
+        "btw_per_stuk": 26.87
+      }
+    ]
+  }
+}

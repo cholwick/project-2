@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-303",
+    "orderdatum": "06-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 964",
+      "postcode": "5912 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "68815360"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 376.66,
+        "btw_per_stuk": 79.1
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 21.12,
+        "btw_per_stuk": 4.44
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 410.59,
+        "btw_per_stuk": 86.22
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 41.99,
+        "btw_per_stuk": 8.82
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 78.85,
+        "btw_per_stuk": 16.56
+      }
+    ]
+  }
+}

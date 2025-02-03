@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-414",
+    "orderdatum": "28-03-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 464",
+      "postcode": "9413 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "28292575"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 357.9,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 99.29,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

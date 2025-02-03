@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-470",
+    "orderdatum": "19-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 700",
+      "postcode": "5314 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "99155920"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 400.31,
+        "btw_per_stuk": 84.07
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 281.37,
+        "btw_per_stuk": 59.09
+      }
+    ]
+  }
+}

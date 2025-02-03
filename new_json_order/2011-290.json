@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2011-290",
+    "orderdatum": "01-07-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 233",
+      "postcode": "5311 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "23592053"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 416.1,
+        "btw_per_stuk": 87.38
+      }
+    ]
+  }
+}

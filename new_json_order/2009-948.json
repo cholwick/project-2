@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-948",
+    "orderdatum": "13-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 950",
+      "postcode": "2042 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "27896324"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 66.56,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 116.13,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

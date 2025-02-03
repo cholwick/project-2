@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-567",
+    "orderdatum": "22-10-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 53",
+      "postcode": "8891 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53330654"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 268.35,
+        "btw_per_stuk": 56.35
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 148.25,
+        "btw_per_stuk": 31.13
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 15.54,
+        "btw_per_stuk": 3.26
+      }
+    ]
+  }
+}

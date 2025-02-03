@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-712",
+    "orderdatum": "05-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 98",
+      "postcode": "1375 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "62915923"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 485.28,
+        "btw_per_stuk": 101.91
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 211.2,
+        "btw_per_stuk": 44.35
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 169.5,
+        "btw_per_stuk": 35.59
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 93.1,
+        "btw_per_stuk": 19.55
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 10.89,
+        "btw_per_stuk": 2.29
+      }
+    ]
+  }
+}

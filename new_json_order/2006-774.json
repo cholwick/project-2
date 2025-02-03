@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-774",
+    "orderdatum": "22-11-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 189",
+      "postcode": "4621 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39129296"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 106.57,
+        "btw_per_stuk": 22.38
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 389.52,
+        "btw_per_stuk": 81.8
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 106.42,
+        "btw_per_stuk": 22.35
+      }
+    ]
+  }
+}

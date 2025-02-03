@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-472",
+    "orderdatum": "16-05-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 442",
+      "postcode": "3602 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "36136887"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 433.02,
+        "btw_per_stuk": 90.93
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 138.3,
+        "btw_per_stuk": 29.04
+      }
+    ]
+  }
+}

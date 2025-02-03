@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-409",
+    "orderdatum": "17-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 538",
+      "postcode": "3713 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "22391375"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 113.4,
+        "btw_per_stuk": 23.81
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 310.1,
+        "btw_per_stuk": 65.12
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 346.96,
+        "btw_per_stuk": 72.86
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 131.5,
+        "btw_per_stuk": 27.61
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 421.38,
+        "btw_per_stuk": 88.49
+      }
+    ]
+  }
+}

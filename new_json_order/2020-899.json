@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2020-899",
+    "orderdatum": "13-03-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 914",
+      "postcode": "1683 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "79179128"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 81.21,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

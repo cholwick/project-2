@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2020-316",
+    "orderdatum": "15-11-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 598",
+      "postcode": "8005 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "42292234"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 186.19,
+        "btw_per_stuk": 39.1
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 319.08,
+        "btw_per_stuk": 67.01
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 199.19,
+        "btw_per_stuk": 41.83
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 479.35,
+        "btw_per_stuk": 100.66
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 71.76,
+        "btw_per_stuk": 15.07
+      }
+    ]
+  }
+}

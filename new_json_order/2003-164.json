@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-164",
+    "orderdatum": "11-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 279",
+      "postcode": "8777 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "35726571"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 49.93,
+        "btw_per_stuk": 10.49
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 98.79,
+        "btw_per_stuk": 20.75
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 419.72,
+        "btw_per_stuk": 88.14
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 83.14,
+        "btw_per_stuk": 17.46
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 99.7,
+        "btw_per_stuk": 20.94
+      }
+    ]
+  }
+}

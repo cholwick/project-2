@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-184",
+    "orderdatum": "12-03-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 995",
+      "postcode": "5618 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "70892445"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 403.18,
+        "btw_per_stuk": 84.67
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 43.01,
+        "btw_per_stuk": 9.03
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 57.83,
+        "btw_per_stuk": 12.14
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 143.06,
+        "btw_per_stuk": 30.04
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 209.63,
+        "btw_per_stuk": 44.02
+      }
+    ]
+  }
+}

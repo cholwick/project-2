@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-915",
+    "orderdatum": "10-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 761",
+      "postcode": "1939 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "46650921"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 346.05,
+        "btw_per_stuk": 72.67
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 97.76,
+        "btw_per_stuk": 20.53
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 240.39,
+        "btw_per_stuk": 50.48
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 330.45,
+        "btw_per_stuk": 69.39
+      }
+    ]
+  }
+}

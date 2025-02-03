@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-316",
+    "orderdatum": "13-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 639",
+      "postcode": "9134 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18800398"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 363.89,
+        "btw_per_stuk": 76.42
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 71.1,
+        "btw_per_stuk": 14.93
+      }
+    ]
+  }
+}

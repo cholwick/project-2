@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2022-707",
+    "orderdatum": "18-10-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 608",
+      "postcode": "8577 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "83682314"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 129.93,
+        "btw_per_stuk": 27.29
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 471.23,
+        "btw_per_stuk": 98.96
+      }
+    ]
+  }
+}

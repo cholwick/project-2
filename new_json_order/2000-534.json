@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-534",
+    "orderdatum": "27-09-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 383",
+      "postcode": "9405 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "79993212"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 319.54,
+        "btw_per_stuk": 67.1
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 48.24,
+        "btw_per_stuk": 10.13
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 427.57,
+        "btw_per_stuk": 89.79
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 458.78,
+        "btw_per_stuk": 96.34
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-116",
+    "orderdatum": "02-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 50",
+      "postcode": "3138 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "71645939"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 402.07,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 357.65,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

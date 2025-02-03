@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2000-420",
+    "orderdatum": "04-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 277",
+      "postcode": "5911 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "94995622"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 180.84,
+        "btw_per_stuk": 37.98
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 476.03,
+        "btw_per_stuk": 99.97
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 64.07,
+        "btw_per_stuk": 13.45
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 85.24,
+        "btw_per_stuk": 17.9
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 188.06,
+        "btw_per_stuk": 39.49
+      }
+    ]
+  }
+}

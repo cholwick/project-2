@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-775",
+    "orderdatum": "22-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 58",
+      "postcode": "5421 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "79048082"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 58.72,
+        "btw_per_stuk": 12.33
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 473.3,
+        "btw_per_stuk": 99.39
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 102.4,
+        "btw_per_stuk": 21.5
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 170.18,
+        "btw_per_stuk": 35.74
+      }
+    ]
+  }
+}

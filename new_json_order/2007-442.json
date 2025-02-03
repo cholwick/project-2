@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2007-442",
+    "orderdatum": "15-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 911",
+      "postcode": "5010 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "61377603"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 86.55,
+        "btw_per_stuk": 18.18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-449",
+    "orderdatum": "09-03-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 685",
+      "postcode": "7788 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18851028"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 143.77,
+        "btw_per_stuk": 30.19
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 372.01,
+        "btw_per_stuk": 78.12
+      }
+    ]
+  }
+}

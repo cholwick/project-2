@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-456",
+    "orderdatum": "07-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 893",
+      "postcode": "7808 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "34005794"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 57.45,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 122.99,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 305.85,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 364.13,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-195",
+    "orderdatum": "26-03-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 685",
+      "postcode": "8722 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "82834463"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 66.8,
+        "btw_per_stuk": 14.03
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 478.27,
+        "btw_per_stuk": 100.44
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 27.08,
+        "btw_per_stuk": 5.69
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 382.6,
+        "btw_per_stuk": 80.35
+      }
+    ]
+  }
+}

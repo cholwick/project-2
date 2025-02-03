@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-944",
+    "orderdatum": "16-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 740",
+      "postcode": "6799 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "41922694"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 294.06,
+        "btw_per_stuk": 61.75
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 336.88,
+        "btw_per_stuk": 70.74
+      }
+    ]
+  }
+}

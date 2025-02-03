@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-581",
+    "orderdatum": "12-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 880",
+      "postcode": "5380 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "58984359"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 243.59,
+        "btw_per_stuk": 51.15
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 462.51,
+        "btw_per_stuk": 97.13
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 92.76,
+        "btw_per_stuk": 19.48
+      }
+    ]
+  }
+}

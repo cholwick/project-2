@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-485",
+    "orderdatum": "21-01-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 912",
+      "postcode": "7290 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "43991930"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 263.08,
+        "btw_per_stuk": 55.25
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 177.97,
+        "btw_per_stuk": 37.37
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 281.23,
+        "btw_per_stuk": 59.06
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 194.97,
+        "btw_per_stuk": 40.94
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 333.02,
+        "btw_per_stuk": 69.93
+      }
+    ]
+  }
+}

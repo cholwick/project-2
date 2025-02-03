@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2004-494",
+    "orderdatum": "24-11-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 421",
+      "postcode": "7445 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "19526028"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 260.61,
+        "btw_per_stuk": 54.73
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 436.35,
+        "btw_per_stuk": 91.63
+      }
+    ]
+  }
+}

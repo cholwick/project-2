@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-223",
+    "orderdatum": "18-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 83",
+      "postcode": "9453 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "94117949"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 300.69,
+        "btw_per_stuk": 63.14
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 424.39,
+        "btw_per_stuk": 89.12
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 260.86,
+        "btw_per_stuk": 54.78
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 436.05,
+        "btw_per_stuk": 91.57
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 281.29,
+        "btw_per_stuk": 59.07
+      }
+    ]
+  }
+}

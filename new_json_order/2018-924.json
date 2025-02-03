@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-924",
+    "orderdatum": "12-08-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 596",
+      "postcode": "7575 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "67278566"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 162.42,
+        "btw_per_stuk": 34.11
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 459.02,
+        "btw_per_stuk": 96.39
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 303.93,
+        "btw_per_stuk": 63.83
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 54.97,
+        "btw_per_stuk": 11.54
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2021-491",
+    "orderdatum": "09-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 126",
+      "postcode": "3987 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "64658552"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 245.33,
+        "btw_per_stuk": 51.52
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 193.79,
+        "btw_per_stuk": 40.7
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 10.28,
+        "btw_per_stuk": 2.16
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 390.12,
+        "btw_per_stuk": 81.93
+      }
+    ]
+  }
+}

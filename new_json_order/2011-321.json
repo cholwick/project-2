@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-321",
+    "orderdatum": "25-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 350",
+      "postcode": "3121 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "19092323"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 454.18,
+        "btw_per_stuk": 95.38
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 222.49,
+        "btw_per_stuk": 46.72
+      }
+    ]
+  }
+}

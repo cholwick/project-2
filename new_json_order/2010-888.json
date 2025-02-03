@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-888",
+    "orderdatum": "02-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 526",
+      "postcode": "9859 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "48487947"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 492.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 445.87,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

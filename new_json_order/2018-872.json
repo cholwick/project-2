@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-872",
+    "orderdatum": "12-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 411",
+      "postcode": "2304 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "38557369"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 129.92,
+        "btw_per_stuk": 27.28
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 323.93,
+        "btw_per_stuk": 68.03
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 139.14,
+        "btw_per_stuk": 29.22
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 211.31,
+        "btw_per_stuk": 44.38
+      }
+    ]
+  }
+}

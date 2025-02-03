@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2000-155",
+    "orderdatum": "03-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 638",
+      "postcode": "7725 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "18874845"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 474.9,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

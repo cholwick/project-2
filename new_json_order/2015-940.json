@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-940",
+    "orderdatum": "08-10-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 505",
+      "postcode": "7259 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "43078242"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 341.6,
+        "btw_per_stuk": 71.74
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 497.12,
+        "btw_per_stuk": 104.4
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 148.59,
+        "btw_per_stuk": 31.2
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 462.23,
+        "btw_per_stuk": 97.07
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 416.73,
+        "btw_per_stuk": 87.51
+      }
+    ]
+  }
+}

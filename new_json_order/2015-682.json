@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-682",
+    "orderdatum": "11-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 276",
+      "postcode": "3771 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "75656567"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 427.24,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 259.38,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2024-689",
+    "orderdatum": "20-02-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 782",
+      "postcode": "4049 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "31706954"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 477.1,
+        "btw_per_stuk": 100.19
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 172.22,
+        "btw_per_stuk": 36.17
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 316.56,
+        "btw_per_stuk": 66.48
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 136.27,
+        "btw_per_stuk": 28.62
+      }
+    ]
+  }
+}

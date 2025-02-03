@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-403",
+    "orderdatum": "01-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 31",
+      "postcode": "9456 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "67336131"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 85.39,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 373.31,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 320.25,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

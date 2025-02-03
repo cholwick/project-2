@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-331",
+    "orderdatum": "20-11-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 602",
+      "postcode": "4715 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "23733843"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 425.16,
+        "btw_per_stuk": 89.28
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 212.62,
+        "btw_per_stuk": 44.65
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 277.46,
+        "btw_per_stuk": 58.27
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 197.42,
+        "btw_per_stuk": 41.46
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 247.4,
+        "btw_per_stuk": 51.95
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2003-824",
+    "orderdatum": "15-12-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 596",
+      "postcode": "3958 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "26542225"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 468.89,
+        "btw_per_stuk": 98.47
+      }
+    ]
+  }
+}

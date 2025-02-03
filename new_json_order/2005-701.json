@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-701",
+    "orderdatum": "16-09-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 143",
+      "postcode": "6661 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "46157798"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 219.91,
+        "btw_per_stuk": 46.18
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 176.59,
+        "btw_per_stuk": 37.08
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 361.25,
+        "btw_per_stuk": 75.86
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 429.51,
+        "btw_per_stuk": 90.2
+      }
+    ]
+  }
+}

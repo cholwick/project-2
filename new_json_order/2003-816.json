@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-816",
+    "orderdatum": "21-11-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 71",
+      "postcode": "5181 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "76742242"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 345.94,
+        "btw_per_stuk": 72.65
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 434.38,
+        "btw_per_stuk": 91.22
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 114.68,
+        "btw_per_stuk": 24.08
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 379.66,
+        "btw_per_stuk": 79.73
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 402.69,
+        "btw_per_stuk": 84.56
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2016-581",
+    "orderdatum": "05-11-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 994",
+      "postcode": "1188 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "81097926"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 246.08,
+        "btw_per_stuk": 51.68
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 54.21,
+        "btw_per_stuk": 11.38
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 362.95,
+        "btw_per_stuk": 76.22
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 155.36,
+        "btw_per_stuk": 32.63
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 52.13,
+        "btw_per_stuk": 10.95
+      }
+    ]
+  }
+}

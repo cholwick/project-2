@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-924",
+    "orderdatum": "02-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 866",
+      "postcode": "8223 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "96383763"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 268.28,
+        "btw_per_stuk": 56.34
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 457.88,
+        "btw_per_stuk": 96.15
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 186.04,
+        "btw_per_stuk": 39.07
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 271.52,
+        "btw_per_stuk": 57.02
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 436.84,
+        "btw_per_stuk": 91.74
+      }
+    ]
+  }
+}

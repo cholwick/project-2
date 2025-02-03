@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-128",
+    "orderdatum": "09-04-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 512",
+      "postcode": "8866 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "98914251"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 217.77,
+        "btw_per_stuk": 45.73
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 487.09,
+        "btw_per_stuk": 102.29
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 240.83,
+        "btw_per_stuk": 50.57
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 206.16,
+        "btw_per_stuk": 43.29
+      }
+    ]
+  }
+}

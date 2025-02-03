@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-976",
+    "orderdatum": "20-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 79",
+      "postcode": "5210 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42516108"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 432.85,
+        "btw_per_stuk": 90.9
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 202.86,
+        "btw_per_stuk": 42.6
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 329.17,
+        "btw_per_stuk": 69.13
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 445.96,
+        "btw_per_stuk": 93.65
+      }
+    ]
+  }
+}

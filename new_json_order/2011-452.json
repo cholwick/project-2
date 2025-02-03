@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-452",
+    "orderdatum": "06-05-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 171",
+      "postcode": "6703 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "86106675"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 309.85,
+        "btw_per_stuk": 65.07
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 459.48,
+        "btw_per_stuk": 96.49
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 344.69,
+        "btw_per_stuk": 72.38
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 155.74,
+        "btw_per_stuk": 32.71
+      }
+    ]
+  }
+}

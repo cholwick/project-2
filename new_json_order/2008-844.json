@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-844",
+    "orderdatum": "25-01-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 713",
+      "postcode": "2549 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "97612066"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 17.81,
+        "btw_per_stuk": 3.74
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 344.74,
+        "btw_per_stuk": 72.4
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 345.61,
+        "btw_per_stuk": 72.58
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 441.82,
+        "btw_per_stuk": 92.78
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 41.53,
+        "btw_per_stuk": 8.72
+      }
+    ]
+  }
+}

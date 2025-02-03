@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-277",
+    "orderdatum": "12-08-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 452",
+      "postcode": "2142 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33364983"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 58.99,
+        "btw_per_stuk": 12.39
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 286.49,
+        "btw_per_stuk": 60.16
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 291.87,
+        "btw_per_stuk": 61.29
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 242.99,
+        "btw_per_stuk": 51.03
+      }
+    ]
+  }
+}

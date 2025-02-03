@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2013-980",
+    "orderdatum": "05-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 503",
+      "postcode": "2397 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "28329102"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 180.14,
+        "btw_per_stuk": 37.83
+      }
+    ]
+  }
+}

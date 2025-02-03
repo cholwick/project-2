@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2004-259",
+    "orderdatum": "06-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 33",
+      "postcode": "1804 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42619485"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 491.86,
+        "btw_per_stuk": 103.29
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 361.55,
+        "btw_per_stuk": 75.93
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 42.18,
+        "btw_per_stuk": 8.86
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 341.85,
+        "btw_per_stuk": 71.79
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 48.57,
+        "btw_per_stuk": 10.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2004-977",
+    "orderdatum": "04-01-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 59",
+      "postcode": "3224 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "74646791"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 183.5,
+        "btw_per_stuk": 38.53
+      }
+    ]
+  }
+}

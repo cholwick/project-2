@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-956",
+    "orderdatum": "26-03-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 137",
+      "postcode": "9325 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "88031553"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 467.4,
+        "btw_per_stuk": 98.15
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 477.66,
+        "btw_per_stuk": 100.31
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 317.17,
+        "btw_per_stuk": 66.61
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2017-789",
+    "orderdatum": "18-01-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 366",
+      "postcode": "8885 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "46090083"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 464.33,
+        "btw_per_stuk": 97.51
+      }
+    ]
+  }
+}

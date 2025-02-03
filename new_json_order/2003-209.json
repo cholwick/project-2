@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2003-209",
+    "orderdatum": "09-08-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 855",
+      "postcode": "1810 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "19565160"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 475.45,
+        "btw_per_stuk": 99.84
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 174.92,
+        "btw_per_stuk": 36.73
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 143.83,
+        "btw_per_stuk": 30.2
+      }
+    ]
+  }
+}

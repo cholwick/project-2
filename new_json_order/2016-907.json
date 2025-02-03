@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-907",
+    "orderdatum": "17-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 417",
+      "postcode": "3395 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "30458924"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 386.77,
+        "btw_per_stuk": 81.22
+      }
+    ]
+  }
+}

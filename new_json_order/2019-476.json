@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-476",
+    "orderdatum": "05-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 981",
+      "postcode": "2445 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "92027809"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 105.35,
+        "btw_per_stuk": 22.12
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 394.84,
+        "btw_per_stuk": 82.92
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 481.43,
+        "btw_per_stuk": 101.1
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 116.95,
+        "btw_per_stuk": 24.56
+      }
+    ]
+  }
+}

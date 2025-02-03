@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2013-599",
+    "orderdatum": "11-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 273",
+      "postcode": "3328 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "40045726"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.45,
+        "btw_per_stuk": 65.61
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 233.42,
+        "btw_per_stuk": 49.02
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 250.14,
+        "btw_per_stuk": 52.53
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 344.47,
+        "btw_per_stuk": 72.34
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 337.29,
+        "btw_per_stuk": 70.83
+      }
+    ]
+  }
+}

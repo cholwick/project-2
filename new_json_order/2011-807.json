@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-807",
+    "orderdatum": "27-07-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 127",
+      "postcode": "7987 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "90773011"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 264.63,
+        "btw_per_stuk": 55.57
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 363.09,
+        "btw_per_stuk": 76.25
+      }
+    ]
+  }
+}

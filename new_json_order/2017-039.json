@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-039",
+    "orderdatum": "12-10-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 215",
+      "postcode": "5418 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "18808214"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 32.55,
+        "btw_per_stuk": 6.84
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 107.46,
+        "btw_per_stuk": 22.57
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 486.49,
+        "btw_per_stuk": 102.16
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 448.43,
+        "btw_per_stuk": 94.17
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 146.46,
+        "btw_per_stuk": 30.76
+      }
+    ]
+  }
+}

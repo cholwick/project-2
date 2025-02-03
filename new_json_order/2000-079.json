@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2000-079",
+    "orderdatum": "24-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 792",
+      "postcode": "6062 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "66753466"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 415.42,
+        "btw_per_stuk": 87.24
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 485.95,
+        "btw_per_stuk": 102.05
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 373.97,
+        "btw_per_stuk": 78.53
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 319.33,
+        "btw_per_stuk": 67.06
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 10.43,
+        "btw_per_stuk": 2.19
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-174",
+    "orderdatum": "19-06-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 394",
+      "postcode": "9161 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "25236639"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 258.39,
+        "btw_per_stuk": 54.26
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 72.83,
+        "btw_per_stuk": 15.29
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 328.88,
+        "btw_per_stuk": 69.06
+      }
+    ]
+  }
+}

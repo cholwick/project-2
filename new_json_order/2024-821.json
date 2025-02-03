@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2024-821",
+    "orderdatum": "18-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 894",
+      "postcode": "8113 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "15991006"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 117.02,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

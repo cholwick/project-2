@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-478",
+    "orderdatum": "21-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 764",
+      "postcode": "4428 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "78391370"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 31.8,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 449.55,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

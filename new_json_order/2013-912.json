@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-912",
+    "orderdatum": "10-12-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 475",
+      "postcode": "7241 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "64246155"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 348.0,
+        "btw_per_stuk": 73.08
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 357.34,
+        "btw_per_stuk": 75.04
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 169.54,
+        "btw_per_stuk": 35.6
+      }
+    ]
+  }
+}

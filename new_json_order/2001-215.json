@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2001-215",
+    "orderdatum": "07-12-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 12",
+      "postcode": "9755 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "40506289"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 15.72,
+        "btw_per_stuk": 3.3
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 245.98,
+        "btw_per_stuk": 51.66
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 451.83,
+        "btw_per_stuk": 94.88
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 228.07,
+        "btw_per_stuk": 47.89
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 374.84,
+        "btw_per_stuk": 78.72
+      }
+    ]
+  }
+}

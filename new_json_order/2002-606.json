@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2002-606",
+    "orderdatum": "16-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 257",
+      "postcode": "4853 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "54343754"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 366.76,
+        "btw_per_stuk": 77.02
+      }
+    ]
+  }
+}

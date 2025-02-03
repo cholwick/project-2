@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-864",
+    "orderdatum": "06-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 461",
+      "postcode": "3242 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "43522830"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 77.95,
+        "btw_per_stuk": 16.37
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 266.28,
+        "btw_per_stuk": 55.92
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-438",
+    "orderdatum": "01-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 741",
+      "postcode": "8119 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "79555936"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 154.54,
+        "btw_per_stuk": 32.45
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 184.98,
+        "btw_per_stuk": 38.85
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 11.16,
+        "btw_per_stuk": 2.34
+      }
+    ]
+  }
+}

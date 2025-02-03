@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2004-727",
+    "orderdatum": "13-03-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 557",
+      "postcode": "3337 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "47981755"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 269.67,
+        "btw_per_stuk": 56.63
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 347.48,
+        "btw_per_stuk": 72.97
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 67.09,
+        "btw_per_stuk": 14.09
+      }
+    ]
+  }
+}

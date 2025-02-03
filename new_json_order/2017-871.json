@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-871",
+    "orderdatum": "05-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 563",
+      "postcode": "8486 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "60068073"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 130.31,
+        "btw_per_stuk": 27.37
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 108.38,
+        "btw_per_stuk": 22.76
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 350.66,
+        "btw_per_stuk": 73.64
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 473.02,
+        "btw_per_stuk": 99.33
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 165.91,
+        "btw_per_stuk": 34.84
+      }
+    ]
+  }
+}

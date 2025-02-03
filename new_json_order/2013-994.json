@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-994",
+    "orderdatum": "05-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 169",
+      "postcode": "8632 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "62100686"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 50.36,
+        "btw_per_stuk": 10.58
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 448.16,
+        "btw_per_stuk": 94.11
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-499",
+    "orderdatum": "10-05-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 692",
+      "postcode": "9803 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "45972578"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 144.71,
+        "btw_per_stuk": 30.39
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 430.22,
+        "btw_per_stuk": 90.35
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 41.76,
+        "btw_per_stuk": 8.77
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 212.04,
+        "btw_per_stuk": 44.53
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 157.93,
+        "btw_per_stuk": 33.17
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-802",
+    "orderdatum": "19-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 959",
+      "postcode": "1833 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "57856613"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 72.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 91.16,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

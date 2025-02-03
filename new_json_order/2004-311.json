@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2004-311",
+    "orderdatum": "11-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 241",
+      "postcode": "8683 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "34103093"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 297.2,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

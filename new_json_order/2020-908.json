@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-908",
+    "orderdatum": "16-07-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 856",
+      "postcode": "4310 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "41431409"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 144.44,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 389.3,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

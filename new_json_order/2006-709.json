@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-709",
+    "orderdatum": "11-11-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 783",
+      "postcode": "4883 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "85050534"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 415.05,
+        "btw_per_stuk": 87.16
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 283.74,
+        "btw_per_stuk": 59.59
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 207.14,
+        "btw_per_stuk": 43.5
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 448.77,
+        "btw_per_stuk": 94.24
+      }
+    ]
+  }
+}

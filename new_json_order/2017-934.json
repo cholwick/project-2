@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2017-934",
+    "orderdatum": "02-04-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 718",
+      "postcode": "8276 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "90096560"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 91.62,
+        "btw_per_stuk": 19.24
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 209.56,
+        "btw_per_stuk": 44.01
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 167.94,
+        "btw_per_stuk": 35.27
+      }
+    ]
+  }
+}

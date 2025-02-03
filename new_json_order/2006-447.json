@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-447",
+    "orderdatum": "27-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 214",
+      "postcode": "2244 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "67681652"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 474.33,
+        "btw_per_stuk": 99.61
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 429.94,
+        "btw_per_stuk": 90.29
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 342.19,
+        "btw_per_stuk": 71.86
+      }
+    ]
+  }
+}

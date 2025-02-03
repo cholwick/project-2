@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-611",
+    "orderdatum": "15-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 88",
+      "postcode": "6190 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "67742764"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 208.85,
+        "btw_per_stuk": 43.86
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 10.99,
+        "btw_per_stuk": 2.31
+      }
+    ]
+  }
+}

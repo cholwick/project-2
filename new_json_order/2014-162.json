@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-162",
+    "orderdatum": "05-10-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 588",
+      "postcode": "5412 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "22809320"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 76.6,
+        "btw_per_stuk": 16.09
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 271.64,
+        "btw_per_stuk": 57.04
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 485.11,
+        "btw_per_stuk": 101.87
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 97.15,
+        "btw_per_stuk": 20.4
+      }
+    ]
+  }
+}

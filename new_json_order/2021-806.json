@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-806",
+    "orderdatum": "18-03-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 843",
+      "postcode": "7508 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "76240466"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 263.76,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 208.25,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

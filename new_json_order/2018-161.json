@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-161",
+    "orderdatum": "14-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 102",
+      "postcode": "4507 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "62406207"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 446.61,
+        "btw_per_stuk": 93.79
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 186.89,
+        "btw_per_stuk": 39.25
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-522",
+    "orderdatum": "14-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 4",
+      "postcode": "6409 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "23250284"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 95.51,
+        "btw_per_stuk": 20.06
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 243.22,
+        "btw_per_stuk": 51.08
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 414.46,
+        "btw_per_stuk": 87.04
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 170.08,
+        "btw_per_stuk": 35.72
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 38.24,
+        "btw_per_stuk": 8.03
+      }
+    ]
+  }
+}

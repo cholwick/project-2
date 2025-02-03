@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-887",
+    "orderdatum": "06-11-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 375",
+      "postcode": "2341 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "24605090"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 31.6,
+        "btw_per_stuk": 6.64
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 250.6,
+        "btw_per_stuk": 52.63
+      }
+    ]
+  }
+}

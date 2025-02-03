@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2006-788",
+    "orderdatum": "16-12-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 865",
+      "postcode": "4670 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "26488307"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 340.46,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-867",
+    "orderdatum": "09-09-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 408",
+      "postcode": "1316 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "20882764"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 200.03,
+        "btw_per_stuk": 42.01
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 444.93,
+        "btw_per_stuk": 93.44
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 421.9,
+        "btw_per_stuk": 88.6
+      }
+    ]
+  }
+}

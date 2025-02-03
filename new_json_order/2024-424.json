@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2024-424",
+    "orderdatum": "01-10-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 440",
+      "postcode": "6784 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "69518163"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 349.72,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 250.65,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 212.42,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

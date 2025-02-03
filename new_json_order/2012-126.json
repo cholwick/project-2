@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2012-126",
+    "orderdatum": "05-07-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 635",
+      "postcode": "8546 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "84681382"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 409.47,
+        "btw_per_stuk": 85.99
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 401.22,
+        "btw_per_stuk": 84.26
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 461.16,
+        "btw_per_stuk": 96.84
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 322.5,
+        "btw_per_stuk": 67.72
+      }
+    ]
+  }
+}

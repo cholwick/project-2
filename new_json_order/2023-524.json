@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-524",
+    "orderdatum": "19-10-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 870",
+      "postcode": "1204 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "80768403"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 80.6,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

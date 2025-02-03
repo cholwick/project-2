@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-689",
+    "orderdatum": "06-03-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 298",
+      "postcode": "4134 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "36589200"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 14.81,
+        "btw_per_stuk": 3.11
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 397.97,
+        "btw_per_stuk": 83.57
+      }
+    ]
+  }
+}

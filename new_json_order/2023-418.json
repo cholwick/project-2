@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-418",
+    "orderdatum": "25-04-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 485",
+      "postcode": "7230 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "17401275"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 387.65,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 353.26,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

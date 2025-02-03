@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2022-400",
+    "orderdatum": "18-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 450",
+      "postcode": "4039 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "16768489"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 58.6,
+        "btw_per_stuk": 12.31
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 181.28,
+        "btw_per_stuk": 38.07
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 407.53,
+        "btw_per_stuk": 85.58
+      }
+    ]
+  }
+}

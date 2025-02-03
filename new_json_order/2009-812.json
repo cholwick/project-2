@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-812",
+    "orderdatum": "09-10-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 106",
+      "postcode": "5354 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "59080206"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 172.64,
+        "btw_per_stuk": 36.25
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 30.58,
+        "btw_per_stuk": 6.42
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 173.3,
+        "btw_per_stuk": 36.39
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 372.14,
+        "btw_per_stuk": 78.15
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2014-342",
+    "orderdatum": "19-04-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 139",
+      "postcode": "4875 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "85284880"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 43.56,
+        "btw_per_stuk": 9.15
+      }
+    ]
+  }
+}

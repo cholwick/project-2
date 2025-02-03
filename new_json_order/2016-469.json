@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-469",
+    "orderdatum": "12-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 784",
+      "postcode": "4614 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "59622541"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 222.39,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

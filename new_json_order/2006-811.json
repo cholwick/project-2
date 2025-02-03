@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-811",
+    "orderdatum": "20-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 859",
+      "postcode": "8994 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "81964887"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 179.55,
+        "btw_per_stuk": 37.71
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 236.82,
+        "btw_per_stuk": 49.73
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 302.29,
+        "btw_per_stuk": 63.48
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 311.26,
+        "btw_per_stuk": 65.36
+      }
+    ]
+  }
+}

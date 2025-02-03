@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-850",
+    "orderdatum": "09-07-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 824",
+      "postcode": "3027 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "36906769"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 247.61,
+        "btw_per_stuk": 52.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 423.96,
+        "btw_per_stuk": 89.03
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 448.78,
+        "btw_per_stuk": 94.24
+      }
+    ]
+  }
+}

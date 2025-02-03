@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2015-139",
+    "orderdatum": "20-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 955",
+      "postcode": "3588 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "67917888"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 189.79,
+        "btw_per_stuk": 39.86
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 486.61,
+        "btw_per_stuk": 102.19
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 153.96,
+        "btw_per_stuk": 32.33
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 230.48,
+        "btw_per_stuk": 48.4
+      }
+    ]
+  }
+}

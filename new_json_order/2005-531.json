@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-531",
+    "orderdatum": "12-10-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 35",
+      "postcode": "5022 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66325657"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 205.2,
+        "btw_per_stuk": 43.09
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 156.36,
+        "btw_per_stuk": 32.84
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 175.52,
+        "btw_per_stuk": 36.86
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 238.9,
+        "btw_per_stuk": 50.17
+      }
+    ]
+  }
+}

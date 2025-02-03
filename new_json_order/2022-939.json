@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-939",
+    "orderdatum": "23-06-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 478",
+      "postcode": "7127 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "94389186"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 53.98,
+        "btw_per_stuk": 11.34
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 429.19,
+        "btw_per_stuk": 90.13
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 216.07,
+        "btw_per_stuk": 45.37
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 250.96,
+        "btw_per_stuk": 52.7
+      }
+    ]
+  }
+}

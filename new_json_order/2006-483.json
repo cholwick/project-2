@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-483",
+    "orderdatum": "20-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 229",
+      "postcode": "4112 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "63022535"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 405.04,
+        "btw_per_stuk": 85.06
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 117.68,
+        "btw_per_stuk": 24.71
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 383.26,
+        "btw_per_stuk": 80.48
+      }
+    ]
+  }
+}

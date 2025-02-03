@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-652",
+    "orderdatum": "10-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 203",
+      "postcode": "3387 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "12977146"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 219.08,
+        "btw_per_stuk": 46.01
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 18.46,
+        "btw_per_stuk": 3.88
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 24.04,
+        "btw_per_stuk": 5.05
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 238.71,
+        "btw_per_stuk": 50.13
+      }
+    ]
+  }
+}

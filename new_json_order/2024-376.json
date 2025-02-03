@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2024-376",
+    "orderdatum": "08-11-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 301",
+      "postcode": "4217 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "13123532"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 346.81,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 426.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 153.22,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

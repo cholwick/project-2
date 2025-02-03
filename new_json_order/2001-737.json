@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2001-737",
+    "orderdatum": "18-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 949",
+      "postcode": "5794 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "87844673"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 73.17,
+        "btw_per_stuk": 15.37
+      }
+    ]
+  }
+}

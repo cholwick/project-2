@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-152",
+    "orderdatum": "09-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 801",
+      "postcode": "1514 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53171732"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 118.95,
+        "btw_per_stuk": 24.98
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 441.06,
+        "btw_per_stuk": 92.62
+      }
+    ]
+  }
+}

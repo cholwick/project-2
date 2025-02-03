@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-382",
+    "orderdatum": "21-01-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 130",
+      "postcode": "8441 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "47970112"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 63.73,
+        "btw_per_stuk": 13.38
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 130.59,
+        "btw_per_stuk": 27.42
+      }
+    ]
+  }
+}

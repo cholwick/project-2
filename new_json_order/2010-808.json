@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-808",
+    "orderdatum": "07-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 216",
+      "postcode": "1127 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "96044857"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 81.12,
+        "btw_per_stuk": 17.04
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 337.49,
+        "btw_per_stuk": 70.87
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 498.68,
+        "btw_per_stuk": 104.72
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 461.47,
+        "btw_per_stuk": 96.91
+      }
+    ]
+  }
+}

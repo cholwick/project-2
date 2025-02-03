@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-763",
+    "orderdatum": "19-10-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 220",
+      "postcode": "7614 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "33549407"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 246.69,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 76.2,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

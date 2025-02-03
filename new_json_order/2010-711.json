@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-711",
+    "orderdatum": "12-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 690",
+      "postcode": "3335 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "75791476"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 72.01,
+        "btw_per_stuk": 15.12
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 91.21,
+        "btw_per_stuk": 19.15
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 428.7,
+        "btw_per_stuk": 90.03
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 241.12,
+        "btw_per_stuk": 50.64
+      }
+    ]
+  }
+}

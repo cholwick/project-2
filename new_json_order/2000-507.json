@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2000-507",
+    "orderdatum": "11-11-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 49",
+      "postcode": "7015 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "85015588"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 231.53,
+        "btw_per_stuk": 48.62
+      }
+    ]
+  }
+}

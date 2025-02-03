@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2012-901",
+    "orderdatum": "03-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 913",
+      "postcode": "7078 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "96679090"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 228.79,
+        "btw_per_stuk": 48.05
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 450.1,
+        "btw_per_stuk": 94.52
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 456.58,
+        "btw_per_stuk": 95.88
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 331.79,
+        "btw_per_stuk": 69.68
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-514",
+    "orderdatum": "23-09-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 242",
+      "postcode": "1238 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "52967642"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 338.12,
+        "btw_per_stuk": 71.01
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 250.22,
+        "btw_per_stuk": 52.55
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 30.3,
+        "btw_per_stuk": 6.36
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 409.62,
+        "btw_per_stuk": 86.02
+      }
+    ]
+  }
+}

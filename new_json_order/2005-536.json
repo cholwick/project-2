@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-536",
+    "orderdatum": "18-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 526",
+      "postcode": "5929 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "96659612"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 325.84,
+        "btw_per_stuk": 68.43
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 333.3,
+        "btw_per_stuk": 69.99
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2019-047",
+    "orderdatum": "04-08-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 720",
+      "postcode": "6058 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "48310802"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 250.78,
+        "btw_per_stuk": 52.66
+      }
+    ]
+  }
+}

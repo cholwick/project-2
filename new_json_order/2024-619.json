@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2024-619",
+    "orderdatum": "22-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 218",
+      "postcode": "7104 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "72705603"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 496.17,
+        "btw_per_stuk": 104.2
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 318.3,
+        "btw_per_stuk": 66.84
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 373.08,
+        "btw_per_stuk": 78.35
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-700",
+    "orderdatum": "22-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 500",
+      "postcode": "3461 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "10457706"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 497.59,
+        "btw_per_stuk": 104.49
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 218.68,
+        "btw_per_stuk": 45.92
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 385.85,
+        "btw_per_stuk": 81.03
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 359.63,
+        "btw_per_stuk": 75.52
+      }
+    ]
+  }
+}

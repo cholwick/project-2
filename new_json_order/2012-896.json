@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2012-896",
+    "orderdatum": "17-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 334",
+      "postcode": "6135 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "47128962"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 471.81,
+        "btw_per_stuk": 99.08
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 167.68,
+        "btw_per_stuk": 35.21
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 467.5,
+        "btw_per_stuk": 98.17
+      }
+    ]
+  }
+}

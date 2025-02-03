@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2015-971",
+    "orderdatum": "26-01-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 381",
+      "postcode": "2422 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39120923"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 84.05,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

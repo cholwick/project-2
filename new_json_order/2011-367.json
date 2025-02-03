@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-367",
+    "orderdatum": "19-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 953",
+      "postcode": "8236 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "48080760"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 344.23,
+        "btw_per_stuk": 72.29
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 212.83,
+        "btw_per_stuk": 44.69
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 223.93,
+        "btw_per_stuk": 47.03
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 376.21,
+        "btw_per_stuk": 79.0
+      }
+    ]
+  }
+}

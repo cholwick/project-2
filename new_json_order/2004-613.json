@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2004-613",
+    "orderdatum": "17-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 289",
+      "postcode": "1381 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "83544545"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 45.24,
+        "btw_per_stuk": 9.5
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 384.12,
+        "btw_per_stuk": 80.67
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 234.22,
+        "btw_per_stuk": 49.19
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 478.73,
+        "btw_per_stuk": 100.53
+      }
+    ]
+  }
+}

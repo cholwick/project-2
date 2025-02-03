@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-365",
+    "orderdatum": "10-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 337",
+      "postcode": "3173 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "69315579"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 53.8,
+        "btw_per_stuk": 11.3
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 70.15,
+        "btw_per_stuk": 14.73
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 403.57,
+        "btw_per_stuk": 84.75
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 31.35,
+        "btw_per_stuk": 6.58
+      }
+    ]
+  }
+}

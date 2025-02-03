@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-714",
+    "orderdatum": "11-12-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 430",
+      "postcode": "4548 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "34959050"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 345.76,
+        "btw_per_stuk": 72.61
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 335.38,
+        "btw_per_stuk": 70.43
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 437.29,
+        "btw_per_stuk": 91.83
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 347.27,
+        "btw_per_stuk": 72.93
+      }
+    ]
+  }
+}

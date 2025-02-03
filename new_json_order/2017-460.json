@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-460",
+    "orderdatum": "26-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 184",
+      "postcode": "7126 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "35914357"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 70.84,
+        "btw_per_stuk": 14.88
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 418.57,
+        "btw_per_stuk": 87.9
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 457.74,
+        "btw_per_stuk": 96.13
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 482.55,
+        "btw_per_stuk": 101.34
+      }
+    ]
+  }
+}

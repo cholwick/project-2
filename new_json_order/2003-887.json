@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-887",
+    "orderdatum": "19-04-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 265",
+      "postcode": "3756 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "76294172"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 115.34,
+        "btw_per_stuk": 24.22
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 285.57,
+        "btw_per_stuk": 59.97
+      }
+    ]
+  }
+}

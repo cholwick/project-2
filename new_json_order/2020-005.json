@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-005",
+    "orderdatum": "08-10-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 276",
+      "postcode": "4508 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "43225829"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 338.41,
+        "btw_per_stuk": 71.07
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 214.64,
+        "btw_per_stuk": 45.07
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 288.7,
+        "btw_per_stuk": 60.63
+      }
+    ]
+  }
+}

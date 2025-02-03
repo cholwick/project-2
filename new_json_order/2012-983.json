@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-983",
+    "orderdatum": "02-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 535",
+      "postcode": "4276 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "32212501"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 56.93,
+        "btw_per_stuk": 11.96
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 245.93,
+        "btw_per_stuk": 51.65
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 87.6,
+        "btw_per_stuk": 18.4
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 449.16,
+        "btw_per_stuk": 94.32
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 330.22,
+        "btw_per_stuk": 69.35
+      }
+    ]
+  }
+}

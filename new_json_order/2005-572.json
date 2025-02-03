@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-572",
+    "orderdatum": "06-08-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 893",
+      "postcode": "8053 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "11665285"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 239.73,
+        "btw_per_stuk": 50.34
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 271.11,
+        "btw_per_stuk": 56.93
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 448.07,
+        "btw_per_stuk": 94.09
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 162.21,
+        "btw_per_stuk": 34.06
+      }
+    ]
+  }
+}

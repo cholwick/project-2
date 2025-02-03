@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2017-918",
+    "orderdatum": "02-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 281",
+      "postcode": "4617 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "92772674"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 225.67,
+        "btw_per_stuk": 47.39
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 274.02,
+        "btw_per_stuk": 57.54
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 251.69,
+        "btw_per_stuk": 52.85
+      }
+    ]
+  }
+}

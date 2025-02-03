@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-475",
+    "orderdatum": "18-09-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 828",
+      "postcode": "1311 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "68395423"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 499.73,
+        "btw_per_stuk": 104.94
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 67.13,
+        "btw_per_stuk": 14.1
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 349.59,
+        "btw_per_stuk": 73.41
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 321.56,
+        "btw_per_stuk": 67.53
+      }
+    ]
+  }
+}

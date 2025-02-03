@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-483",
+    "orderdatum": "07-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 325",
+      "postcode": "3588 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91718085"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 115.47,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

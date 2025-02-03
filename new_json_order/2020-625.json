@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-625",
+    "orderdatum": "05-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 563",
+      "postcode": "6946 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "20891434"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 418.85,
+        "btw_per_stuk": 87.96
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 79.41,
+        "btw_per_stuk": 16.68
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 11.39,
+        "btw_per_stuk": 2.39
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 368.89,
+        "btw_per_stuk": 77.47
+      }
+    ]
+  }
+}

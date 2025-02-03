@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-730",
+    "orderdatum": "14-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 496",
+      "postcode": "9964 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "96010783"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 379.43,
+        "btw_per_stuk": 79.68
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 59.24,
+        "btw_per_stuk": 12.44
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 367.65,
+        "btw_per_stuk": 77.21
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 74.15,
+        "btw_per_stuk": 15.57
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 69.08,
+        "btw_per_stuk": 14.51
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-357",
+    "orderdatum": "27-07-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 219",
+      "postcode": "2681 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "41119310"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 385.16,
+        "btw_per_stuk": 80.88
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 356.45,
+        "btw_per_stuk": 74.85
+      }
+    ]
+  }
+}

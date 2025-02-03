@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2008-818",
+    "orderdatum": "26-12-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 370",
+      "postcode": "4618 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "63693780"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 287.46,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 196.41,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 240.1,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

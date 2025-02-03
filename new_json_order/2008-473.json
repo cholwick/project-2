@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-473",
+    "orderdatum": "02-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 824",
+      "postcode": "9002 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "65627867"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 415.82,
+        "btw_per_stuk": 87.32
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 365.87,
+        "btw_per_stuk": 76.83
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 198.74,
+        "btw_per_stuk": 41.74
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 157.99,
+        "btw_per_stuk": 33.18
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 217.6,
+        "btw_per_stuk": 45.7
+      }
+    ]
+  }
+}

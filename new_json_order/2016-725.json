@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-725",
+    "orderdatum": "04-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 550",
+      "postcode": "3381 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "17089232"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 425.71,
+        "btw_per_stuk": 89.4
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 426.15,
+        "btw_per_stuk": 89.49
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 494.14,
+        "btw_per_stuk": 103.77
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 51.67,
+        "btw_per_stuk": 10.85
+      }
+    ]
+  }
+}

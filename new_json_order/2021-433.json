@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2021-433",
+    "orderdatum": "07-10-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 851",
+      "postcode": "2770 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "21356830"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 415.28,
+        "btw_per_stuk": 87.21
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 394.91,
+        "btw_per_stuk": 82.93
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 492.78,
+        "btw_per_stuk": 103.48
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 36.85,
+        "btw_per_stuk": 7.74
+      }
+    ]
+  }
+}

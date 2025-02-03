@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-198",
+    "orderdatum": "13-05-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 203",
+      "postcode": "5617 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "33758389"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 16.99,
+        "btw_per_stuk": 3.57
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 196.68,
+        "btw_per_stuk": 41.3
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 152.63,
+        "btw_per_stuk": 32.05
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 34.55,
+        "btw_per_stuk": 7.26
+      }
+    ]
+  }
+}

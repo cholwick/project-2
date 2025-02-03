@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-274",
+    "orderdatum": "12-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 843",
+      "postcode": "5054 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "25436679"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 349.14,
+        "btw_per_stuk": 73.32
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 481.56,
+        "btw_per_stuk": 101.13
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 445.78,
+        "btw_per_stuk": 93.61
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 453.94,
+        "btw_per_stuk": 95.33
+      }
+    ]
+  }
+}

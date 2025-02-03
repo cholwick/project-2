@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-784",
+    "orderdatum": "24-05-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 933",
+      "postcode": "4718 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "72132237"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 302.04,
+        "btw_per_stuk": 63.43
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 463.89,
+        "btw_per_stuk": 97.42
+      }
+    ]
+  }
+}

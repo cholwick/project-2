@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2006-846",
+    "orderdatum": "02-02-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 999",
+      "postcode": "5013 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "84240181"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 316.25,
+        "btw_per_stuk": 66.41
+      }
+    ]
+  }
+}

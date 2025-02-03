@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-843",
+    "orderdatum": "09-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 956",
+      "postcode": "3930 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "29677933"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 74.63,
+        "btw_per_stuk": 15.67
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 170.73,
+        "btw_per_stuk": 35.85
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 292.37,
+        "btw_per_stuk": 61.4
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 249.22,
+        "btw_per_stuk": 52.34
+      }
+    ]
+  }
+}

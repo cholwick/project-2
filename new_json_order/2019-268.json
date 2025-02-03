@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-268",
+    "orderdatum": "24-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 405",
+      "postcode": "9271 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "77595207"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 417.08,
+        "btw_per_stuk": 87.59
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 33.38,
+        "btw_per_stuk": 7.01
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 423.8,
+        "btw_per_stuk": 89.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 149.63,
+        "btw_per_stuk": 31.42
+      }
+    ]
+  }
+}

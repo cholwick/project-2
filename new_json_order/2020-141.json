@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2020-141",
+    "orderdatum": "10-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 369",
+      "postcode": "5405 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "35873473"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 271.51,
+        "btw_per_stuk": 57.02
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 85.7,
+        "btw_per_stuk": 18.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 402.51,
+        "btw_per_stuk": 84.53
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 133.07,
+        "btw_per_stuk": 27.94
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 336.61,
+        "btw_per_stuk": 70.69
+      }
+    ]
+  }
+}

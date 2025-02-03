@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-732",
+    "orderdatum": "22-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 45",
+      "postcode": "8418 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "96311507"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 145.63,
+        "btw_per_stuk": 30.58
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 348.33,
+        "btw_per_stuk": 73.15
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 179.53,
+        "btw_per_stuk": 37.7
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 156.07,
+        "btw_per_stuk": 32.77
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 315.37,
+        "btw_per_stuk": 66.23
+      }
+    ]
+  }
+}

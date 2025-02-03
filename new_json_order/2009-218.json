@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-218",
+    "orderdatum": "06-06-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 790",
+      "postcode": "9460 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "21616506"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 113.13,
+        "btw_per_stuk": 23.76
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 380.06,
+        "btw_per_stuk": 79.81
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 102.88,
+        "btw_per_stuk": 21.6
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 187.52,
+        "btw_per_stuk": 39.38
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-510",
+    "orderdatum": "25-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 847",
+      "postcode": "8139 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91976886"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 416.32,
+        "btw_per_stuk": 87.43
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 381.71,
+        "btw_per_stuk": 80.16
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 405.5,
+        "btw_per_stuk": 85.16
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 158.44,
+        "btw_per_stuk": 33.27
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 51.69,
+        "btw_per_stuk": 10.85
+      }
+    ]
+  }
+}

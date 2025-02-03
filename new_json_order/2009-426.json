@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-426",
+    "orderdatum": "24-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 833",
+      "postcode": "3339 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "11282105"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 446.52,
+        "btw_per_stuk": 93.77
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 407.34,
+        "btw_per_stuk": 85.54
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 25.37,
+        "btw_per_stuk": 5.33
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 30.77,
+        "btw_per_stuk": 6.46
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 360.92,
+        "btw_per_stuk": 75.79
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-028",
+    "orderdatum": "09-09-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 237",
+      "postcode": "1646 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42009300"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 351.84,
+        "btw_per_stuk": 73.89
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 325.89,
+        "btw_per_stuk": 68.44
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 294.38,
+        "btw_per_stuk": 61.82
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 484.9,
+        "btw_per_stuk": 101.83
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 440.67,
+        "btw_per_stuk": 92.54
+      }
+    ]
+  }
+}

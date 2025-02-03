@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-340",
+    "orderdatum": "02-05-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 721",
+      "postcode": "5263 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "46581038"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 495.72,
+        "btw_per_stuk": 104.1
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 191.43,
+        "btw_per_stuk": 40.2
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 111.54,
+        "btw_per_stuk": 23.42
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 360.78,
+        "btw_per_stuk": 75.76
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 404.21,
+        "btw_per_stuk": 84.88
+      }
+    ]
+  }
+}

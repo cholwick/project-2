@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2008-959",
+    "orderdatum": "04-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 66",
+      "postcode": "3132 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "81076918"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 157.97,
+        "btw_per_stuk": 33.17
+      }
+    ]
+  }
+}

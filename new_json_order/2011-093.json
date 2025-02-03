@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-093",
+    "orderdatum": "20-12-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Kerkstraat 259",
+      "postcode": "6971 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "74674356"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 318.01,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 292.67,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

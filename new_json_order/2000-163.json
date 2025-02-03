@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-163",
+    "orderdatum": "03-12-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 480",
+      "postcode": "5174 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "42406673"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 257.44,
+        "btw_per_stuk": 54.06
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 449.55,
+        "btw_per_stuk": 94.41
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 283.88,
+        "btw_per_stuk": 59.61
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 432.79,
+        "btw_per_stuk": 90.89
+      }
+    ]
+  }
+}

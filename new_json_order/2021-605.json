@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-605",
+    "orderdatum": "03-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 873",
+      "postcode": "9211 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "36695756"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 333.05,
+        "btw_per_stuk": 69.94
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 382.3,
+        "btw_per_stuk": 80.28
+      }
+    ]
+  }
+}

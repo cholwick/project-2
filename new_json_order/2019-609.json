@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-609",
+    "orderdatum": "06-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 589",
+      "postcode": "5943 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "75404444"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 262.91,
+        "btw_per_stuk": 55.21
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 111.93,
+        "btw_per_stuk": 23.51
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 409.34,
+        "btw_per_stuk": 85.96
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 153.95,
+        "btw_per_stuk": 32.33
+      }
+    ]
+  }
+}

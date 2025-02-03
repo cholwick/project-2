@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-416",
+    "orderdatum": "19-07-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 417",
+      "postcode": "6367 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "29654477"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 99.83,
+        "btw_per_stuk": 20.96
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 189.71,
+        "btw_per_stuk": 39.84
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 465.34,
+        "btw_per_stuk": 97.72
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 92.43,
+        "btw_per_stuk": 19.41
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 41.29,
+        "btw_per_stuk": 8.67
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-112",
+    "orderdatum": "08-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 974",
+      "postcode": "1749 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "60334648"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 256.21,
+        "btw_per_stuk": 53.8
+      }
+    ]
+  }
+}

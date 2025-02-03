@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2011-152",
+    "orderdatum": "02-05-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 727",
+      "postcode": "8293 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "25507104"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 69.26,
+        "btw_per_stuk": 14.54
+      }
+    ]
+  }
+}

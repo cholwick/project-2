@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2004-875",
+    "orderdatum": "06-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Kerkstraat 527",
+      "postcode": "8001 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "45015130"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 174.91,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 181.94,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 124.62,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

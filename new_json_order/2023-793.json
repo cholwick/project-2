@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2023-793",
+    "orderdatum": "28-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 783",
+      "postcode": "8002 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "73123418"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 249.66,
+        "btw_per_stuk": 52.43
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 412.26,
+        "btw_per_stuk": 86.57
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 285.65,
+        "btw_per_stuk": 59.99
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 280.35,
+        "btw_per_stuk": 58.87
+      }
+    ]
+  }
+}

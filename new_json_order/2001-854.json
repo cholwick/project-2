@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-854",
+    "orderdatum": "09-07-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 843",
+      "postcode": "7245 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "61866058"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 237.45,
+        "btw_per_stuk": 49.86
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 222.34,
+        "btw_per_stuk": 46.69
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 267.56,
+        "btw_per_stuk": 56.19
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 368.32,
+        "btw_per_stuk": 77.35
+      }
+    ]
+  }
+}

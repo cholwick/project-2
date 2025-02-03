@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-453",
+    "orderdatum": "03-06-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 257",
+      "postcode": "5167 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "24743796"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 446.11,
+        "btw_per_stuk": 93.68
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 397.22,
+        "btw_per_stuk": 83.42
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 290.83,
+        "btw_per_stuk": 61.07
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 296.4,
+        "btw_per_stuk": 62.24
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 205.8,
+        "btw_per_stuk": 43.22
+      }
+    ]
+  }
+}

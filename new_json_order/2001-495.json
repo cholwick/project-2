@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-495",
+    "orderdatum": "24-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 26",
+      "postcode": "4406 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "46035186"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 374.0,
+        "btw_per_stuk": 78.54
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 25.47,
+        "btw_per_stuk": 5.35
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 27.27,
+        "btw_per_stuk": 5.73
+      }
+    ]
+  }
+}

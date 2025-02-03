@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-454",
+    "orderdatum": "10-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 534",
+      "postcode": "2076 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "19183930"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 108.26,
+        "btw_per_stuk": 22.73
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 256.66,
+        "btw_per_stuk": 53.9
+      }
+    ]
+  }
+}

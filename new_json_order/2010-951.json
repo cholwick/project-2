@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-951",
+    "orderdatum": "15-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 620",
+      "postcode": "3049 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42265801"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 31.62,
+        "btw_per_stuk": 6.64
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 356.24,
+        "btw_per_stuk": 74.81
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 207.62,
+        "btw_per_stuk": 43.6
+      }
+    ]
+  }
+}

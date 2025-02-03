@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2020-816",
+    "orderdatum": "15-02-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 493",
+      "postcode": "1767 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "37806890"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 10.61,
+        "btw_per_stuk": 2.23
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 223.03,
+        "btw_per_stuk": 46.84
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 409.05,
+        "btw_per_stuk": 85.9
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 47.44,
+        "btw_per_stuk": 9.96
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 347.79,
+        "btw_per_stuk": 73.04
+      }
+    ]
+  }
+}

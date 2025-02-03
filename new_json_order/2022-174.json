@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2022-174",
+    "orderdatum": "19-09-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 385",
+      "postcode": "5931 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "24670134"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 213.57,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 362.58,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 484.26,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

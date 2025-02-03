@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-795",
+    "orderdatum": "26-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 672",
+      "postcode": "8550 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "69237388"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 203.52,
+        "btw_per_stuk": 42.74
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 443.16,
+        "btw_per_stuk": 93.06
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 14.58,
+        "btw_per_stuk": 3.06
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 151.34,
+        "btw_per_stuk": 31.78
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 168.61,
+        "btw_per_stuk": 35.41
+      }
+    ]
+  }
+}

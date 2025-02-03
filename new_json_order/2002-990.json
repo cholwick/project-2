@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-990",
+    "orderdatum": "23-10-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 69",
+      "postcode": "8832 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "29133310"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 140.45,
+        "btw_per_stuk": 29.49
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 136.45,
+        "btw_per_stuk": 28.65
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 310.75,
+        "btw_per_stuk": 65.26
+      }
+    ]
+  }
+}

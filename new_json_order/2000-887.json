@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-887",
+    "orderdatum": "27-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 637",
+      "postcode": "7197 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "96505163"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 269.16,
+        "btw_per_stuk": 56.52
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 263.65,
+        "btw_per_stuk": 55.37
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 263.72,
+        "btw_per_stuk": 55.38
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 447.31,
+        "btw_per_stuk": 93.94
+      }
+    ]
+  }
+}

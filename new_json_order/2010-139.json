@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-139",
+    "orderdatum": "10-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 757",
+      "postcode": "8775 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "95654920"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 344.14,
+        "btw_per_stuk": 72.27
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 438.6,
+        "btw_per_stuk": 92.11
+      }
+    ]
+  }
+}

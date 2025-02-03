@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-177",
+    "orderdatum": "09-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 685",
+      "postcode": "4711 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "98973002"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 282.3,
+        "btw_per_stuk": 59.28
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 59.79,
+        "btw_per_stuk": 12.56
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 89.37,
+        "btw_per_stuk": 18.77
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 218.84,
+        "btw_per_stuk": 45.96
+      }
+    ]
+  }
+}

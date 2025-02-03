@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-169",
+    "orderdatum": "23-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 213",
+      "postcode": "4652 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "33588405"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 351.12,
+        "btw_per_stuk": 73.74
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 499.37,
+        "btw_per_stuk": 104.87
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 14.58,
+        "btw_per_stuk": 3.06
+      }
+    ]
+  }
+}

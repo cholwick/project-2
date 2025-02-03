@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-323",
+    "orderdatum": "26-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 898",
+      "postcode": "2464 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "14923967"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 409.84,
+        "btw_per_stuk": 86.07
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 228.43,
+        "btw_per_stuk": 47.97
+      }
+    ]
+  }
+}

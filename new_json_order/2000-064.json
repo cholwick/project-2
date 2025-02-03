@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-064",
+    "orderdatum": "07-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 495",
+      "postcode": "1272 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "42171528"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 164.97,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 83.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 431.55,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

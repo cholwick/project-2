@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2004-139",
+    "orderdatum": "12-02-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 756",
+      "postcode": "2409 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "67042624"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 152.31,
+        "btw_per_stuk": 31.99
+      }
+    ]
+  }
+}

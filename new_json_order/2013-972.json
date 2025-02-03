@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-972",
+    "orderdatum": "18-07-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 308",
+      "postcode": "2777 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "91171322"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 135.45,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 156.82,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

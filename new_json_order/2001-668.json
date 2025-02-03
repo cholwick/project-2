@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-668",
+    "orderdatum": "26-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 114",
+      "postcode": "1510 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "79341216"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 74.98,
+        "btw_per_stuk": 15.75
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 44.33,
+        "btw_per_stuk": 9.31
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 74.14,
+        "btw_per_stuk": 15.57
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 139.65,
+        "btw_per_stuk": 29.33
+      }
+    ]
+  }
+}

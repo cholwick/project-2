@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-444",
+    "orderdatum": "27-06-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 144",
+      "postcode": "4371 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "21180060"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 258.2,
+        "btw_per_stuk": 54.22
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 84.66,
+        "btw_per_stuk": 17.78
+      }
+    ]
+  }
+}

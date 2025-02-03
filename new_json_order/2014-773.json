@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-773",
+    "orderdatum": "11-12-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 448",
+      "postcode": "6687 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78600698"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 245.19,
+        "btw_per_stuk": 51.49
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 36.53,
+        "btw_per_stuk": 7.67
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 430.52,
+        "btw_per_stuk": 90.41
+      }
+    ]
+  }
+}

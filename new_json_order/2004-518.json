@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2004-518",
+    "orderdatum": "18-03-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 781",
+      "postcode": "6419 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "55231467"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 264.1,
+        "btw_per_stuk": 55.46
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 436.34,
+        "btw_per_stuk": 91.63
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 126.11,
+        "btw_per_stuk": 26.48
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 126.78,
+        "btw_per_stuk": 26.62
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 221.35,
+        "btw_per_stuk": 46.48
+      }
+    ]
+  }
+}

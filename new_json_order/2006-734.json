@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-734",
+    "orderdatum": "16-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 48",
+      "postcode": "1756 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "54816261"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 37.04,
+        "btw_per_stuk": 7.78
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 136.82,
+        "btw_per_stuk": 28.73
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 499.97,
+        "btw_per_stuk": 104.99
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 58.11,
+        "btw_per_stuk": 12.2
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 232.82,
+        "btw_per_stuk": 48.89
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2009-805",
+    "orderdatum": "25-12-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 298",
+      "postcode": "7675 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "86614411"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 230.52,
+        "btw_per_stuk": 48.41
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 337.61,
+        "btw_per_stuk": 70.9
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 474.59,
+        "btw_per_stuk": 99.66
+      }
+    ]
+  }
+}

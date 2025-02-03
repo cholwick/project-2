@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-224",
+    "orderdatum": "17-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 523",
+      "postcode": "8144 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "30112998"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 254.33,
+        "btw_per_stuk": 53.41
+      }
+    ]
+  }
+}

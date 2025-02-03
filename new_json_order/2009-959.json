@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-959",
+    "orderdatum": "14-11-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 123",
+      "postcode": "1159 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "23434501"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 309.94,
+        "btw_per_stuk": 65.09
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 226.49,
+        "btw_per_stuk": 47.56
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 210.07,
+        "btw_per_stuk": 44.11
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 437.94,
+        "btw_per_stuk": 91.97
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 473.95,
+        "btw_per_stuk": 99.53
+      }
+    ]
+  }
+}

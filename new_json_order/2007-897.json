@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-897",
+    "orderdatum": "10-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 992",
+      "postcode": "9344 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53932396"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 228.9,
+        "btw_per_stuk": 48.07
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 154.82,
+        "btw_per_stuk": 32.51
+      }
+    ]
+  }
+}

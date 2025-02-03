@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-951",
+    "orderdatum": "04-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 778",
+      "postcode": "5014 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "20653709"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 447.6,
+        "btw_per_stuk": 94.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 356.03,
+        "btw_per_stuk": 74.77
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 380.98,
+        "btw_per_stuk": 80.01
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 191.16,
+        "btw_per_stuk": 40.14
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 308.72,
+        "btw_per_stuk": 64.83
+      }
+    ]
+  }
+}

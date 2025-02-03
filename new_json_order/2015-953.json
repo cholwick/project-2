@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2015-953",
+    "orderdatum": "07-01-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 611",
+      "postcode": "9391 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "56438141"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 22.36,
+        "btw_per_stuk": 4.7
+      }
+    ]
+  }
+}

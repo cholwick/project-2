@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2020-861",
+    "orderdatum": "15-09-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 440",
+      "postcode": "4402 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "25471310"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 434.3,
+        "btw_per_stuk": 91.2
+      }
+    ]
+  }
+}

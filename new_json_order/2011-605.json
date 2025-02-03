@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-605",
+    "orderdatum": "09-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 944",
+      "postcode": "4967 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "48850084"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 326.63,
+        "btw_per_stuk": 68.59
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 421.56,
+        "btw_per_stuk": 88.53
+      }
+    ]
+  }
+}

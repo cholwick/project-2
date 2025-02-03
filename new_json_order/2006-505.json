@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-505",
+    "orderdatum": "13-08-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 484",
+      "postcode": "3619 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "63079824"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 145.9,
+        "btw_per_stuk": 30.64
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 491.25,
+        "btw_per_stuk": 103.16
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 305.85,
+        "btw_per_stuk": 64.23
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 171.37,
+        "btw_per_stuk": 35.99
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 176.99,
+        "btw_per_stuk": 37.17
+      }
+    ]
+  }
+}

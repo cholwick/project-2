@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-798",
+    "orderdatum": "21-02-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 990",
+      "postcode": "7032 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "95484482"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 177.52,
+        "btw_per_stuk": 37.28
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 370.03,
+        "btw_per_stuk": 77.71
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 58.25,
+        "btw_per_stuk": 12.23
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 183.05,
+        "btw_per_stuk": 38.44
+      }
+    ]
+  }
+}

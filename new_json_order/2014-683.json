@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-683",
+    "orderdatum": "01-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 400",
+      "postcode": "1966 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "82594419"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 59.13,
+        "btw_per_stuk": 12.42
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 208.39,
+        "btw_per_stuk": 43.76
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 128.31,
+        "btw_per_stuk": 26.95
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 226.97,
+        "btw_per_stuk": 47.66
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 221.05,
+        "btw_per_stuk": 46.42
+      }
+    ]
+  }
+}

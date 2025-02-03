@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2011-381",
+    "orderdatum": "09-07-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 973",
+      "postcode": "3944 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "99319543"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 457.24,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

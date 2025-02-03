@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2012-209",
+    "orderdatum": "20-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 77",
+      "postcode": "9838 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "94156479"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 241.89,
+        "btw_per_stuk": 50.8
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 122.62,
+        "btw_per_stuk": 25.75
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 259.84,
+        "btw_per_stuk": 54.57
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 339.35,
+        "btw_per_stuk": 71.26
+      }
+    ]
+  }
+}

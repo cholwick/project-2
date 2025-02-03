@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-715",
+    "orderdatum": "04-09-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 603",
+      "postcode": "2114 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "84030779"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 450.17,
+        "btw_per_stuk": 94.54
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 112.65,
+        "btw_per_stuk": 23.66
+      }
+    ]
+  }
+}

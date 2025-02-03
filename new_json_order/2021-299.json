@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-299",
+    "orderdatum": "05-01-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 579",
+      "postcode": "1358 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "98751250"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 168.26,
+        "btw_per_stuk": 35.33
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 478.35,
+        "btw_per_stuk": 100.45
+      }
+    ]
+  }
+}

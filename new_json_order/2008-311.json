@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-311",
+    "orderdatum": "19-06-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 533",
+      "postcode": "9359 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "30710688"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 268.08,
+        "btw_per_stuk": 56.3
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 362.44,
+        "btw_per_stuk": 76.11
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 165.81,
+        "btw_per_stuk": 34.82
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 108.4,
+        "btw_per_stuk": 22.76
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 19.52,
+        "btw_per_stuk": 4.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-524",
+    "orderdatum": "04-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 474",
+      "postcode": "3739 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52986468"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 337.9,
+        "btw_per_stuk": 70.96
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 443.81,
+        "btw_per_stuk": 93.2
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 330.68,
+        "btw_per_stuk": 69.44
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 51.13,
+        "btw_per_stuk": 10.74
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 180.78,
+        "btw_per_stuk": 37.96
+      }
+    ]
+  }
+}

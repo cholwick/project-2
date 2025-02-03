@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-282",
+    "orderdatum": "04-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 558",
+      "postcode": "8164 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31888762"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 372.44,
+        "btw_per_stuk": 78.21
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 349.04,
+        "btw_per_stuk": 73.3
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 61.31,
+        "btw_per_stuk": 12.88
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 413.87,
+        "btw_per_stuk": 86.91
+      }
+    ]
+  }
+}

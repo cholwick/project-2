@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-788",
+    "orderdatum": "24-04-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 95",
+      "postcode": "8926 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "56283012"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 428.92,
+        "btw_per_stuk": 90.07
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 165.04,
+        "btw_per_stuk": 34.66
+      }
+    ]
+  }
+}

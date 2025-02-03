@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-144",
+    "orderdatum": "18-03-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 165",
+      "postcode": "9152 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "17425248"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 78.93,
+        "btw_per_stuk": 16.58
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 97.56,
+        "btw_per_stuk": 20.49
+      }
+    ]
+  }
+}

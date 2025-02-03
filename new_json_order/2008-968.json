@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2008-968",
+    "orderdatum": "14-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 215",
+      "postcode": "7410 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "20326588"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 263.3,
+        "btw_per_stuk": 55.29
+      }
+    ]
+  }
+}

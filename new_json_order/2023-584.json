@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-584",
+    "orderdatum": "22-06-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 468",
+      "postcode": "1791 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "14955004"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 379.95,
+        "btw_per_stuk": 79.79
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 393.14,
+        "btw_per_stuk": 82.56
+      }
+    ]
+  }
+}

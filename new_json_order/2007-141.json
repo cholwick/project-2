@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-141",
+    "orderdatum": "27-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 257",
+      "postcode": "3706 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66702366"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 292.03,
+        "btw_per_stuk": 61.33
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 187.37,
+        "btw_per_stuk": 39.35
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 134.57,
+        "btw_per_stuk": 28.26
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 197.28,
+        "btw_per_stuk": 41.43
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 161.64,
+        "btw_per_stuk": 33.94
+      }
+    ]
+  }
+}

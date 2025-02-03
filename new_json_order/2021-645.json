@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2021-645",
+    "orderdatum": "01-03-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 347",
+      "postcode": "4874 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "94588244"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 140.78,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 230.24,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 305.74,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

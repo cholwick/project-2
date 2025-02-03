@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2023-773",
+    "orderdatum": "04-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 422",
+      "postcode": "6548 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65839778"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 282.86,
+        "btw_per_stuk": 59.4
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 176.29,
+        "btw_per_stuk": 37.02
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 26.64,
+        "btw_per_stuk": 5.59
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 140.27,
+        "btw_per_stuk": 29.46
+      }
+    ]
+  }
+}

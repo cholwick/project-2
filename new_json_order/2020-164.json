@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-164",
+    "orderdatum": "22-10-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 498",
+      "postcode": "4631 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "37734299"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 480.86,
+        "btw_per_stuk": 100.98
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 338.05,
+        "btw_per_stuk": 70.99
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 125.88,
+        "btw_per_stuk": 26.43
+      }
+    ]
+  }
+}

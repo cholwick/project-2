@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-055",
+    "orderdatum": "24-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 875",
+      "postcode": "8944 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "16085618"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 419.98,
+        "btw_per_stuk": 88.2
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 300.36,
+        "btw_per_stuk": 63.08
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 218.98,
+        "btw_per_stuk": 45.99
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 396.03,
+        "btw_per_stuk": 83.17
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 297.61,
+        "btw_per_stuk": 62.5
+      }
+    ]
+  }
+}

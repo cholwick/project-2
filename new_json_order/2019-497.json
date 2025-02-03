@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2019-497",
+    "orderdatum": "09-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 477",
+      "postcode": "2683 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "20018856"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 496.52,
+        "btw_per_stuk": 104.27
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 267.14,
+        "btw_per_stuk": 56.1
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 355.78,
+        "btw_per_stuk": 74.71
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 263.49,
+        "btw_per_stuk": 55.33
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 295.46,
+        "btw_per_stuk": 62.05
+      }
+    ]
+  }
+}

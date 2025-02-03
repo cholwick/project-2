@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2000-548",
+    "orderdatum": "21-01-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 983",
+      "postcode": "3598 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "87385340"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 274.46,
+        "btw_per_stuk": 57.64
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 349.72,
+        "btw_per_stuk": 73.44
+      }
+    ]
+  }
+}

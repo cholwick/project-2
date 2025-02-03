@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-238",
+    "orderdatum": "07-12-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 540",
+      "postcode": "2474 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "42478211"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 249.73,
+        "btw_per_stuk": 52.44
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 380.32,
+        "btw_per_stuk": 79.87
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 263.8,
+        "btw_per_stuk": 55.4
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 280.77,
+        "btw_per_stuk": 58.96
+      }
+    ]
+  }
+}

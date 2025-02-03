@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-540",
+    "orderdatum": "09-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 209",
+      "postcode": "8883 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "79103802"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 326.31,
+        "btw_per_stuk": 68.53
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 252.11,
+        "btw_per_stuk": 52.94
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 117.83,
+        "btw_per_stuk": 24.74
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 143.31,
+        "btw_per_stuk": 30.1
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 147.42,
+        "btw_per_stuk": 30.96
+      }
+    ]
+  }
+}

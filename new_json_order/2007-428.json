@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2007-428",
+    "orderdatum": "12-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 467",
+      "postcode": "4974 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "69621821"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 484.78,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

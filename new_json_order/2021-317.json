@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2021-317",
+    "orderdatum": "13-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 613",
+      "postcode": "7890 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "46560120"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 129.09,
+        "btw_per_stuk": 27.11
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 431.19,
+        "btw_per_stuk": 90.55
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 148.59,
+        "btw_per_stuk": 31.2
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 449.58,
+        "btw_per_stuk": 94.41
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 492.32,
+        "btw_per_stuk": 103.39
+      }
+    ]
+  }
+}

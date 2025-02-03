@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-774",
+    "orderdatum": "15-08-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 185",
+      "postcode": "8221 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "88196118"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 217.31,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 33.84,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

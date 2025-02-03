@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-144",
+    "orderdatum": "05-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 685",
+      "postcode": "8659 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "39868723"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 446.14,
+        "btw_per_stuk": 93.69
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 204.42,
+        "btw_per_stuk": 42.93
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.09,
+        "btw_per_stuk": 65.54
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 415.96,
+        "btw_per_stuk": 87.35
+      }
+    ]
+  }
+}

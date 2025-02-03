@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-640",
+    "orderdatum": "22-02-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 590",
+      "postcode": "5529 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "94757179"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 115.34,
+        "btw_per_stuk": 24.22
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 118.89,
+        "btw_per_stuk": 24.97
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 184.56,
+        "btw_per_stuk": 38.76
+      }
+    ]
+  }
+}

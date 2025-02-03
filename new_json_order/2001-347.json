@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-347",
+    "orderdatum": "27-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 565",
+      "postcode": "6747 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "85450753"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 413.35,
+        "btw_per_stuk": 86.8
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 161.36,
+        "btw_per_stuk": 33.89
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 257.5,
+        "btw_per_stuk": 54.07
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 307.65,
+        "btw_per_stuk": 64.61
+      }
+    ]
+  }
+}

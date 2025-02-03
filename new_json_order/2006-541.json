@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-541",
+    "orderdatum": "24-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 87",
+      "postcode": "2250 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "42674985"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 434.24,
+        "btw_per_stuk": 91.19
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 466.66,
+        "btw_per_stuk": 98.0
+      }
+    ]
+  }
+}

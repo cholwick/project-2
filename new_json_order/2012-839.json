@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-839",
+    "orderdatum": "27-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 207",
+      "postcode": "4376 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "25873311"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.24,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 321.56,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

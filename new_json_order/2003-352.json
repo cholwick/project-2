@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2003-352",
+    "orderdatum": "15-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 454",
+      "postcode": "5882 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27681060"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 34.2,
+        "btw_per_stuk": 7.18
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 428.53,
+        "btw_per_stuk": 89.99
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 32.54,
+        "btw_per_stuk": 6.83
+      }
+    ]
+  }
+}

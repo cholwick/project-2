@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-599",
+    "orderdatum": "07-09-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 191",
+      "postcode": "5592 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "43666328"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 280.19,
+        "btw_per_stuk": 58.84
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 413.16,
+        "btw_per_stuk": 86.76
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 428.31,
+        "btw_per_stuk": 89.95
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 19.66,
+        "btw_per_stuk": 4.13
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 429.49,
+        "btw_per_stuk": 90.19
+      }
+    ]
+  }
+}

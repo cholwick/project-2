@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-850",
+    "orderdatum": "16-06-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 2",
+      "postcode": "3811 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "46220741"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 223.93,
+        "btw_per_stuk": 47.03
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 265.4,
+        "btw_per_stuk": 55.73
+      }
+    ]
+  }
+}

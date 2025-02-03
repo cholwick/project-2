@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-608",
+    "orderdatum": "04-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 420",
+      "postcode": "6428 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "85261477"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 324.21,
+        "btw_per_stuk": 68.08
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 454.01,
+        "btw_per_stuk": 95.34
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 422.62,
+        "btw_per_stuk": 88.75
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 292.99,
+        "btw_per_stuk": 61.53
+      }
+    ]
+  }
+}

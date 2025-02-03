@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2012-731",
+    "orderdatum": "01-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 987",
+      "postcode": "4618 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "40379624"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 384.71,
+        "btw_per_stuk": 80.79
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 33.66,
+        "btw_per_stuk": 7.07
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 391.7,
+        "btw_per_stuk": 82.26
+      }
+    ]
+  }
+}

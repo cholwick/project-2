@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-023",
+    "orderdatum": "21-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 618",
+      "postcode": "3048 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42253061"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 323.97,
+        "btw_per_stuk": 68.03
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 145.34,
+        "btw_per_stuk": 30.52
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 470.84,
+        "btw_per_stuk": 98.88
+      }
+    ]
+  }
+}

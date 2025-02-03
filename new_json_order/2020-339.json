@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-339",
+    "orderdatum": "09-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 482",
+      "postcode": "7925 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "14017076"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 383.31,
+        "btw_per_stuk": 80.5
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 275.01,
+        "btw_per_stuk": 57.75
+      }
+    ]
+  }
+}

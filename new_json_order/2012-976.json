@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-976",
+    "orderdatum": "01-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 237",
+      "postcode": "5612 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "83362870"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 83.3,
+        "btw_per_stuk": 17.49
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 58.61,
+        "btw_per_stuk": 12.31
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 349.87,
+        "btw_per_stuk": 73.47
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 476.9,
+        "btw_per_stuk": 100.15
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 38.98,
+        "btw_per_stuk": 8.19
+      }
+    ]
+  }
+}

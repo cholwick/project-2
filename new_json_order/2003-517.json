@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-517",
+    "orderdatum": "22-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 731",
+      "postcode": "5942 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "43147441"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 173.33,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 130.33,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

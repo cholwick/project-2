@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-617",
+    "orderdatum": "10-11-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 959",
+      "postcode": "4433 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "46658209"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 234.43,
+        "btw_per_stuk": 49.23
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 476.75,
+        "btw_per_stuk": 100.12
+      }
+    ]
+  }
+}

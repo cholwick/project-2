@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-662",
+    "orderdatum": "28-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 133",
+      "postcode": "2785 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "54488602"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 311.28,
+        "btw_per_stuk": 65.37
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 168.84,
+        "btw_per_stuk": 35.46
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 163.94,
+        "btw_per_stuk": 34.43
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 344.48,
+        "btw_per_stuk": 72.34
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-580",
+    "orderdatum": "14-09-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 375",
+      "postcode": "1724 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "36012352"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 179.01,
+        "btw_per_stuk": 37.59
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 194.7,
+        "btw_per_stuk": 40.89
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 414.55,
+        "btw_per_stuk": 87.06
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 64.44,
+        "btw_per_stuk": 13.53
+      }
+    ]
+  }
+}

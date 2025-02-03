@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-036",
+    "orderdatum": "06-03-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 780",
+      "postcode": "7364 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "60490521"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 458.08,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 373.89,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-984",
+    "orderdatum": "21-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 690",
+      "postcode": "5322 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "56379584"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 302.63,
+        "btw_per_stuk": 63.55
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 298.4,
+        "btw_per_stuk": 62.66
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 77.29,
+        "btw_per_stuk": 16.23
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 261.9,
+        "btw_per_stuk": 55.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2007-358",
+    "orderdatum": "01-12-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 251",
+      "postcode": "5753 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "28672840"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 38.2,
+        "btw_per_stuk": 8.02
+      }
+    ]
+  }
+}

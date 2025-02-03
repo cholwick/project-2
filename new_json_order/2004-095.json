@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2004-095",
+    "orderdatum": "12-04-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 828",
+      "postcode": "6252 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "10465028"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 179.06,
+        "btw_per_stuk": 37.6
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 411.85,
+        "btw_per_stuk": 86.49
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 33.59,
+        "btw_per_stuk": 7.05
+      }
+    ]
+  }
+}

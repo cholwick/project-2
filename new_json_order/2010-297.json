@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-297",
+    "orderdatum": "19-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 382",
+      "postcode": "6237 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "72462743"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 92.26,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 129.77,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 10.76,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

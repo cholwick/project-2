@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-786",
+    "orderdatum": "22-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 163",
+      "postcode": "5634 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "32901178"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 104.85,
+        "btw_per_stuk": 22.02
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 456.28,
+        "btw_per_stuk": 95.82
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 115.42,
+        "btw_per_stuk": 24.24
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 11.71,
+        "btw_per_stuk": 2.46
+      }
+    ]
+  }
+}

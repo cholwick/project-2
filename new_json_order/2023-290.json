@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-290",
+    "orderdatum": "24-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 283",
+      "postcode": "7695 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "54602585"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 269.45,
+        "btw_per_stuk": 56.58
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 86.41,
+        "btw_per_stuk": 18.15
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 165.14,
+        "btw_per_stuk": 34.68
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 392.31,
+        "btw_per_stuk": 82.39
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 469.99,
+        "btw_per_stuk": 98.7
+      }
+    ]
+  }
+}

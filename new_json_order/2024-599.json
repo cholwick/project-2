@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-599",
+    "orderdatum": "26-11-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 337",
+      "postcode": "9913 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42340723"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 116.84,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 260.79,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

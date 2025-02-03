@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-784",
+    "orderdatum": "06-12-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 408",
+      "postcode": "5427 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "94459426"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 426.59,
+        "btw_per_stuk": 89.58
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 245.41,
+        "btw_per_stuk": 51.54
+      }
+    ]
+  }
+}

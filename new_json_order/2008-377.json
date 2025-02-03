@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-377",
+    "orderdatum": "24-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 289",
+      "postcode": "6483 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "73914561"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 235.57,
+        "btw_per_stuk": 49.47
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 482.99,
+        "btw_per_stuk": 101.43
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 22.58,
+        "btw_per_stuk": 4.74
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 61.67,
+        "btw_per_stuk": 12.95
+      }
+    ]
+  }
+}

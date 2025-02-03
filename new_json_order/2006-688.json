@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-688",
+    "orderdatum": "01-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 950",
+      "postcode": "6076 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "48034606"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 122.04,
+        "btw_per_stuk": 25.63
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 353.94,
+        "btw_per_stuk": 74.33
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2016-247",
+    "orderdatum": "10-07-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 564",
+      "postcode": "2265 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "42317740"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 351.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 70.89,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 379.28,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

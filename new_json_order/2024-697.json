@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-697",
+    "orderdatum": "08-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 339",
+      "postcode": "9933 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "41991493"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 126.48,
+        "btw_per_stuk": 26.56
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 365.14,
+        "btw_per_stuk": 76.68
+      }
+    ]
+  }
+}

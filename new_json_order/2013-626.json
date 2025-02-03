@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-626",
+    "orderdatum": "02-10-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 514",
+      "postcode": "5336 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "21999418"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 101.72,
+        "btw_per_stuk": 21.36
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 64.06,
+        "btw_per_stuk": 13.45
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 297.97,
+        "btw_per_stuk": 62.57
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 205.55,
+        "btw_per_stuk": 43.17
+      }
+    ]
+  }
+}

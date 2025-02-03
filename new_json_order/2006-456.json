@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2006-456",
+    "orderdatum": "18-10-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 366",
+      "postcode": "6971 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "91606559"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 263.75,
+        "btw_per_stuk": 55.39
+      }
+    ]
+  }
+}

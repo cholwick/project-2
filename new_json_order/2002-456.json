@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-456",
+    "orderdatum": "01-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 107",
+      "postcode": "4020 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "69474695"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 350.41,
+        "btw_per_stuk": 73.59
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 85.03,
+        "btw_per_stuk": 17.86
+      }
+    ]
+  }
+}

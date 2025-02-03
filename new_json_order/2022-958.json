@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-958",
+    "orderdatum": "09-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 510",
+      "postcode": "2183 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "74893721"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 288.0,
+        "btw_per_stuk": 60.48
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 288.23,
+        "btw_per_stuk": 60.53
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 387.01,
+        "btw_per_stuk": 81.27
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 307.97,
+        "btw_per_stuk": 64.67
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 40.95,
+        "btw_per_stuk": 8.6
+      }
+    ]
+  }
+}

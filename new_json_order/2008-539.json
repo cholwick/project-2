@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2008-539",
+    "orderdatum": "28-10-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 198",
+      "postcode": "6436 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39340354"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 185.28,
+        "btw_per_stuk": 38.91
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 181.18,
+        "btw_per_stuk": 38.05
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 487.77,
+        "btw_per_stuk": 102.43
+      }
+    ]
+  }
+}

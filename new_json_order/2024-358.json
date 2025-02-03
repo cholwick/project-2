@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-358",
+    "orderdatum": "06-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 903",
+      "postcode": "1978 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "29252192"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 288.45,
+        "btw_per_stuk": 60.57
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 445.9,
+        "btw_per_stuk": 93.64
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 492.44,
+        "btw_per_stuk": 103.41
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 94.03,
+        "btw_per_stuk": 19.75
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 15.17,
+        "btw_per_stuk": 3.19
+      }
+    ]
+  }
+}

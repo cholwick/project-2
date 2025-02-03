@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-016",
+    "orderdatum": "18-06-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 934",
+      "postcode": "3082 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "69707553"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 394.05,
+        "btw_per_stuk": 82.75
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 25.32,
+        "btw_per_stuk": 5.32
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 448.28,
+        "btw_per_stuk": 94.14
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 367.78,
+        "btw_per_stuk": 77.23
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 459.54,
+        "btw_per_stuk": 96.5
+      }
+    ]
+  }
+}

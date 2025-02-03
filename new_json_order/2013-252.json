@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2013-252",
+    "orderdatum": "24-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 643",
+      "postcode": "9564 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "58140979"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 338.84,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

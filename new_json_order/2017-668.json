@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-668",
+    "orderdatum": "25-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 143",
+      "postcode": "1256 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "27903716"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 477.08,
+        "btw_per_stuk": 100.19
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 444.57,
+        "btw_per_stuk": 93.36
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 140.34,
+        "btw_per_stuk": 29.47
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 189.32,
+        "btw_per_stuk": 39.76
+      }
+    ]
+  }
+}

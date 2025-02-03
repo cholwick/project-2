@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-139",
+    "orderdatum": "06-01-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 962",
+      "postcode": "1851 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "13820779"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 413.69,
+        "btw_per_stuk": 86.87
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 210.7,
+        "btw_per_stuk": 44.25
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 94.06,
+        "btw_per_stuk": 19.75
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 343.12,
+        "btw_per_stuk": 72.06
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 382.5,
+        "btw_per_stuk": 80.33
+      }
+    ]
+  }
+}

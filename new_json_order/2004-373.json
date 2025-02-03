@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2004-373",
+    "orderdatum": "13-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 742",
+      "postcode": "3814 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52305295"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 471.51,
+        "btw_per_stuk": 99.02
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 292.57,
+        "btw_per_stuk": 61.44
+      }
+    ]
+  }
+}

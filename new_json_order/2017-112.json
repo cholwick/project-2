@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-112",
+    "orderdatum": "11-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 516",
+      "postcode": "6359 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "47507699"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 121.37,
+        "btw_per_stuk": 25.49
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 223.61,
+        "btw_per_stuk": 46.96
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 88.43,
+        "btw_per_stuk": 18.57
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 202.75,
+        "btw_per_stuk": 42.58
+      }
+    ]
+  }
+}

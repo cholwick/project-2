@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2012-054",
+    "orderdatum": "27-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 335",
+      "postcode": "3644 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "79500034"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 346.83,
+        "btw_per_stuk": 72.83
+      }
+    ]
+  }
+}

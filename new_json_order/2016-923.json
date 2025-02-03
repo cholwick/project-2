@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-923",
+    "orderdatum": "14-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 792",
+      "postcode": "2084 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "87364609"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 268.43,
+        "btw_per_stuk": 56.37
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 209.89,
+        "btw_per_stuk": 44.08
+      }
+    ]
+  }
+}

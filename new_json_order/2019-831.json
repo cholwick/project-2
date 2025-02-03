@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-831",
+    "orderdatum": "02-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 946",
+      "postcode": "8407 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "64689952"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 111.49,
+        "btw_per_stuk": 23.41
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 116.94,
+        "btw_per_stuk": 24.56
+      }
+    ]
+  }
+}

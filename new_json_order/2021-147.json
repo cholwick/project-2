@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2021-147",
+    "orderdatum": "15-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 365",
+      "postcode": "6279 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "42769569"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 344.74,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 11.36,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 24.32,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-562",
+    "orderdatum": "04-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 581",
+      "postcode": "5306 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "39659778"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 134.1,
+        "btw_per_stuk": 28.16
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 47.44,
+        "btw_per_stuk": 9.96
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 23.0,
+        "btw_per_stuk": 4.83
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 31.67,
+        "btw_per_stuk": 6.65
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 286.23,
+        "btw_per_stuk": 60.11
+      }
+    ]
+  }
+}

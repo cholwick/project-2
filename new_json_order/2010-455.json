@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-455",
+    "orderdatum": "18-08-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 370",
+      "postcode": "6326 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "39473018"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 482.61,
+        "btw_per_stuk": 101.35
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 221.98,
+        "btw_per_stuk": 46.62
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 339.61,
+        "btw_per_stuk": 71.32
+      }
+    ]
+  }
+}

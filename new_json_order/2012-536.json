@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2012-536",
+    "orderdatum": "24-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 710",
+      "postcode": "8034 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "45955853"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 99.77,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 489.84,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

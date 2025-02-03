@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2001-084",
+    "orderdatum": "20-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 610",
+      "postcode": "9018 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "97159782"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 473.96,
+        "btw_per_stuk": 99.53
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 290.9,
+        "btw_per_stuk": 61.09
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 42.21,
+        "btw_per_stuk": 8.86
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 335.08,
+        "btw_per_stuk": 70.37
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 141.58,
+        "btw_per_stuk": 29.73
+      }
+    ]
+  }
+}

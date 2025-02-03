@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-973",
+    "orderdatum": "05-05-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 186",
+      "postcode": "3722 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "43526796"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 363.8,
+        "btw_per_stuk": 76.4
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 413.11,
+        "btw_per_stuk": 86.75
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 212.08,
+        "btw_per_stuk": 44.54
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 35.67,
+        "btw_per_stuk": 7.49
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 34.84,
+        "btw_per_stuk": 7.32
+      }
+    ]
+  }
+}

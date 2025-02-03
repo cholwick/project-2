@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-605",
+    "orderdatum": "01-10-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 711",
+      "postcode": "5195 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "78244263"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 314.93,
+        "btw_per_stuk": 66.14
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 202.16,
+        "btw_per_stuk": 42.45
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 445.17,
+        "btw_per_stuk": 93.49
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 37.45,
+        "btw_per_stuk": 7.86
+      }
+    ]
+  }
+}

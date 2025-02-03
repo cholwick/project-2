@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2015-800",
+    "orderdatum": "14-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 582",
+      "postcode": "4012 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "43383457"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 391.36,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

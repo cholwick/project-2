@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2024-856",
+    "orderdatum": "03-02-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 66",
+      "postcode": "8564 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "50785959"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 49.28,
+        "btw_per_stuk": 10.35
+      }
+    ]
+  }
+}

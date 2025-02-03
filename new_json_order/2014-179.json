@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2014-179",
+    "orderdatum": "19-05-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 594",
+      "postcode": "8668 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "24761568"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 298.17,
+        "btw_per_stuk": 62.62
+      }
+    ]
+  }
+}

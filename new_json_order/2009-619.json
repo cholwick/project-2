@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2009-619",
+    "orderdatum": "07-07-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 912",
+      "postcode": "7678 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "22167912"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 280.17,
+        "btw_per_stuk": 58.84
+      }
+    ]
+  }
+}

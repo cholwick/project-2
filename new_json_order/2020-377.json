@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2020-377",
+    "orderdatum": "14-01-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 980",
+      "postcode": "9250 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "34346820"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 472.94,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

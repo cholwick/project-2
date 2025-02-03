@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-250",
+    "orderdatum": "15-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 583",
+      "postcode": "3098 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "92699008"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 439.17,
+        "btw_per_stuk": 92.23
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 345.79,
+        "btw_per_stuk": 72.62
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 456.81,
+        "btw_per_stuk": 95.93
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 209.46,
+        "btw_per_stuk": 43.99
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 55.54,
+        "btw_per_stuk": 11.66
+      }
+    ]
+  }
+}

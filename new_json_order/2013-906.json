@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-906",
+    "orderdatum": "13-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 886",
+      "postcode": "4693 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "38479610"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 234.08,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 238.16,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 308.31,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

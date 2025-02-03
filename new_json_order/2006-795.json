@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-795",
+    "orderdatum": "11-02-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 425",
+      "postcode": "5228 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "87716686"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 372.63,
+        "btw_per_stuk": 78.25
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 399.64,
+        "btw_per_stuk": 83.92
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 281.47,
+        "btw_per_stuk": 59.11
+      }
+    ]
+  }
+}

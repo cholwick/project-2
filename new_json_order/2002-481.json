@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-481",
+    "orderdatum": "21-12-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 324",
+      "postcode": "8491 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "46199149"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 221.74,
+        "btw_per_stuk": 46.57
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 76.93,
+        "btw_per_stuk": 16.16
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 293.86,
+        "btw_per_stuk": 61.71
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 97.76,
+        "btw_per_stuk": 20.53
+      }
+    ]
+  }
+}

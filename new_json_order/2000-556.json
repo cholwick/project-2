@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2000-556",
+    "orderdatum": "17-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 77",
+      "postcode": "3763 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "64757461"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 254.78,
+        "btw_per_stuk": 53.5
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 278.9,
+        "btw_per_stuk": 58.57
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 163.47,
+        "btw_per_stuk": 34.33
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 230.73,
+        "btw_per_stuk": 48.45
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 42.61,
+        "btw_per_stuk": 8.95
+      }
+    ]
+  }
+}

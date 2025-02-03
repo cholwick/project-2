@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2005-972",
+    "orderdatum": "03-06-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 436",
+      "postcode": "5255 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "30828858"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 379.42,
+        "btw_per_stuk": 79.68
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 160.32,
+        "btw_per_stuk": 33.67
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 404.48,
+        "btw_per_stuk": 84.94
+      }
+    ]
+  }
+}

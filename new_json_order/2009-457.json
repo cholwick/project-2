@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-457",
+    "orderdatum": "13-02-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 473",
+      "postcode": "7821 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "85011495"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 221.9,
+        "btw_per_stuk": 46.6
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 405.7,
+        "btw_per_stuk": 85.2
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 245.49,
+        "btw_per_stuk": 51.55
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 315.16,
+        "btw_per_stuk": 66.18
+      }
+    ]
+  }
+}

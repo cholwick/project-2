@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-517",
+    "orderdatum": "06-11-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 192",
+      "postcode": "5735 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "47340974"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 417.14,
+        "btw_per_stuk": 87.6
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 107.47,
+        "btw_per_stuk": 22.57
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 126.81,
+        "btw_per_stuk": 26.63
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 337.4,
+        "btw_per_stuk": 70.85
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 258.56,
+        "btw_per_stuk": 54.3
+      }
+    ]
+  }
+}

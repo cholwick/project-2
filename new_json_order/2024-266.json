@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-266",
+    "orderdatum": "14-03-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 565",
+      "postcode": "7811 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "54893505"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 215.81,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 131.97,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

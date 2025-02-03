@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-188",
+    "orderdatum": "06-05-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 677",
+      "postcode": "4319 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "19794720"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 258.68,
+        "btw_per_stuk": 54.32
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 425.66,
+        "btw_per_stuk": 89.39
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 402.08,
+        "btw_per_stuk": 84.44
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 444.63,
+        "btw_per_stuk": 93.37
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 436.56,
+        "btw_per_stuk": 91.68
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-155",
+    "orderdatum": "13-11-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 2",
+      "postcode": "9160 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33738526"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 147.66,
+        "btw_per_stuk": 31.01
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 47.93,
+        "btw_per_stuk": 10.07
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 355.04,
+        "btw_per_stuk": 74.56
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 367.3,
+        "btw_per_stuk": 77.13
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 208.73,
+        "btw_per_stuk": 43.83
+      }
+    ]
+  }
+}

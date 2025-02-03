@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-368",
+    "orderdatum": "23-03-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 922",
+      "postcode": "7225 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "27571639"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 77.08,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 167.14,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

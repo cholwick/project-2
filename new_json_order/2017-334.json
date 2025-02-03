@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2017-334",
+    "orderdatum": "27-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 705",
+      "postcode": "7955 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "75185591"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 74.02,
+        "btw_per_stuk": 15.54
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 264.91,
+        "btw_per_stuk": 55.63
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 140.32,
+        "btw_per_stuk": 29.47
+      }
+    ]
+  }
+}

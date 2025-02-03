@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2021-711",
+    "orderdatum": "21-09-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 355",
+      "postcode": "4220 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "20805362"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 110.26,
+        "btw_per_stuk": 23.15
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 161.1,
+        "btw_per_stuk": 33.83
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 103.87,
+        "btw_per_stuk": 21.81
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 447.78,
+        "btw_per_stuk": 94.03
+      }
+    ]
+  }
+}

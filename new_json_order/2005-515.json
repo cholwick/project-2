@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-515",
+    "orderdatum": "01-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 918",
+      "postcode": "8843 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "48392556"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 406.68,
+        "btw_per_stuk": 85.4
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 145.34,
+        "btw_per_stuk": 30.52
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 395.85,
+        "btw_per_stuk": 83.13
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 25.26,
+        "btw_per_stuk": 5.3
+      }
+    ]
+  }
+}

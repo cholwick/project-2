@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-690",
+    "orderdatum": "14-07-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 208",
+      "postcode": "5044 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "40426171"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 262.3,
+        "btw_per_stuk": 55.08
+      }
+    ]
+  }
+}

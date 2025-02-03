@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2019-347",
+    "orderdatum": "17-01-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 806",
+      "postcode": "2091 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "55414132"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 120.25,
+        "btw_per_stuk": 25.25
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 58.73,
+        "btw_per_stuk": 12.33
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 251.73,
+        "btw_per_stuk": 52.86
+      }
+    ]
+  }
+}

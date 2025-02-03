@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-089",
+    "orderdatum": "18-05-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 469",
+      "postcode": "1823 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "13903761"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 484.82,
+        "btw_per_stuk": 101.81
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 407.74,
+        "btw_per_stuk": 85.63
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 439.73,
+        "btw_per_stuk": 92.34
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 343.32,
+        "btw_per_stuk": 72.1
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 275.11,
+        "btw_per_stuk": 57.77
+      }
+    ]
+  }
+}

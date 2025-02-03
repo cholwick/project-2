@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-817",
+    "orderdatum": "06-12-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 896",
+      "postcode": "2703 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "99262476"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 447.61,
+        "btw_per_stuk": 94.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 398.55,
+        "btw_per_stuk": 83.7
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 496.72,
+        "btw_per_stuk": 104.31
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 60.12,
+        "btw_per_stuk": 12.63
+      }
+    ]
+  }
+}

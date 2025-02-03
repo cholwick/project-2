@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2023-278",
+    "orderdatum": "11-11-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 244",
+      "postcode": "7315 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "95089316"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 131.03,
+        "btw_per_stuk": 27.52
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 422.37,
+        "btw_per_stuk": 88.7
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.25,
+        "btw_per_stuk": 65.57
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 296.81,
+        "btw_per_stuk": 62.33
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 469.34,
+        "btw_per_stuk": 98.56
+      }
+    ]
+  }
+}

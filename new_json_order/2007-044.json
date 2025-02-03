@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2007-044",
+    "orderdatum": "23-02-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 453",
+      "postcode": "3578 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "88677590"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 48.86,
+        "btw_per_stuk": 10.26
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 261.82,
+        "btw_per_stuk": 54.98
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 135.15,
+        "btw_per_stuk": 28.38
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 113.1,
+        "btw_per_stuk": 23.75
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 434.53,
+        "btw_per_stuk": 91.25
+      }
+    ]
+  }
+}

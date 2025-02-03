@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2024-201",
+    "orderdatum": "03-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 188",
+      "postcode": "6146 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "58738173"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 494.23,
+        "btw_per_stuk": 103.79
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 364.55,
+        "btw_per_stuk": 76.56
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 122.69,
+        "btw_per_stuk": 25.76
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 160.03,
+        "btw_per_stuk": 33.61
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-420",
+    "orderdatum": "26-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 419",
+      "postcode": "5625 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "92964656"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 480.06,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 212.43,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

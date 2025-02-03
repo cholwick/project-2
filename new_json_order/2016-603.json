@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-603",
+    "orderdatum": "19-04-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 348",
+      "postcode": "9039 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "39154039"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 294.84,
+        "btw_per_stuk": 61.92
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 236.3,
+        "btw_per_stuk": 49.62
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 106.16,
+        "btw_per_stuk": 22.29
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 338.17,
+        "btw_per_stuk": 71.02
+      }
+    ]
+  }
+}

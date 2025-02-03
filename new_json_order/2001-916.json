@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2001-916",
+    "orderdatum": "25-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 909",
+      "postcode": "1632 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "67422357"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 234.58,
+        "btw_per_stuk": 49.26
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 83.55,
+        "btw_per_stuk": 17.55
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 204.83,
+        "btw_per_stuk": 43.01
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 340.47,
+        "btw_per_stuk": 71.5
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 152.24,
+        "btw_per_stuk": 31.97
+      }
+    ]
+  }
+}

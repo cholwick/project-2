@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2000-062",
+    "orderdatum": "20-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 518",
+      "postcode": "6847 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "48080534"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 205.41,
+        "btw_per_stuk": 43.14
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 204.06,
+        "btw_per_stuk": 42.85
+      }
+    ]
+  }
+}

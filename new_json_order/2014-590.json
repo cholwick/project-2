@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-590",
+    "orderdatum": "20-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 604",
+      "postcode": "6102 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "64557233"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 185.3,
+        "btw_per_stuk": 38.91
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 180.12,
+        "btw_per_stuk": 37.83
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 419.33,
+        "btw_per_stuk": 88.06
+      }
+    ]
+  }
+}

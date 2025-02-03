@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2005-323",
+    "orderdatum": "15-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 390",
+      "postcode": "8684 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "44891454"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 226.47,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 420.26,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 22.66,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

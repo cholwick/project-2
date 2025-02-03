@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2016-986",
+    "orderdatum": "09-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 784",
+      "postcode": "8839 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "45878551"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 165.49,
+        "btw_per_stuk": 34.75
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 373.18,
+        "btw_per_stuk": 78.37
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 38.02,
+        "btw_per_stuk": 7.98
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 111.6,
+        "btw_per_stuk": 23.44
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 258.18,
+        "btw_per_stuk": 54.22
+      }
+    ]
+  }
+}

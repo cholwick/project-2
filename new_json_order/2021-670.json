@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-670",
+    "orderdatum": "07-03-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 175",
+      "postcode": "2693 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "50952828"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 39.98,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

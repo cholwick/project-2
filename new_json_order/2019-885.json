@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2019-885",
+    "orderdatum": "05-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 793",
+      "postcode": "6833 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "33795771"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 64.91,
+        "btw_per_stuk": 13.63
+      }
+    ]
+  }
+}

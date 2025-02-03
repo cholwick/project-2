@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2009-066",
+    "orderdatum": "02-11-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 397",
+      "postcode": "8178 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "55774944"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 19.79,
+        "btw_per_stuk": 4.16
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 125.06,
+        "btw_per_stuk": 26.26
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 479.55,
+        "btw_per_stuk": 100.71
+      }
+    ]
+  }
+}

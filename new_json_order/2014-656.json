@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2014-656",
+    "orderdatum": "15-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 597",
+      "postcode": "2909 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "88330879"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 445.36,
+        "btw_per_stuk": 93.53
+      }
+    ]
+  }
+}

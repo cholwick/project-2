@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-280",
+    "orderdatum": "16-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 574",
+      "postcode": "2323 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "45028984"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 482.6,
+        "btw_per_stuk": 101.35
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 339.97,
+        "btw_per_stuk": 71.39
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 428.08,
+        "btw_per_stuk": 89.9
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 365.83,
+        "btw_per_stuk": 76.82
+      }
+    ]
+  }
+}

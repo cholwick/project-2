@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-620",
+    "orderdatum": "09-10-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 68",
+      "postcode": "5451 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "65114591"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 438.88,
+        "btw_per_stuk": 92.16
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 425.38,
+        "btw_per_stuk": 89.33
+      }
+    ]
+  }
+}

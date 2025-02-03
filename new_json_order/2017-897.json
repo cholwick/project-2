@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-897",
+    "orderdatum": "19-12-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 311",
+      "postcode": "4986 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "99360560"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 26.16,
+        "btw_per_stuk": 5.49
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 209.12,
+        "btw_per_stuk": 43.92
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 477.1,
+        "btw_per_stuk": 100.19
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 11.34,
+        "btw_per_stuk": 2.38
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 232.54,
+        "btw_per_stuk": 48.83
+      }
+    ]
+  }
+}

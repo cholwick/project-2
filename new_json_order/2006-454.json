@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2006-454",
+    "orderdatum": "21-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 999",
+      "postcode": "3483 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "44193151"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 232.12,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

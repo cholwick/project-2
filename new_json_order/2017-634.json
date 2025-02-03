@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2017-634",
+    "orderdatum": "26-06-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 544",
+      "postcode": "5533 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "67030609"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 299.13,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 223.52,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 234.1,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

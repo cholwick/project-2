@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2007-607",
+    "orderdatum": "19-07-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 719",
+      "postcode": "8525 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "17631133"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 454.66,
+        "btw_per_stuk": 95.48
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-665",
+    "orderdatum": "16-06-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 238",
+      "postcode": "4466 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "70084641"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 302.8,
+        "btw_per_stuk": 63.59
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 273.39,
+        "btw_per_stuk": 57.41
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 53.21,
+        "btw_per_stuk": 11.17
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 426.63,
+        "btw_per_stuk": 89.59
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 154.39,
+        "btw_per_stuk": 32.42
+      }
+    ]
+  }
+}

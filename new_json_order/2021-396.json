@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-396",
+    "orderdatum": "07-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 139",
+      "postcode": "1046 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "61660398"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 250.42,
+        "btw_per_stuk": 52.59
+      }
+    ]
+  }
+}

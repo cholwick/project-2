@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2011-490",
+    "orderdatum": "17-01-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 823",
+      "postcode": "8096 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "26554911"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 226.03,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

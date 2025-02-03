@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2009-540",
+    "orderdatum": "13-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 194",
+      "postcode": "4263 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "55167926"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 228.77,
+        "btw_per_stuk": 48.04
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 451.22,
+        "btw_per_stuk": 94.76
+      }
+    ]
+  }
+}

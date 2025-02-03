@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-018",
+    "orderdatum": "19-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 147",
+      "postcode": "5784 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "27350327"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 154.47,
+        "btw_per_stuk": 32.44
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 265.1,
+        "btw_per_stuk": 55.67
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 463.82,
+        "btw_per_stuk": 97.4
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 19.64,
+        "btw_per_stuk": 4.12
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 231.33,
+        "btw_per_stuk": 48.58
+      }
+    ]
+  }
+}

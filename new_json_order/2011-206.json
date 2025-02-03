@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-206",
+    "orderdatum": "18-06-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 226",
+      "postcode": "1721 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "81637195"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 24.09,
+        "btw_per_stuk": 5.06
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 151.15,
+        "btw_per_stuk": 31.74
+      }
+    ]
+  }
+}

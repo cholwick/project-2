@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2015-372",
+    "orderdatum": "27-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 669",
+      "postcode": "9780 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "62099109"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 25.96,
+        "btw_per_stuk": 5.45
+      }
+    ]
+  }
+}

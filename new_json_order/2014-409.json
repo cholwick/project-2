@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-409",
+    "orderdatum": "21-01-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 888",
+      "postcode": "9276 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "44653951"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 219.91,
+        "btw_per_stuk": 46.18
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 293.6,
+        "btw_per_stuk": 61.66
+      }
+    ]
+  }
+}

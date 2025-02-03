@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-643",
+    "orderdatum": "17-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 957",
+      "postcode": "9786 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "89852029"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 189.17,
+        "btw_per_stuk": 39.73
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 340.75,
+        "btw_per_stuk": 71.56
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 411.42,
+        "btw_per_stuk": 86.4
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 284.2,
+        "btw_per_stuk": 59.68
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 475.16,
+        "btw_per_stuk": 99.78
+      }
+    ]
+  }
+}

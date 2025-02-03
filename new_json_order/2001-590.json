@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-590",
+    "orderdatum": "26-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 584",
+      "postcode": "4625 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65680450"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 59.79,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 275.9,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

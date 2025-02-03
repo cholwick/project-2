@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2003-213",
+    "orderdatum": "04-03-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 287",
+      "postcode": "4762 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78362621"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 231.56,
+        "btw_per_stuk": 48.63
+      }
+    ]
+  }
+}

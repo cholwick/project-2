@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-484",
+    "orderdatum": "24-11-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 208",
+      "postcode": "8641 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "93084190"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 219.74,
+        "btw_per_stuk": 46.15
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 448.14,
+        "btw_per_stuk": 94.11
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 177.3,
+        "btw_per_stuk": 37.23
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 323.53,
+        "btw_per_stuk": 67.94
+      }
+    ]
+  }
+}

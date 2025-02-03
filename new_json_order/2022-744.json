@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-744",
+    "orderdatum": "18-10-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 776",
+      "postcode": "5899 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52239972"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 134.47,
+        "btw_per_stuk": 28.24
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 267.03,
+        "btw_per_stuk": 56.08
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 148.32,
+        "btw_per_stuk": 31.15
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 411.3,
+        "btw_per_stuk": 86.37
+      }
+    ]
+  }
+}

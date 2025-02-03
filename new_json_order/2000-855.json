@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-855",
+    "orderdatum": "08-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 438",
+      "postcode": "9905 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "71327130"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 288.67,
+        "btw_per_stuk": 60.62
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 304.71,
+        "btw_per_stuk": 63.99
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 190.73,
+        "btw_per_stuk": 40.05
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 185.18,
+        "btw_per_stuk": 38.89
+      }
+    ]
+  }
+}

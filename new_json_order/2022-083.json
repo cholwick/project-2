@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-083",
+    "orderdatum": "21-12-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 865",
+      "postcode": "5439 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "25350506"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 377.24,
+        "btw_per_stuk": 79.22
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 156.5,
+        "btw_per_stuk": 32.87
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 480.46,
+        "btw_per_stuk": 100.9
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 280.79,
+        "btw_per_stuk": 58.97
+      }
+    ]
+  }
+}

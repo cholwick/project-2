@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-915",
+    "orderdatum": "15-08-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 341",
+      "postcode": "8282 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "64615325"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 104.58,
+        "btw_per_stuk": 21.96
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 289.72,
+        "btw_per_stuk": 60.84
+      }
+    ]
+  }
+}

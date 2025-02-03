@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2000-272",
+    "orderdatum": "22-02-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 909",
+      "postcode": "9972 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "87137666"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 220.07,
+        "btw_per_stuk": 46.21
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 209.59,
+        "btw_per_stuk": 44.01
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 363.33,
+        "btw_per_stuk": 76.3
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 302.08,
+        "btw_per_stuk": 63.44
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 379.73,
+        "btw_per_stuk": 79.74
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2018-296",
+    "orderdatum": "02-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 685",
+      "postcode": "7417 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "29529799"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 459.42,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

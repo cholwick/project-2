@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-468",
+    "orderdatum": "13-12-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 806",
+      "postcode": "4144 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "40054855"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 92.57,
+        "btw_per_stuk": 19.44
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 488.92,
+        "btw_per_stuk": 102.67
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 208.63,
+        "btw_per_stuk": 43.81
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 257.38,
+        "btw_per_stuk": 54.05
+      }
+    ]
+  }
+}

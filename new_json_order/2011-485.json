@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-485",
+    "orderdatum": "02-09-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 763",
+      "postcode": "2379 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "93107680"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 30.28,
+        "btw_per_stuk": 6.36
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 211.33,
+        "btw_per_stuk": 44.38
+      }
+    ]
+  }
+}

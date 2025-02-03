@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-426",
+    "orderdatum": "26-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 7",
+      "postcode": "3909 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "32246556"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 170.72,
+        "btw_per_stuk": 35.85
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 411.16,
+        "btw_per_stuk": 86.34
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 288.68,
+        "btw_per_stuk": 60.62
+      }
+    ]
+  }
+}

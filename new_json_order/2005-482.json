@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-482",
+    "orderdatum": "01-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 91",
+      "postcode": "7282 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "57947969"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 128.22,
+        "btw_per_stuk": 26.93
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 445.39,
+        "btw_per_stuk": 93.53
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 217.87,
+        "btw_per_stuk": 45.75
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 81.67,
+        "btw_per_stuk": 17.15
+      }
+    ]
+  }
+}

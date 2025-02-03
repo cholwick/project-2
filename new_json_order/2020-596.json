@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-596",
+    "orderdatum": "27-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 114",
+      "postcode": "9678 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "30632926"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 305.58,
+        "btw_per_stuk": 64.17
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 487.38,
+        "btw_per_stuk": 102.35
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 343.65,
+        "btw_per_stuk": 72.17
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 476.11,
+        "btw_per_stuk": 99.98
+      }
+    ]
+  }
+}

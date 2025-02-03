@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-028",
+    "orderdatum": "09-04-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 527",
+      "postcode": "5540 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "20283973"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 411.77,
+        "btw_per_stuk": 86.47
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 105.08,
+        "btw_per_stuk": 22.07
+      }
+    ]
+  }
+}

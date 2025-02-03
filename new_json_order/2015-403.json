@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-403",
+    "orderdatum": "12-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 844",
+      "postcode": "2472 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "55602262"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 379.47,
+        "btw_per_stuk": 79.69
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 76.71,
+        "btw_per_stuk": 16.11
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2004-167",
+    "orderdatum": "23-01-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 58",
+      "postcode": "5312 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "37085200"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 176.46,
+        "btw_per_stuk": 37.06
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 384.93,
+        "btw_per_stuk": 80.84
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 173.82,
+        "btw_per_stuk": 36.5
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 131.89,
+        "btw_per_stuk": 27.7
+      }
+    ]
+  }
+}

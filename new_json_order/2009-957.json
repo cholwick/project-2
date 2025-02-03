@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-957",
+    "orderdatum": "08-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 856",
+      "postcode": "2092 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "19127174"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 64.56,
+        "btw_per_stuk": 13.56
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 312.8,
+        "btw_per_stuk": 65.69
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 250.45,
+        "btw_per_stuk": 52.59
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 411.08,
+        "btw_per_stuk": 86.33
+      }
+    ]
+  }
+}

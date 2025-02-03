@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-865",
+    "orderdatum": "12-08-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 642",
+      "postcode": "3768 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "82787299"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 66.83,
+        "btw_per_stuk": 14.03
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 354.22,
+        "btw_per_stuk": 74.39
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 346.14,
+        "btw_per_stuk": 72.69
+      }
+    ]
+  }
+}

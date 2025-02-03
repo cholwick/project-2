@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-682",
+    "orderdatum": "12-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 797",
+      "postcode": "1669 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "37799748"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 296.27,
+        "btw_per_stuk": 62.22
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 60.93,
+        "btw_per_stuk": 12.8
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 59.51,
+        "btw_per_stuk": 12.5
+      }
+    ]
+  }
+}

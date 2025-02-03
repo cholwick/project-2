@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-683",
+    "orderdatum": "17-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 185",
+      "postcode": "2180 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65538895"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 123.58,
+        "btw_per_stuk": 25.95
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 396.49,
+        "btw_per_stuk": 83.26
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 413.61,
+        "btw_per_stuk": 86.86
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 209.26,
+        "btw_per_stuk": 43.94
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 432.2,
+        "btw_per_stuk": 90.76
+      }
+    ]
+  }
+}

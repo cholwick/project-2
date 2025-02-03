@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-058",
+    "orderdatum": "01-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 944",
+      "postcode": "1762 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44405400"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 307.61,
+        "btw_per_stuk": 64.6
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 349.42,
+        "btw_per_stuk": 73.38
+      }
+    ]
+  }
+}

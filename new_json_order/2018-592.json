@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-592",
+    "orderdatum": "13-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 273",
+      "postcode": "6870 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "85557401"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 46.77,
+        "btw_per_stuk": 9.82
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 473.18,
+        "btw_per_stuk": 99.37
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 385.09,
+        "btw_per_stuk": 80.87
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 439.91,
+        "btw_per_stuk": 92.38
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 344.38,
+        "btw_per_stuk": 72.32
+      }
+    ]
+  }
+}

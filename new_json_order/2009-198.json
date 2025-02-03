@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-198",
+    "orderdatum": "16-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 580",
+      "postcode": "7095 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "48401400"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 120.37,
+        "btw_per_stuk": 25.28
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 145.49,
+        "btw_per_stuk": 30.55
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 157.02,
+        "btw_per_stuk": 32.97
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 447.0,
+        "btw_per_stuk": 93.87
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 39.49,
+        "btw_per_stuk": 8.29
+      }
+    ]
+  }
+}

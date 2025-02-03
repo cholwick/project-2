@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-425",
+    "orderdatum": "23-03-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 835",
+      "postcode": "6189 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53841247"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 453.12,
+        "btw_per_stuk": 95.16
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 197.95,
+        "btw_per_stuk": 41.57
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 125.44,
+        "btw_per_stuk": 26.34
+      }
+    ]
+  }
+}

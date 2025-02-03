@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2007-486",
+    "orderdatum": "15-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 132",
+      "postcode": "7755 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "51575196"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 163.59,
+        "btw_per_stuk": 34.35
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 222.44,
+        "btw_per_stuk": 46.71
+      }
+    ]
+  }
+}

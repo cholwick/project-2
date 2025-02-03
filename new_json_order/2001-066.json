@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-066",
+    "orderdatum": "10-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 297",
+      "postcode": "6470 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "11153497"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 357.38,
+        "btw_per_stuk": 75.05
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 469.58,
+        "btw_per_stuk": 98.61
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 141.65,
+        "btw_per_stuk": 29.75
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 24.88,
+        "btw_per_stuk": 5.22
+      }
+    ]
+  }
+}

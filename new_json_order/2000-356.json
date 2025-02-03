@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-356",
+    "orderdatum": "05-08-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 543",
+      "postcode": "3918 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "69341335"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 483.72,
+        "btw_per_stuk": 101.58
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 420.49,
+        "btw_per_stuk": 88.3
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 409.11,
+        "btw_per_stuk": 85.91
+      }
+    ]
+  }
+}

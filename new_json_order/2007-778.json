@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-778",
+    "orderdatum": "28-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 901",
+      "postcode": "8487 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "83693598"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 460.36,
+        "btw_per_stuk": 96.68
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 265.71,
+        "btw_per_stuk": 55.8
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 241.22,
+        "btw_per_stuk": 50.66
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 206.43,
+        "btw_per_stuk": 43.35
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2011-677",
+    "orderdatum": "18-12-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 665",
+      "postcode": "8234 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "79359206"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 447.85,
+        "btw_per_stuk": 94.05
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 479.14,
+        "btw_per_stuk": 100.62
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 256.19,
+        "btw_per_stuk": 53.8
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 227.89,
+        "btw_per_stuk": 47.86
+      }
+    ]
+  }
+}

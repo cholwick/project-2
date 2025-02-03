@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-705",
+    "orderdatum": "23-02-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 399",
+      "postcode": "7390 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "62874829"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 109.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 77.57,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 424.02,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-588",
+    "orderdatum": "14-02-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 389",
+      "postcode": "7240 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "25341935"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 400.82,
+        "btw_per_stuk": 84.17
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 314.27,
+        "btw_per_stuk": 66.0
+      }
+    ]
+  }
+}

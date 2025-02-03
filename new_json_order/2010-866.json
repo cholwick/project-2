@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2010-866",
+    "orderdatum": "09-08-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 123",
+      "postcode": "9849 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65553465"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 198.7,
+        "btw_per_stuk": 41.73
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 113.81,
+        "btw_per_stuk": 23.9
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 285.28,
+        "btw_per_stuk": 59.91
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 213.92,
+        "btw_per_stuk": 44.92
+      }
+    ]
+  }
+}

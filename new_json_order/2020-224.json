@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-224",
+    "orderdatum": "13-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 511",
+      "postcode": "9757 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "77365151"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 242.86,
+        "btw_per_stuk": 51.0
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 361.34,
+        "btw_per_stuk": 75.88
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 359.55,
+        "btw_per_stuk": 75.51
+      }
+    ]
+  }
+}

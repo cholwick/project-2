@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-484",
+    "orderdatum": "27-03-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 697",
+      "postcode": "6826 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "77606853"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 180.69,
+        "btw_per_stuk": 37.94
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 118.55,
+        "btw_per_stuk": 24.9
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 217.96,
+        "btw_per_stuk": 45.77
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 210.33,
+        "btw_per_stuk": 44.17
+      }
+    ]
+  }
+}

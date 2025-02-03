@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-556",
+    "orderdatum": "16-02-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 406",
+      "postcode": "2690 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "17549816"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 78.88,
+        "btw_per_stuk": 16.56
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 253.32,
+        "btw_per_stuk": 53.2
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 176.48,
+        "btw_per_stuk": 37.06
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 384.53,
+        "btw_per_stuk": 80.75
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 135.99,
+        "btw_per_stuk": 28.56
+      }
+    ]
+  }
+}

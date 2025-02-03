@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-242",
+    "orderdatum": "08-12-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 852",
+      "postcode": "7629 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66435347"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 267.59,
+        "btw_per_stuk": 56.19
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 66.11,
+        "btw_per_stuk": 13.88
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 429.13,
+        "btw_per_stuk": 90.12
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 171.49,
+        "btw_per_stuk": 36.01
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 425.97,
+        "btw_per_stuk": 89.45
+      }
+    ]
+  }
+}

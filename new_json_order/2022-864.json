@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2022-864",
+    "orderdatum": "26-05-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 581",
+      "postcode": "4908 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "92281311"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 247.15,
+        "btw_per_stuk": 51.9
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 233.89,
+        "btw_per_stuk": 49.12
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 34.37,
+        "btw_per_stuk": 7.22
+      }
+    ]
+  }
+}

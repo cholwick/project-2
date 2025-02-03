@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-422",
+    "orderdatum": "22-10-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 894",
+      "postcode": "5416 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33047951"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 490.09,
+        "btw_per_stuk": 102.92
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 271.68,
+        "btw_per_stuk": 57.05
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 275.65,
+        "btw_per_stuk": 57.89
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 329.79,
+        "btw_per_stuk": 69.26
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 479.39,
+        "btw_per_stuk": 100.67
+      }
+    ]
+  }
+}

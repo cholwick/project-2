@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-592",
+    "orderdatum": "24-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 184",
+      "postcode": "7252 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65855259"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 26.1,
+        "btw_per_stuk": 5.48
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 271.92,
+        "btw_per_stuk": 57.1
+      }
+    ]
+  }
+}

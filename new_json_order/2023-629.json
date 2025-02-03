@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-629",
+    "orderdatum": "28-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Schoolstraat 483",
+      "postcode": "8530 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "80911614"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 195.45,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 130.92,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 326.77,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

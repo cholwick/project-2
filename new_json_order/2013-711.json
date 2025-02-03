@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2013-711",
+    "orderdatum": "26-01-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 867",
+      "postcode": "6172 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "47036636"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 156.85,
+        "btw_per_stuk": 32.94
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 294.93,
+        "btw_per_stuk": 61.94
+      }
+    ]
+  }
+}

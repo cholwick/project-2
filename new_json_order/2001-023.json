@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-023",
+    "orderdatum": "20-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 711",
+      "postcode": "8422 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "29278833"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 154.21,
+        "btw_per_stuk": 32.38
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 326.82,
+        "btw_per_stuk": 68.63
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 256.44,
+        "btw_per_stuk": 53.85
+      }
+    ]
+  }
+}

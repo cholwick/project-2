@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-703",
+    "orderdatum": "12-12-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 429",
+      "postcode": "4569 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "56262983"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 370.43,
+        "btw_per_stuk": 77.79
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 219.33,
+        "btw_per_stuk": 46.06
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-954",
+    "orderdatum": "22-11-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 288",
+      "postcode": "1332 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "21655959"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 133.9,
+        "btw_per_stuk": 28.12
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 412.46,
+        "btw_per_stuk": 86.62
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 394.84,
+        "btw_per_stuk": 82.92
+      }
+    ]
+  }
+}

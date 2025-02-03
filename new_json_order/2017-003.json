@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2017-003",
+    "orderdatum": "17-02-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 395",
+      "postcode": "4093 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "88432703"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 168.65,
+        "btw_per_stuk": 35.42
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 141.57,
+        "btw_per_stuk": 29.73
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 281.9,
+        "btw_per_stuk": 59.2
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 144.33,
+        "btw_per_stuk": 30.31
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 89.73,
+        "btw_per_stuk": 18.84
+      }
+    ]
+  }
+}

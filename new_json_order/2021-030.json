@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2021-030",
+    "orderdatum": "28-06-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 127",
+      "postcode": "8001 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "84897377"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 15.47,
+        "btw_per_stuk": 3.25
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 265.63,
+        "btw_per_stuk": 55.78
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 65.13,
+        "btw_per_stuk": 13.68
+      }
+    ]
+  }
+}

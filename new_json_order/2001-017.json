@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-017",
+    "orderdatum": "27-03-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 60",
+      "postcode": "4499 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "58717693"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 22.62,
+        "btw_per_stuk": 4.75
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 83.83,
+        "btw_per_stuk": 17.6
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 180.15,
+        "btw_per_stuk": 37.83
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 168.0,
+        "btw_per_stuk": 35.28
+      }
+    ]
+  }
+}

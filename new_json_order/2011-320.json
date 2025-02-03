@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-320",
+    "orderdatum": "19-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 915",
+      "postcode": "7528 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "18278084"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 133.97,
+        "btw_per_stuk": 28.13
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 344.82,
+        "btw_per_stuk": 72.41
+      }
+    ]
+  }
+}

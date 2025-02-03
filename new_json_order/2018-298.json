@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2018-298",
+    "orderdatum": "06-04-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 60",
+      "postcode": "7691 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39781782"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 299.69,
+        "btw_per_stuk": 62.93
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 471.37,
+        "btw_per_stuk": 98.99
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 234.01,
+        "btw_per_stuk": 49.14
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 267.24,
+        "btw_per_stuk": 56.12
+      }
+    ]
+  }
+}

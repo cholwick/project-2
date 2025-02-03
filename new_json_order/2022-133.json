@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-133",
+    "orderdatum": "16-07-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 163",
+      "postcode": "7120 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "85445901"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 46.27,
+        "btw_per_stuk": 9.72
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 199.59,
+        "btw_per_stuk": 41.91
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 443.95,
+        "btw_per_stuk": 93.23
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 265.39,
+        "btw_per_stuk": 55.73
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 219.35,
+        "btw_per_stuk": 46.06
+      }
+    ]
+  }
+}

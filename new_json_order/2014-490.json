@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-490",
+    "orderdatum": "18-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 724",
+      "postcode": "2097 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "18177191"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 499.46,
+        "btw_per_stuk": 104.89
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 170.67,
+        "btw_per_stuk": 35.84
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 326.29,
+        "btw_per_stuk": 68.52
+      }
+    ]
+  }
+}

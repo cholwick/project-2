@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2001-217",
+    "orderdatum": "16-03-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 834",
+      "postcode": "8266 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "46563177"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 414.01,
+        "btw_per_stuk": 86.94
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 268.97,
+        "btw_per_stuk": 56.48
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 408.71,
+        "btw_per_stuk": 85.83
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 61.96,
+        "btw_per_stuk": 13.01
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 422.49,
+        "btw_per_stuk": 88.72
+      }
+    ]
+  }
+}

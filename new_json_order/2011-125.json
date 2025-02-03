@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-125",
+    "orderdatum": "21-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 463",
+      "postcode": "5218 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "46419801"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 341.63,
+        "btw_per_stuk": 71.74
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 491.64,
+        "btw_per_stuk": 103.24
+      }
+    ]
+  }
+}

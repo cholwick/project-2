@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-484",
+    "orderdatum": "08-08-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 471",
+      "postcode": "6541 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "95311069"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 418.93,
+        "btw_per_stuk": 87.98
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 483.74,
+        "btw_per_stuk": 101.59
+      }
+    ]
+  }
+}

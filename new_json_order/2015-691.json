@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2015-691",
+    "orderdatum": "26-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 152",
+      "postcode": "2346 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "12827162"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 491.73,
+        "btw_per_stuk": 103.26
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 195.16,
+        "btw_per_stuk": 40.98
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 167.49,
+        "btw_per_stuk": 35.17
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 438.97,
+        "btw_per_stuk": 92.18
+      }
+    ]
+  }
+}

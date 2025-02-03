@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-233",
+    "orderdatum": "28-03-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 391",
+      "postcode": "6460 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "14666465"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 216.55,
+        "btw_per_stuk": 45.48
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 227.49,
+        "btw_per_stuk": 47.77
+      }
+    ]
+  }
+}

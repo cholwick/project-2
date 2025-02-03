@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2008-477",
+    "orderdatum": "18-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 106",
+      "postcode": "9276 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "42660582"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 141.01,
+        "btw_per_stuk": 29.61
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 497.77,
+        "btw_per_stuk": 104.53
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 495.72,
+        "btw_per_stuk": 104.1
+      }
+    ]
+  }
+}

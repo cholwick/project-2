@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-659",
+    "orderdatum": "17-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 417",
+      "postcode": "1938 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "17426073"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 214.72,
+        "btw_per_stuk": 45.09
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 149.08,
+        "btw_per_stuk": 31.31
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 459.85,
+        "btw_per_stuk": 96.57
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 120.46,
+        "btw_per_stuk": 25.3
+      }
+    ]
+  }
+}

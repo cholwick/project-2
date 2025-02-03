@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2022-128",
+    "orderdatum": "27-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 159",
+      "postcode": "9511 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "11470010"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 60.32,
+        "btw_per_stuk": 12.67
+      }
+    ]
+  }
+}

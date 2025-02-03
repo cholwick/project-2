@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-333",
+    "orderdatum": "18-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 730",
+      "postcode": "1960 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "66203454"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 55.87,
+        "btw_per_stuk": 11.73
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 155.95,
+        "btw_per_stuk": 32.75
+      }
+    ]
+  }
+}

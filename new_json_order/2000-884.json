@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-884",
+    "orderdatum": "19-03-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 967",
+      "postcode": "6359 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "58376198"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 202.08,
+        "btw_per_stuk": 42.44
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 56.94,
+        "btw_per_stuk": 11.96
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 78.08,
+        "btw_per_stuk": 16.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-123",
+    "orderdatum": "18-11-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 697",
+      "postcode": "1162 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "50452040"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 282.74,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 207.1,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 353.56,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

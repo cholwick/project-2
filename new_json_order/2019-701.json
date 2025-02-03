@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-701",
+    "orderdatum": "23-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 645",
+      "postcode": "9889 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "94187580"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 212.56,
+        "btw_per_stuk": 44.64
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 231.99,
+        "btw_per_stuk": 48.72
+      }
+    ]
+  }
+}

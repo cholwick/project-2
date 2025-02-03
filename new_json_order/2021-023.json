@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2021-023",
+    "orderdatum": "02-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 882",
+      "postcode": "8347 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "57246479"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 105.21,
+        "btw_per_stuk": 22.09
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 337.3,
+        "btw_per_stuk": 70.83
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 327.74,
+        "btw_per_stuk": 68.83
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 353.05,
+        "btw_per_stuk": 74.14
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 435.17,
+        "btw_per_stuk": 91.39
+      }
+    ]
+  }
+}

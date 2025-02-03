@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-503",
+    "orderdatum": "04-11-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 551",
+      "postcode": "5187 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "93652148"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 158.29,
+        "btw_per_stuk": 33.24
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 53.78,
+        "btw_per_stuk": 11.29
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 436.58,
+        "btw_per_stuk": 91.68
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 48.37,
+        "btw_per_stuk": 10.16
+      }
+    ]
+  }
+}

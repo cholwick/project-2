@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2009-750",
+    "orderdatum": "11-08-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 815",
+      "postcode": "7820 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "54757803"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 204.74,
+        "btw_per_stuk": 43.0
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 79.91,
+        "btw_per_stuk": 16.78
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 274.69,
+        "btw_per_stuk": 57.68
+      }
+    ]
+  }
+}

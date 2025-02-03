@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2008-613",
+    "orderdatum": "22-07-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 44",
+      "postcode": "4449 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "12227248"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 281.69,
+        "btw_per_stuk": 59.15
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 275.31,
+        "btw_per_stuk": 57.82
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 394.36,
+        "btw_per_stuk": 82.82
+      }
+    ]
+  }
+}

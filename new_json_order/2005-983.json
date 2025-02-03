@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2005-983",
+    "orderdatum": "23-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 982",
+      "postcode": "5725 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "47481573"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 95.85,
+        "btw_per_stuk": 20.13
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 59.9,
+        "btw_per_stuk": 12.58
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 38.1,
+        "btw_per_stuk": 8.0
+      }
+    ]
+  }
+}

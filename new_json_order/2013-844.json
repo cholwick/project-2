@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2013-844",
+    "orderdatum": "06-03-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 539",
+      "postcode": "5185 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "77653912"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 211.39,
+        "btw_per_stuk": 44.39
+      }
+    ]
+  }
+}

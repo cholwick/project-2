@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-907",
+    "orderdatum": "17-12-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 521",
+      "postcode": "4956 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "19243276"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 144.29,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 79.66,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 338.37,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

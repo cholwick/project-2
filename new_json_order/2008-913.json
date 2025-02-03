@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-913",
+    "orderdatum": "04-05-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 120",
+      "postcode": "8238 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "34737794"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 310.89,
+        "btw_per_stuk": 65.29
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 95.27,
+        "btw_per_stuk": 20.01
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 470.11,
+        "btw_per_stuk": 98.72
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 92.3,
+        "btw_per_stuk": 19.38
+      }
+    ]
+  }
+}

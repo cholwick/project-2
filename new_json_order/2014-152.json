@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2014-152",
+    "orderdatum": "06-11-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 496",
+      "postcode": "4085 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "48276726"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 366.0,
+        "btw_per_stuk": 76.86
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 147.29,
+        "btw_per_stuk": 30.93
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 382.54,
+        "btw_per_stuk": 80.33
+      }
+    ]
+  }
+}

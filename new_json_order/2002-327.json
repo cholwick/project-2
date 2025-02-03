@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2002-327",
+    "orderdatum": "24-11-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Schoolstraat 557",
+      "postcode": "6688 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "20140837"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 413.58,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

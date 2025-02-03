@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-839",
+    "orderdatum": "20-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 280",
+      "postcode": "3498 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "82140726"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 74.17,
+        "btw_per_stuk": 15.58
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 306.13,
+        "btw_per_stuk": 64.29
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 432.04,
+        "btw_per_stuk": 90.73
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 269.71,
+        "btw_per_stuk": 56.64
+      }
+    ]
+  }
+}

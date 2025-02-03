@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-936",
+    "orderdatum": "03-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 664",
+      "postcode": "4121 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "33181691"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 300.68,
+        "btw_per_stuk": 63.14
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 266.46,
+        "btw_per_stuk": 55.96
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 355.68,
+        "btw_per_stuk": 74.69
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 44.44,
+        "btw_per_stuk": 9.33
+      }
+    ]
+  }
+}

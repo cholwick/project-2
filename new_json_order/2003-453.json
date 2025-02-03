@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-453",
+    "orderdatum": "08-07-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 235",
+      "postcode": "4570 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "33273818"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 18.03,
+        "btw_per_stuk": 3.79
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 26.04,
+        "btw_per_stuk": 5.47
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 70.57,
+        "btw_per_stuk": 14.82
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 416.11,
+        "btw_per_stuk": 87.38
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 473.64,
+        "btw_per_stuk": 99.46
+      }
+    ]
+  }
+}

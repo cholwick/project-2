@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2015-844",
+    "orderdatum": "07-02-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 506",
+      "postcode": "4910 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "81322705"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 388.49,
+        "btw_per_stuk": 81.58
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 370.73,
+        "btw_per_stuk": 77.85
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 307.94,
+        "btw_per_stuk": 64.67
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 11.73,
+        "btw_per_stuk": 2.46
+      }
+    ]
+  }
+}

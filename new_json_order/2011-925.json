@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-925",
+    "orderdatum": "14-06-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 489",
+      "postcode": "7772 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "61539657"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 11.02,
+        "btw_per_stuk": 2.31
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 358.84,
+        "btw_per_stuk": 75.36
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 467.99,
+        "btw_per_stuk": 98.28
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 287.97,
+        "btw_per_stuk": 60.47
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 172.71,
+        "btw_per_stuk": 36.27
+      }
+    ]
+  }
+}

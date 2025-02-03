@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2003-360",
+    "orderdatum": "03-09-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 416",
+      "postcode": "1432 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "66540519"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 124.75,
+        "btw_per_stuk": 26.2
+      }
+    ]
+  }
+}

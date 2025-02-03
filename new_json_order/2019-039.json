@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2019-039",
+    "orderdatum": "04-02-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 473",
+      "postcode": "9750 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44202194"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 99.05,
+        "btw_per_stuk": 20.8
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 90.75,
+        "btw_per_stuk": 19.06
+      }
+    ]
+  }
+}

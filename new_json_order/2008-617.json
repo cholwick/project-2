@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2008-617",
+    "orderdatum": "06-11-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 400",
+      "postcode": "5577 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78319505"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 45.39,
+        "btw_per_stuk": 9.53
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 118.2,
+        "btw_per_stuk": 24.82
+      }
+    ]
+  }
+}

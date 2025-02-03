@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-522",
+    "orderdatum": "04-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 97",
+      "postcode": "6035 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "62128608"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 379.83,
+        "btw_per_stuk": 79.76
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 332.71,
+        "btw_per_stuk": 69.87
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 446.57,
+        "btw_per_stuk": 93.78
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 339.54,
+        "btw_per_stuk": 71.3
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 199.76,
+        "btw_per_stuk": 41.95
+      }
+    ]
+  }
+}

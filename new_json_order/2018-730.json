@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-730",
+    "orderdatum": "20-10-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 216",
+      "postcode": "2552 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "88005314"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 213.92,
+        "btw_per_stuk": 44.92
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 209.08,
+        "btw_per_stuk": 43.91
+      }
+    ]
+  }
+}

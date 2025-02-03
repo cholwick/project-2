@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-540",
+    "orderdatum": "17-11-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 305",
+      "postcode": "7386 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "88403580"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 389.4,
+        "btw_per_stuk": 81.77
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 88.12,
+        "btw_per_stuk": 18.51
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 120.59,
+        "btw_per_stuk": 25.32
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 295.34,
+        "btw_per_stuk": 62.02
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 48.19,
+        "btw_per_stuk": 10.12
+      }
+    ]
+  }
+}

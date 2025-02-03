@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-907",
+    "orderdatum": "17-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 563",
+      "postcode": "6514 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "21526044"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 328.82,
+        "btw_per_stuk": 69.05
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 262.74,
+        "btw_per_stuk": 55.18
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 223.99,
+        "btw_per_stuk": 47.04
+      }
+    ]
+  }
+}

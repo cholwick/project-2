@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-855",
+    "orderdatum": "18-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 26",
+      "postcode": "4318 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "44672598"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 253.16,
+        "btw_per_stuk": 53.16
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 394.02,
+        "btw_per_stuk": 82.74
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 298.5,
+        "btw_per_stuk": 62.68
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 96.5,
+        "btw_per_stuk": 20.27
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 301.71,
+        "btw_per_stuk": 63.36
+      }
+    ]
+  }
+}

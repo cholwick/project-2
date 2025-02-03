@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2021-406",
+    "orderdatum": "10-09-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 136",
+      "postcode": "9910 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "88065863"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 68.33,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 399.35,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 18.36,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-118",
+    "orderdatum": "27-06-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 225",
+      "postcode": "1920 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "76711604"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 147.41,
+        "btw_per_stuk": 30.96
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 389.18,
+        "btw_per_stuk": 81.73
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 417.4,
+        "btw_per_stuk": 87.65
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 79.07,
+        "btw_per_stuk": 16.6
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 291.74,
+        "btw_per_stuk": 61.27
+      }
+    ]
+  }
+}

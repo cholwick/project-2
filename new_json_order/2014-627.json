@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2014-627",
+    "orderdatum": "14-07-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 398",
+      "postcode": "7330 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "85090795"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 464.65,
+        "btw_per_stuk": 97.58
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 29.94,
+        "btw_per_stuk": 6.29
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 204.93,
+        "btw_per_stuk": 43.04
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 112.48,
+        "btw_per_stuk": 23.62
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 95.76,
+        "btw_per_stuk": 20.11
+      }
+    ]
+  }
+}

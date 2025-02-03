@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-557",
+    "orderdatum": "03-06-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 106",
+      "postcode": "5470 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "48634082"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 439.39,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 377.68,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 441.29,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

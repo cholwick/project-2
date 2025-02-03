@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2009-756",
+    "orderdatum": "26-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 635",
+      "postcode": "6894 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "73209574"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 121.6,
+        "btw_per_stuk": 25.54
+      }
+    ]
+  }
+}

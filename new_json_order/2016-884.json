@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-884",
+    "orderdatum": "22-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 449",
+      "postcode": "7056 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91044612"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 326.55,
+        "btw_per_stuk": 68.58
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 241.08,
+        "btw_per_stuk": 50.63
+      }
+    ]
+  }
+}

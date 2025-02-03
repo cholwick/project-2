@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-698",
+    "orderdatum": "20-02-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 4",
+      "postcode": "5388 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "12270210"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 250.57,
+        "btw_per_stuk": 52.62
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 73.42,
+        "btw_per_stuk": 15.42
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 34.48,
+        "btw_per_stuk": 7.24
+      }
+    ]
+  }
+}

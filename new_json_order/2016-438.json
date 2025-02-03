@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2016-438",
+    "orderdatum": "08-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 94",
+      "postcode": "2469 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "45793621"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 330.32,
+        "btw_per_stuk": 69.37
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 413.47,
+        "btw_per_stuk": 86.83
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 162.28,
+        "btw_per_stuk": 34.08
+      }
+    ]
+  }
+}

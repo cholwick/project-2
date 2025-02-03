@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2004-783",
+    "orderdatum": "12-04-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 73",
+      "postcode": "6770 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "55754047"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 459.27,
+        "btw_per_stuk": 96.45
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 327.02,
+        "btw_per_stuk": 68.67
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 405.95,
+        "btw_per_stuk": 85.25
+      }
+    ]
+  }
+}

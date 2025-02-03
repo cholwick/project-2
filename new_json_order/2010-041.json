@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2010-041",
+    "orderdatum": "09-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 386",
+      "postcode": "5147 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "15381051"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 34.41,
+        "btw_per_stuk": 7.23
+      }
+    ]
+  }
+}

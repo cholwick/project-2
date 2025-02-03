@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2020-166",
+    "orderdatum": "03-04-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 946",
+      "postcode": "5089 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "88125685"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 101.73,
+        "btw_per_stuk": 21.36
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 493.97,
+        "btw_per_stuk": 103.73
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 487.93,
+        "btw_per_stuk": 102.47
+      }
+    ]
+  }
+}

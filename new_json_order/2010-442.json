@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-442",
+    "orderdatum": "13-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 206",
+      "postcode": "2362 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "11350524"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 310.81,
+        "btw_per_stuk": 65.27
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 498.62,
+        "btw_per_stuk": 104.71
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 371.73,
+        "btw_per_stuk": 78.06
+      }
+    ]
+  }
+}

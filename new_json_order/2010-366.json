@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-366",
+    "orderdatum": "25-01-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 441",
+      "postcode": "9088 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "56370416"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 171.14,
+        "btw_per_stuk": 35.94
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 321.35,
+        "btw_per_stuk": 67.48
+      }
+    ]
+  }
+}

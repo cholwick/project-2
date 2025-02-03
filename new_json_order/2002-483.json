@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-483",
+    "orderdatum": "12-10-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 549",
+      "postcode": "5622 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "16375122"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 215.42,
+        "btw_per_stuk": 45.24
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 121.86,
+        "btw_per_stuk": 25.59
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 164.59,
+        "btw_per_stuk": 34.56
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 258.07,
+        "btw_per_stuk": 54.19
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 17.13,
+        "btw_per_stuk": 3.6
+      }
+    ]
+  }
+}

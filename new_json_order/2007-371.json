@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-371",
+    "orderdatum": "21-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 656",
+      "postcode": "5212 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "50030286"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 493.97,
+        "btw_per_stuk": 103.73
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 26.58,
+        "btw_per_stuk": 5.58
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 233.67,
+        "btw_per_stuk": 49.07
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 343.77,
+        "btw_per_stuk": 72.19
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-046",
+    "orderdatum": "03-12-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 949",
+      "postcode": "4968 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "86495183"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 342.66,
+        "btw_per_stuk": 71.96
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 441.24,
+        "btw_per_stuk": 92.66
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 440.54,
+        "btw_per_stuk": 92.51
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 166.13,
+        "btw_per_stuk": 34.89
+      }
+    ]
+  }
+}

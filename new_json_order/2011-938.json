@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2011-938",
+    "orderdatum": "09-04-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 961",
+      "postcode": "8616 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "13840073"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 448.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 448.62,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

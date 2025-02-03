@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-346",
+    "orderdatum": "28-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 589",
+      "postcode": "5714 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "88768576"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 358.18,
+        "btw_per_stuk": 75.22
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 447.4,
+        "btw_per_stuk": 93.95
+      }
+    ]
+  }
+}

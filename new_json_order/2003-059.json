@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2003-059",
+    "orderdatum": "08-06-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 737",
+      "postcode": "3133 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "80848492"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 334.19,
+        "btw_per_stuk": 70.18
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 471.64,
+        "btw_per_stuk": 99.04
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 326.07,
+        "btw_per_stuk": 68.47
+      }
+    ]
+  }
+}

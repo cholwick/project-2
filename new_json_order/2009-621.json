@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-621",
+    "orderdatum": "13-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 411",
+      "postcode": "6660 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "27742217"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 216.55,
+        "btw_per_stuk": 45.48
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 450.82,
+        "btw_per_stuk": 94.67
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 414.52,
+        "btw_per_stuk": 87.05
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 400.01,
+        "btw_per_stuk": 84.0
+      }
+    ]
+  }
+}

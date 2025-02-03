@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-827",
+    "orderdatum": "05-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 277",
+      "postcode": "4202 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "78509317"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 168.15,
+        "btw_per_stuk": 35.31
+      }
+    ]
+  }
+}

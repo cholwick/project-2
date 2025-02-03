@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2017-550",
+    "orderdatum": "07-01-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 243",
+      "postcode": "1739 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "38403287"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 153.95,
+        "btw_per_stuk": 32.33
+      }
+    ]
+  }
+}

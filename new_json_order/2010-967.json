@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-967",
+    "orderdatum": "17-03-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 934",
+      "postcode": "2813 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "55561789"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 54.46,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 167.01,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 22.31,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

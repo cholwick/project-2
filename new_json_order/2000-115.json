@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2000-115",
+    "orderdatum": "17-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 462",
+      "postcode": "3704 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "46450943"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 360.37,
+        "btw_per_stuk": 75.68
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 226.27,
+        "btw_per_stuk": 47.52
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 406.23,
+        "btw_per_stuk": 85.31
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 409.94,
+        "btw_per_stuk": 86.09
+      }
+    ]
+  }
+}

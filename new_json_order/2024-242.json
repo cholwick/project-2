@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2024-242",
+    "orderdatum": "10-10-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 337",
+      "postcode": "8255 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "83541240"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 293.38,
+        "btw_per_stuk": 61.61
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 241.49,
+        "btw_per_stuk": 50.71
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 337.76,
+        "btw_per_stuk": 70.93
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 318.24,
+        "btw_per_stuk": 66.83
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 333.47,
+        "btw_per_stuk": 70.03
+      }
+    ]
+  }
+}

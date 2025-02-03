@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2022-472",
+    "orderdatum": "20-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Schoolstraat 806",
+      "postcode": "3525 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "90714339"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 14.72,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

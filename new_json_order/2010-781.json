@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-781",
+    "orderdatum": "10-01-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Kerkstraat 908",
+      "postcode": "2835 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "46652821"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 44.54,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 62.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 48.27,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-185",
+    "orderdatum": "25-08-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 462",
+      "postcode": "3385 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "84662803"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 89.03,
+        "btw_per_stuk": 18.7
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 264.56,
+        "btw_per_stuk": 55.56
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 232.76,
+        "btw_per_stuk": 48.88
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 341.67,
+        "btw_per_stuk": 71.75
+      }
+    ]
+  }
+}

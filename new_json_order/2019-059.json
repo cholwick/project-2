@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2019-059",
+    "orderdatum": "17-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 108",
+      "postcode": "5274 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31416452"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 95.55,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

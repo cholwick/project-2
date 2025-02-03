@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-265",
+    "orderdatum": "14-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 365",
+      "postcode": "8182 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "45122076"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 474.03,
+        "btw_per_stuk": 99.55
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 59.18,
+        "btw_per_stuk": 12.43
+      }
+    ]
+  }
+}

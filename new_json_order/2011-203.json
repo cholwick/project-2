@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-203",
+    "orderdatum": "03-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 988",
+      "postcode": "4760 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "75888670"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 25.23,
+        "btw_per_stuk": 5.3
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 195.16,
+        "btw_per_stuk": 40.98
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 31.69,
+        "btw_per_stuk": 6.65
+      }
+    ]
+  }
+}

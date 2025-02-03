@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-823",
+    "orderdatum": "17-01-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 931",
+      "postcode": "3950 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "51728823"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 178.35,
+        "btw_per_stuk": 37.45
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 443.55,
+        "btw_per_stuk": 93.15
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.28,
+        "btw_per_stuk": 65.58
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 397.42,
+        "btw_per_stuk": 83.46
+      }
+    ]
+  }
+}

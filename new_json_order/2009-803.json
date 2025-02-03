@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-803",
+    "orderdatum": "07-07-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 158",
+      "postcode": "1080 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27104520"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 274.4,
+        "btw_per_stuk": 57.62
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 64.62,
+        "btw_per_stuk": 13.57
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 22.73,
+        "btw_per_stuk": 4.77
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 481.9,
+        "btw_per_stuk": 101.2
+      }
+    ]
+  }
+}

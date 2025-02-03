@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-550",
+    "orderdatum": "21-01-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 841",
+      "postcode": "9765 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "73541941"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 482.33,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 132.84,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

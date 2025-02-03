@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-692",
+    "orderdatum": "12-11-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 731",
+      "postcode": "9116 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "49777742"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 431.36,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 87.33,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

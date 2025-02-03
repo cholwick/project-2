@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2019-546",
+    "orderdatum": "19-08-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 558",
+      "postcode": "8781 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "37909231"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 486.19,
+        "btw_per_stuk": 102.1
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 204.65,
+        "btw_per_stuk": 42.98
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 444.26,
+        "btw_per_stuk": 93.29
+      }
+    ]
+  }
+}

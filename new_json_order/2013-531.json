@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-531",
+    "orderdatum": "05-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 891",
+      "postcode": "3625 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "61983698"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 273.08,
+        "btw_per_stuk": 57.35
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 434.52,
+        "btw_per_stuk": 91.25
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 495.46,
+        "btw_per_stuk": 104.05
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 346.76,
+        "btw_per_stuk": 72.82
+      }
+    ]
+  }
+}

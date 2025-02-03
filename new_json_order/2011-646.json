@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2011-646",
+    "orderdatum": "13-12-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 120",
+      "postcode": "8682 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "70691886"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 355.39,
+        "btw_per_stuk": 74.63
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 419.75,
+        "btw_per_stuk": 88.15
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 18.18,
+        "btw_per_stuk": 3.82
+      }
+    ]
+  }
+}

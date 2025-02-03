@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2013-226",
+    "orderdatum": "22-06-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 515",
+      "postcode": "1403 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "88136877"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 167.05,
+        "btw_per_stuk": 35.08
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 425.7,
+        "btw_per_stuk": 89.4
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 456.44,
+        "btw_per_stuk": 95.85
+      }
+    ]
+  }
+}

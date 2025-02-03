@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2021-916",
+    "orderdatum": "26-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 955",
+      "postcode": "5514 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "56416044"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 479.03,
+        "btw_per_stuk": 100.6
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 358.06,
+        "btw_per_stuk": 75.19
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 499.3,
+        "btw_per_stuk": 104.85
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2004-199",
+    "orderdatum": "14-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 680",
+      "postcode": "9684 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39385882"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 139.65,
+        "btw_per_stuk": 29.33
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 85.3,
+        "btw_per_stuk": 17.91
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 68.26,
+        "btw_per_stuk": 14.33
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 386.67,
+        "btw_per_stuk": 81.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2012-808",
+    "orderdatum": "12-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 272",
+      "postcode": "6870 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "23037611"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 316.54,
+        "btw_per_stuk": 66.47
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 497.9,
+        "btw_per_stuk": 104.56
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 62.29,
+        "btw_per_stuk": 13.08
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-268",
+    "orderdatum": "01-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 139",
+      "postcode": "2409 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "40001124"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 180.06,
+        "btw_per_stuk": 37.81
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 352.51,
+        "btw_per_stuk": 74.03
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 283.63,
+        "btw_per_stuk": 59.56
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 474.15,
+        "btw_per_stuk": 99.57
+      }
+    ]
+  }
+}

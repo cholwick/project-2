@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2018-848",
+    "orderdatum": "28-04-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 266",
+      "postcode": "7353 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "30012585"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 231.72,
+        "btw_per_stuk": 48.66
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 242.05,
+        "btw_per_stuk": 50.83
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 37.6,
+        "btw_per_stuk": 7.9
+      }
+    ]
+  }
+}

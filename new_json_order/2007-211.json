@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-211",
+    "orderdatum": "02-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 502",
+      "postcode": "7193 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "78404209"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 487.91,
+        "btw_per_stuk": 102.46
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 498.43,
+        "btw_per_stuk": 104.67
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 247.4,
+        "btw_per_stuk": 51.95
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 177.43,
+        "btw_per_stuk": 37.26
+      }
+    ]
+  }
+}

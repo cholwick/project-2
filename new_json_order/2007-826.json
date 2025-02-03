@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2007-826",
+    "orderdatum": "03-09-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 573",
+      "postcode": "9990 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44271024"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 450.24,
+        "btw_per_stuk": 94.55
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 86.52,
+        "btw_per_stuk": 18.17
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 103.54,
+        "btw_per_stuk": 21.74
+      }
+    ]
+  }
+}

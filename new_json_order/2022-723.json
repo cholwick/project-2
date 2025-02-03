@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2022-723",
+    "orderdatum": "04-04-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 600",
+      "postcode": "2483 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "65257556"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 259.05,
+        "btw_per_stuk": 54.4
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 29.39,
+        "btw_per_stuk": 6.17
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 424.0,
+        "btw_per_stuk": 89.04
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-976",
+    "orderdatum": "25-10-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 844",
+      "postcode": "9117 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "34298131"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 151.57,
+        "btw_per_stuk": 31.83
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 329.38,
+        "btw_per_stuk": 69.17
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 213.45,
+        "btw_per_stuk": 44.82
+      }
+    ]
+  }
+}

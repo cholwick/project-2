@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2008-856",
+    "orderdatum": "03-03-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 342",
+      "postcode": "2567 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "24435112"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 316.2,
+        "btw_per_stuk": 66.4
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 272.61,
+        "btw_per_stuk": 57.25
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 172.71,
+        "btw_per_stuk": 36.27
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 141.79,
+        "btw_per_stuk": 29.78
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 250.86,
+        "btw_per_stuk": 52.68
+      }
+    ]
+  }
+}

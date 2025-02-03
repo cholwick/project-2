@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2017-795",
+    "orderdatum": "18-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 621",
+      "postcode": "8761 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "48096551"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 446.55,
+        "btw_per_stuk": 93.78
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 341.87,
+        "btw_per_stuk": 71.79
+      }
+    ]
+  }
+}

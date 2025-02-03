@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-296",
+    "orderdatum": "22-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 338",
+      "postcode": "7592 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "45673745"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 461.16,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 464.6,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

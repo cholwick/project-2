@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-319",
+    "orderdatum": "11-04-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 951",
+      "postcode": "1592 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "53608123"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 183.39,
+        "btw_per_stuk": 38.51
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 143.56,
+        "btw_per_stuk": 30.15
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 276.21,
+        "btw_per_stuk": 58.0
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 144.36,
+        "btw_per_stuk": 30.32
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 205.91,
+        "btw_per_stuk": 43.24
+      }
+    ]
+  }
+}

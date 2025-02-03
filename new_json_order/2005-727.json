@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-727",
+    "orderdatum": "26-04-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 128",
+      "postcode": "7605 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "62548119"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 49.34,
+        "btw_per_stuk": 10.36
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 125.69,
+        "btw_per_stuk": 26.39
+      }
+    ]
+  }
+}

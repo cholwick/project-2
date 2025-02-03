@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2019-549",
+    "orderdatum": "28-11-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 488",
+      "postcode": "6258 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "77517004"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 111.8,
+        "btw_per_stuk": 23.48
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 386.52,
+        "btw_per_stuk": 81.17
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 464.67,
+        "btw_per_stuk": 97.58
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 199.44,
+        "btw_per_stuk": 41.88
+      }
+    ]
+  }
+}

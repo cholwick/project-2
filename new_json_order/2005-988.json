@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2005-988",
+    "orderdatum": "24-09-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 813",
+      "postcode": "1997 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "31294981"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 129.33,
+        "btw_per_stuk": 27.16
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 118.32,
+        "btw_per_stuk": 24.85
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 266.94,
+        "btw_per_stuk": 56.06
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 483.56,
+        "btw_per_stuk": 101.55
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 177.9,
+        "btw_per_stuk": 37.36
+      }
+    ]
+  }
+}

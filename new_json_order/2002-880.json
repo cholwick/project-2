@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2002-880",
+    "orderdatum": "24-12-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Aarde B.V.",
+      "adres": "Hoofdstraat 393",
+      "postcode": "6217 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "69300797"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 223.26,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 420.53,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

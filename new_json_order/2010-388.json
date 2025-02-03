@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2010-388",
+    "orderdatum": "18-02-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 965",
+      "postcode": "9857 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "86427623"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 201.51,
+        "btw_per_stuk": 42.32
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 410.54,
+        "btw_per_stuk": 86.21
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 390.39,
+        "btw_per_stuk": 81.98
+      }
+    ]
+  }
+}

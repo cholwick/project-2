@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2005-593",
+    "orderdatum": "03-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 438",
+      "postcode": "5442 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "21950006"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 395.09,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 215.97,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

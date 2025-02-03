@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-950",
+    "orderdatum": "17-09-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 27",
+      "postcode": "9167 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "58636703"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 186.98,
+        "btw_per_stuk": 39.27
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 367.71,
+        "btw_per_stuk": 77.22
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-623",
+    "orderdatum": "07-01-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 738",
+      "postcode": "1534 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "15932712"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 451.15,
+        "btw_per_stuk": 94.74
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 390.46,
+        "btw_per_stuk": 82.0
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 423.71,
+        "btw_per_stuk": 88.98
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 285.56,
+        "btw_per_stuk": 59.97
+      }
+    ]
+  }
+}

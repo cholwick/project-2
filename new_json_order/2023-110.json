@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-110",
+    "orderdatum": "07-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 650",
+      "postcode": "8051 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "39247201"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 160.92,
+        "btw_per_stuk": 33.79
+      }
+    ]
+  }
+}

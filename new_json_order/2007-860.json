@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2007-860",
+    "orderdatum": "20-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 777",
+      "postcode": "6024 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "62596864"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 163.54,
+        "btw_per_stuk": 34.34
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 105.77,
+        "btw_per_stuk": 22.21
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 63.05,
+        "btw_per_stuk": 13.24
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 325.95,
+        "btw_per_stuk": 68.45
+      }
+    ]
+  }
+}

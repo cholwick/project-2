@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2019-620",
+    "orderdatum": "26-05-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 537",
+      "postcode": "6575 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "20637920"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 138.9,
+        "btw_per_stuk": 29.17
+      }
+    ]
+  }
+}

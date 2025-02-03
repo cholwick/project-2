@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2015-058",
+    "orderdatum": "27-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 816",
+      "postcode": "3973 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "35812235"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 340.4,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 266.52,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

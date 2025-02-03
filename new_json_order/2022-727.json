@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2022-727",
+    "orderdatum": "15-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 583",
+      "postcode": "1304 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "63289253"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 481.57,
+        "btw_per_stuk": 101.13
+      }
+    ]
+  }
+}

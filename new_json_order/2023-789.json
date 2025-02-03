@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2023-789",
+    "orderdatum": "04-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 990",
+      "postcode": "6356 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "21976222"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 30.56,
+        "btw_per_stuk": 6.42
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 142.05,
+        "btw_per_stuk": 29.83
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 435.43,
+        "btw_per_stuk": 91.44
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 497.84,
+        "btw_per_stuk": 104.55
+      }
+    ]
+  }
+}

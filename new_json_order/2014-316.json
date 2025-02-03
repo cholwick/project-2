@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-316",
+    "orderdatum": "05-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 932",
+      "postcode": "4609 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "58878052"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 70.81,
+        "btw_per_stuk": 14.87
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 46.84,
+        "btw_per_stuk": 9.84
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 162.47,
+        "btw_per_stuk": 34.12
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 458.52,
+        "btw_per_stuk": 96.29
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2013-102",
+    "orderdatum": "14-09-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 43",
+      "postcode": "1213 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "63196982"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 421.08,
+        "btw_per_stuk": 88.43
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 177.46,
+        "btw_per_stuk": 37.27
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 15.02,
+        "btw_per_stuk": 3.15
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 201.62,
+        "btw_per_stuk": 42.34
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 324.11,
+        "btw_per_stuk": 68.06
+      }
+    ]
+  }
+}

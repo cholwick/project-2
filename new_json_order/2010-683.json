@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-683",
+    "orderdatum": "24-11-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 822",
+      "postcode": "4177 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "13242061"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 100.88,
+        "btw_per_stuk": 21.18
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 336.32,
+        "btw_per_stuk": 70.63
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 242.8,
+        "btw_per_stuk": 50.99
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 454.82,
+        "btw_per_stuk": 95.51
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 444.54,
+        "btw_per_stuk": 93.35
+      }
+    ]
+  }
+}

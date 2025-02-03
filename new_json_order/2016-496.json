@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-496",
+    "orderdatum": "15-10-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 831",
+      "postcode": "5954 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44187303"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 174.35,
+        "btw_per_stuk": 36.61
+      }
+    ]
+  }
+}

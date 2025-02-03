@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2001-778",
+    "orderdatum": "16-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 583",
+      "postcode": "8038 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "22807136"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 297.06,
+        "btw_per_stuk": 62.38
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 77.32,
+        "btw_per_stuk": 16.24
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 114.55,
+        "btw_per_stuk": 24.06
+      }
+    ]
+  }
+}

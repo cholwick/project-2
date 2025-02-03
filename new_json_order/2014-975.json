@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2014-975",
+    "orderdatum": "25-07-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 298",
+      "postcode": "8697 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "42226207"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 145.45,
+        "btw_per_stuk": 30.54
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-529",
+    "orderdatum": "14-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 64",
+      "postcode": "6387 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "37328140"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 217.11,
+        "btw_per_stuk": 45.59
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 163.73,
+        "btw_per_stuk": 34.38
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 313.4,
+        "btw_per_stuk": 65.81
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 452.34,
+        "btw_per_stuk": 94.99
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 116.87,
+        "btw_per_stuk": 24.54
+      }
+    ]
+  }
+}

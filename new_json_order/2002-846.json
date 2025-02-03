@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-846",
+    "orderdatum": "24-12-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 130",
+      "postcode": "3599 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "35924784"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 149.44,
+        "btw_per_stuk": 31.38
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 396.21,
+        "btw_per_stuk": 83.2
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 86.93,
+        "btw_per_stuk": 18.26
+      }
+    ]
+  }
+}

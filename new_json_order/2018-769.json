@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2018-769",
+    "orderdatum": "13-10-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 494",
+      "postcode": "5387 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "64887486"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 431.06,
+        "btw_per_stuk": 90.52
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 256.73,
+        "btw_per_stuk": 53.91
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 490.24,
+        "btw_per_stuk": 102.95
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 416.86,
+        "btw_per_stuk": 87.54
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 188.58,
+        "btw_per_stuk": 39.6
+      }
+    ]
+  }
+}

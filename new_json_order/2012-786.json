@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-786",
+    "orderdatum": "09-09-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 215",
+      "postcode": "4268 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "91246774"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 435.86,
+        "btw_per_stuk": 91.53
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 22.47,
+        "btw_per_stuk": 4.72
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 357.25,
+        "btw_per_stuk": 75.02
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 310.5,
+        "btw_per_stuk": 65.2
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 223.53,
+        "btw_per_stuk": 46.94
+      }
+    ]
+  }
+}

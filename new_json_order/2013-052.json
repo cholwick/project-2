@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2013-052",
+    "orderdatum": "20-02-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 304",
+      "postcode": "8449 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "21301715"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 226.43,
+        "btw_per_stuk": 47.55
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2021-965",
+    "orderdatum": "23-09-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 414",
+      "postcode": "5657 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "71299636"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 410.75,
+        "btw_per_stuk": 86.26
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 77.04,
+        "btw_per_stuk": 16.18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2020-536",
+    "orderdatum": "03-07-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 910",
+      "postcode": "5161 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "69336333"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 132.81,
+        "btw_per_stuk": 27.89
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 432.0,
+        "btw_per_stuk": 90.72
+      }
+    ]
+  }
+}

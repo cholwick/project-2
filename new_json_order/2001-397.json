@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2001-397",
+    "orderdatum": "16-09-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 406",
+      "postcode": "4890 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "55810801"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 145.75,
+        "btw_per_stuk": 30.61
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 291.17,
+        "btw_per_stuk": 61.15
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 138.15,
+        "btw_per_stuk": 29.01
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 88.78,
+        "btw_per_stuk": 18.64
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 270.32,
+        "btw_per_stuk": 56.77
+      }
+    ]
+  }
+}

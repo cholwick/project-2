@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-921",
+    "orderdatum": "11-07-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 986",
+      "postcode": "8968 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "30197056"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 120.57,
+        "btw_per_stuk": 25.32
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 15.66,
+        "btw_per_stuk": 3.29
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 496.92,
+        "btw_per_stuk": 104.35
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 411.99,
+        "btw_per_stuk": 86.52
+      }
+    ]
+  }
+}

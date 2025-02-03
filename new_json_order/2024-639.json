@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-639",
+    "orderdatum": "09-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 793",
+      "postcode": "8339 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "92631359"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 404.18,
+        "btw_per_stuk": 84.88
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 453.17,
+        "btw_per_stuk": 95.17
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2010-127",
+    "orderdatum": "17-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 916",
+      "postcode": "4373 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "86972663"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 374.3,
+        "btw_per_stuk": 78.6
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 195.37,
+        "btw_per_stuk": 41.03
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 263.15,
+        "btw_per_stuk": 55.26
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 220.88,
+        "btw_per_stuk": 46.38
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 441.59,
+        "btw_per_stuk": 92.73
+      }
+    ]
+  }
+}

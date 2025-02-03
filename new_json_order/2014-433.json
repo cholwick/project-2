@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-433",
+    "orderdatum": "15-04-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 733",
+      "postcode": "1775 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "10759986"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 182.69,
+        "btw_per_stuk": 38.36
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 313.41,
+        "btw_per_stuk": 65.82
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 479.38,
+        "btw_per_stuk": 100.67
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 307.06,
+        "btw_per_stuk": 64.48
+      }
+    ]
+  }
+}

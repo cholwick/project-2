@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2021-831",
+    "orderdatum": "08-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 341",
+      "postcode": "5998 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "86657543"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 297.84,
+        "btw_per_stuk": 62.55
+      }
+    ]
+  }
+}

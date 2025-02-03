@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2002-643",
+    "orderdatum": "18-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 527",
+      "postcode": "2336 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "26664779"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 400.77,
+        "btw_per_stuk": 84.16
+      }
+    ]
+  }
+}

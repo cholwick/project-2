@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-913",
+    "orderdatum": "01-02-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 825",
+      "postcode": "8485 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "17659523"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 196.66,
+        "btw_per_stuk": 41.3
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 297.49,
+        "btw_per_stuk": 62.47
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 487.13,
+        "btw_per_stuk": 102.3
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 146.74,
+        "btw_per_stuk": 30.82
+      }
+    ]
+  }
+}

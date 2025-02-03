@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-719",
+    "orderdatum": "22-10-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 751",
+      "postcode": "6876 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "58544732"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 105.2,
+        "btw_per_stuk": 22.09
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 336.68,
+        "btw_per_stuk": 70.7
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 27.97,
+        "btw_per_stuk": 5.87
+      }
+    ]
+  }
+}

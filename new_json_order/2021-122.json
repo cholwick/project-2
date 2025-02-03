@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2021-122",
+    "orderdatum": "11-08-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 568",
+      "postcode": "6726 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "59011052"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 272.83,
+        "btw_per_stuk": 57.29
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 81.86,
+        "btw_per_stuk": 17.19
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 317.89,
+        "btw_per_stuk": 66.76
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 337.35,
+        "btw_per_stuk": 70.84
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 425.68,
+        "btw_per_stuk": 89.39
+      }
+    ]
+  }
+}

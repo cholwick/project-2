@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2022-117",
+    "orderdatum": "24-11-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 267",
+      "postcode": "2141 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "31215060"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 437.48,
+        "btw_per_stuk": 91.87
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 267.07,
+        "btw_per_stuk": 56.08
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 335.65,
+        "btw_per_stuk": 70.49
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 226.25,
+        "btw_per_stuk": 47.51
+      }
+    ]
+  }
+}

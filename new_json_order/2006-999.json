@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-999",
+    "orderdatum": "18-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 643",
+      "postcode": "8046 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "10915816"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 301.66,
+        "btw_per_stuk": 63.35
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 480.6,
+        "btw_per_stuk": 100.93
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 176.71,
+        "btw_per_stuk": 37.11
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 86.56,
+        "btw_per_stuk": 18.18
+      }
+    ]
+  }
+}

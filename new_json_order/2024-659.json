@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2024-659",
+    "orderdatum": "21-08-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 446",
+      "postcode": "4459 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "94660608"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 248.47,
+        "btw_per_stuk": 52.18
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 286.16,
+        "btw_per_stuk": 60.09
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 125.26,
+        "btw_per_stuk": 26.3
+      }
+    ]
+  }
+}

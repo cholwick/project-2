@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2006-933",
+    "orderdatum": "24-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 288",
+      "postcode": "8103 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "24780461"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 326.9,
+        "btw_per_stuk": 68.65
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 117.83,
+        "btw_per_stuk": 24.74
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 423.17,
+        "btw_per_stuk": 88.87
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 486.68,
+        "btw_per_stuk": 102.2
+      }
+    ]
+  }
+}

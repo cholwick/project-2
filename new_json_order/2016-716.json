@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2016-716",
+    "orderdatum": "13-09-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 668",
+      "postcode": "1304 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "24360330"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 115.14,
+        "btw_per_stuk": 24.18
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 430.37,
+        "btw_per_stuk": 90.38
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 411.36,
+        "btw_per_stuk": 86.39
+      }
+    ]
+  }
+}

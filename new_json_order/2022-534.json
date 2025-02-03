@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-534",
+    "orderdatum": "18-08-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 789",
+      "postcode": "2677 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "32810441"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 306.98,
+        "btw_per_stuk": 64.47
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 386.78,
+        "btw_per_stuk": 81.22
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 415.8,
+        "btw_per_stuk": 87.32
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 246.57,
+        "btw_per_stuk": 51.78
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 208.87,
+        "btw_per_stuk": 43.86
+      }
+    ]
+  }
+}

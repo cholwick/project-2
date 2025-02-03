@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2019-398",
+    "orderdatum": "08-11-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 981",
+      "postcode": "7769 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "70840196"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 45.89,
+        "btw_per_stuk": 9.64
+      }
+    ]
+  }
+}

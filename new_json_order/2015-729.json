@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2015-729",
+    "orderdatum": "23-07-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 613",
+      "postcode": "9683 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53180882"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 208.61,
+        "btw_per_stuk": 43.81
+      }
+    ]
+  }
+}

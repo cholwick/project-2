@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2003-026",
+    "orderdatum": "17-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 141",
+      "postcode": "6589 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "39631450"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 423.96,
+        "btw_per_stuk": 89.03
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 236.77,
+        "btw_per_stuk": 49.72
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 433.09,
+        "btw_per_stuk": 90.95
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 347.82,
+        "btw_per_stuk": 73.04
+      }
+    ]
+  }
+}

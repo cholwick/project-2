@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-180",
+    "orderdatum": "21-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 924",
+      "postcode": "9448 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "70086138"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 186.98,
+        "btw_per_stuk": 39.27
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 463.21,
+        "btw_per_stuk": 97.27
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 212.95,
+        "btw_per_stuk": 44.72
+      }
+    ]
+  }
+}

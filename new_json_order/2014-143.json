@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2014-143",
+    "orderdatum": "01-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 662",
+      "postcode": "1586 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "17092064"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 18.15,
+        "btw_per_stuk": 3.81
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 477.49,
+        "btw_per_stuk": 100.27
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 293.41,
+        "btw_per_stuk": 61.62
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 464.8,
+        "btw_per_stuk": 97.61
+      }
+    ]
+  }
+}

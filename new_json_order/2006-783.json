@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2006-783",
+    "orderdatum": "16-12-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 148",
+      "postcode": "8889 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "87398506"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 274.04,
+        "btw_per_stuk": 57.55
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 485.6,
+        "btw_per_stuk": 101.98
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 266.88,
+        "btw_per_stuk": 56.04
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 17.72,
+        "btw_per_stuk": 3.72
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 138.98,
+        "btw_per_stuk": 29.19
+      }
+    ]
+  }
+}

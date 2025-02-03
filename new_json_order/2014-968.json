@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2014-968",
+    "orderdatum": "03-06-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Neptunus B.V.",
+      "adres": "Hoofdstraat 984",
+      "postcode": "4663 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "44801689"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 186.49,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

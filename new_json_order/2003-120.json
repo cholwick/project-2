@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-120",
+    "orderdatum": "10-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 886",
+      "postcode": "7909 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "44624116"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 296.76,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 166.02,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

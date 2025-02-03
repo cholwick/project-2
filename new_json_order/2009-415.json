@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2009-415",
+    "orderdatum": "13-02-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 814",
+      "postcode": "5176 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "53922193"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 175.36,
+        "btw_per_stuk": 36.83
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 220.74,
+        "btw_per_stuk": 46.36
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 268.21,
+        "btw_per_stuk": 56.32
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 271.02,
+        "btw_per_stuk": 56.91
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 485.78,
+        "btw_per_stuk": 102.01
+      }
+    ]
+  }
+}

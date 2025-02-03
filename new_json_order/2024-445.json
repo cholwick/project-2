@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2024-445",
+    "orderdatum": "10-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 452",
+      "postcode": "6387 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "30818867"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 256.17,
+        "btw_per_stuk": 53.8
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 428.94,
+        "btw_per_stuk": 90.08
+      }
+    ]
+  }
+}

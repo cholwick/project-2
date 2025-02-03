@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2018-569",
+    "orderdatum": "07-05-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 508",
+      "postcode": "9702 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "88794475"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 462.96,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 402.91,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

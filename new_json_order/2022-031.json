@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-031",
+    "orderdatum": "25-04-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 430",
+      "postcode": "7060 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "25503370"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 327.28,
+        "btw_per_stuk": 68.73
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 274.35,
+        "btw_per_stuk": 57.61
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 481.95,
+        "btw_per_stuk": 101.21
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 231.0,
+        "btw_per_stuk": 48.51
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 331.41,
+        "btw_per_stuk": 69.6
+      }
+    ]
+  }
+}

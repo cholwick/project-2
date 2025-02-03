@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-873",
+    "orderdatum": "24-08-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 518",
+      "postcode": "8948 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "30979981"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 429.93,
+        "btw_per_stuk": 90.29
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 148.97,
+        "btw_per_stuk": 31.28
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 23.11,
+        "btw_per_stuk": 4.85
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 382.7,
+        "btw_per_stuk": 80.37
+      }
+    ]
+  }
+}

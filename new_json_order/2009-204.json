@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2009-204",
+    "orderdatum": "07-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 745",
+      "postcode": "4918 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "72343248"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 155.97,
+        "btw_per_stuk": 32.75
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 321.88,
+        "btw_per_stuk": 67.59
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 410.01,
+        "btw_per_stuk": 86.1
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 472.76,
+        "btw_per_stuk": 99.28
+      }
+    ]
+  }
+}

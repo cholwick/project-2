@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-587",
+    "orderdatum": "26-03-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 953",
+      "postcode": "5164 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65689257"
+    },
+    "producten": [
+      {
+        "productnaam": "GitHub",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 124.84,
+        "btw_per_stuk": 26.22
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 405.48,
+        "btw_per_stuk": 85.15
+      },
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 98.85,
+        "btw_per_stuk": 20.76
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 217.35,
+        "btw_per_stuk": 45.64
+      }
+    ]
+  }
+}

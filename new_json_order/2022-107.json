@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2022-107",
+    "orderdatum": "01-03-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 279",
+      "postcode": "1101 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "14349129"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 191.39,
+        "btw_per_stuk": 40.19
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 124.6,
+        "btw_per_stuk": 26.17
+      }
+    ]
+  }
+}

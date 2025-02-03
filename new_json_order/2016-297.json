@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-297",
+    "orderdatum": "23-11-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 485",
+      "postcode": "5545 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "41516058"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 166.55,
+        "btw_per_stuk": 34.98
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 403.06,
+        "btw_per_stuk": 84.64
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 282.18,
+        "btw_per_stuk": 59.26
+      },
+      {
+        "productnaam": "GitHub",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 470.06,
+        "btw_per_stuk": 98.71
+      }
+    ]
+  }
+}

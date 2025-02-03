@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2008-319",
+    "orderdatum": "27-09-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 205",
+      "postcode": "9245 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "45420677"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 453.7,
+        "btw_per_stuk": 95.28
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 26.97,
+        "btw_per_stuk": 5.66
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 480.49,
+        "btw_per_stuk": 100.9
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 402.33,
+        "btw_per_stuk": 84.49
+      }
+    ]
+  }
+}

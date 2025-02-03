@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2000-196",
+    "orderdatum": "24-07-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 55",
+      "postcode": "6880 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "80668461"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 384.72,
+        "btw_per_stuk": 80.79
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 203.87,
+        "btw_per_stuk": 42.81
+      },
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 452.01,
+        "btw_per_stuk": 94.92
+      }
+    ]
+  }
+}

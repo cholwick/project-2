@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2002-279",
+    "orderdatum": "12-03-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 164",
+      "postcode": "3366 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "57796452"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 24.78,
+        "btw_per_stuk": 5.2
+      }
+    ]
+  }
+}

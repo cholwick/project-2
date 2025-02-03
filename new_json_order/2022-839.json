@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-839",
+    "orderdatum": "11-05-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 371",
+      "postcode": "4726 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "28406208"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 408.92,
+        "btw_per_stuk": 85.87
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 419.27,
+        "btw_per_stuk": 88.05
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 259.6,
+        "btw_per_stuk": 54.52
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 111.75,
+        "btw_per_stuk": 23.47
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 12.71,
+        "btw_per_stuk": 2.67
+      }
+    ]
+  }
+}

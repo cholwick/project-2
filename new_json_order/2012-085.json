@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2012-085",
+    "orderdatum": "23-05-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 129",
+      "postcode": "2565 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "93610748"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 19.11,
+        "btw_per_stuk": 4.01
+      }
+    ]
+  }
+}

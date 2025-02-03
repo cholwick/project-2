@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2015-040",
+    "orderdatum": "17-12-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 111",
+      "postcode": "2416 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "54073792"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows 10",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 205.42,
+        "btw_per_stuk": 43.14
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 383.46,
+        "btw_per_stuk": 80.53
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 355.56,
+        "btw_per_stuk": 74.67
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 33.36,
+        "btw_per_stuk": 7.01
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 196.17,
+        "btw_per_stuk": 41.2
+      }
+    ]
+  }
+}

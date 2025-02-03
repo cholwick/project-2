@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2023-351",
+    "orderdatum": "18-03-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 856",
+      "postcode": "8873 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "76368475"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 415.61,
+        "btw_per_stuk": 87.28
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 374.95,
+        "btw_per_stuk": 78.74
+      }
+    ]
+  }
+}

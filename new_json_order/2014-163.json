@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2014-163",
+    "orderdatum": "17-11-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 399",
+      "postcode": "6874 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "59334977"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 87.78,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 289.15,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

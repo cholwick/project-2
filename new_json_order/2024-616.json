@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2024-616",
+    "orderdatum": "02-11-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 337",
+      "postcode": "1598 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "73853523"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 61.84,
+        "btw_per_stuk": 12.99
+      }
+    ]
+  }
+}

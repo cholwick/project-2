@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2016-260",
+    "orderdatum": "11-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 188",
+      "postcode": "3143 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "81592225"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 99.06,
+        "btw_per_stuk": 20.8
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 96.21,
+        "btw_per_stuk": 20.2
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 460.29,
+        "btw_per_stuk": 96.66
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 258.69,
+        "btw_per_stuk": 54.32
+      }
+    ]
+  }
+}

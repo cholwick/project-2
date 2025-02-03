@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2002-110",
+    "orderdatum": "23-02-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 816",
+      "postcode": "7481 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "27498155"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 48.45,
+        "btw_per_stuk": 10.17
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 440.69,
+        "btw_per_stuk": 92.54
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 462.51,
+        "btw_per_stuk": 97.13
+      }
+    ]
+  }
+}

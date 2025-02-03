@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2003-486",
+    "orderdatum": "26-12-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 692",
+      "postcode": "4473 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "46148711"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 362.04,
+        "btw_per_stuk": 76.03
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 230.44,
+        "btw_per_stuk": 48.39
+      }
+    ]
+  }
+}

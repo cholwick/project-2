@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2002-713",
+    "orderdatum": "11-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 631",
+      "postcode": "2812 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "51469679"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 341.41,
+        "btw_per_stuk": 71.7
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 412.27,
+        "btw_per_stuk": 86.58
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 240.82,
+        "btw_per_stuk": 50.57
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 62.28,
+        "btw_per_stuk": 13.08
+      },
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 68.89,
+        "btw_per_stuk": 14.47
+      }
+    ]
+  }
+}

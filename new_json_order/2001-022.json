@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2001-022",
+    "orderdatum": "09-07-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Hoofdstraat 810",
+      "postcode": "4710 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "19123753"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 180.71,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 85.7,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

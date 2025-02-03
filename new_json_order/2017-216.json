@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2017-216",
+    "orderdatum": "15-11-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 791",
+      "postcode": "5716 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "19911353"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Java SE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 38.99,
+        "btw_per_stuk": 8.19
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 401.24,
+        "btw_per_stuk": 84.26
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 34.86,
+        "btw_per_stuk": 7.32
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 401.24,
+        "btw_per_stuk": 84.26
+      }
+    ]
+  }
+}

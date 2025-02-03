@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2012-444",
+    "orderdatum": "21-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 382",
+      "postcode": "1490 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "92983844"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 373.48,
+        "btw_per_stuk": 78.43
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 27.48,
+        "btw_per_stuk": 5.77
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 94.11,
+        "btw_per_stuk": 19.76
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 70.04,
+        "btw_per_stuk": 14.71
+      }
+    ]
+  }
+}

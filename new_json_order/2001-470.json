@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2001-470",
+    "orderdatum": "21-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 533",
+      "postcode": "7061 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "32596557"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 271.02,
+        "btw_per_stuk": 56.91
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 344.06,
+        "btw_per_stuk": 72.25
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 142.87,
+        "btw_per_stuk": 30.0
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 439.93,
+        "btw_per_stuk": 92.39
+      }
+    ]
+  }
+}

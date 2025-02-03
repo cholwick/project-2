@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2023-365",
+    "orderdatum": "12-10-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 217",
+      "postcode": "4139 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "21930849"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 181.07,
+        "btw_per_stuk": 38.02
+      }
+    ]
+  }
+}

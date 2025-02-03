@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2020-219",
+    "orderdatum": "18-09-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 882",
+      "postcode": "4326 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "23486625"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 191.6,
+        "btw_per_stuk": 40.24
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 117.23,
+        "btw_per_stuk": 24.62
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 116.26,
+        "btw_per_stuk": 24.41
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 93.41,
+        "btw_per_stuk": 19.62
+      }
+    ]
+  }
+}

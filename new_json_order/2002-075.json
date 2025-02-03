@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2002-075",
+    "orderdatum": "14-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 635",
+      "postcode": "2150 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "94278996"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 334.05,
+        "btw_per_stuk": 70.15
+      }
+    ]
+  }
+}

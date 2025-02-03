@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2016-105",
+    "orderdatum": "12-11-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 534",
+      "postcode": "8242 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "92080410"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 305.68,
+        "btw_per_stuk": 64.19
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 303.72,
+        "btw_per_stuk": 63.78
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 394.94,
+        "btw_per_stuk": 82.94
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 85.0,
+        "btw_per_stuk": 17.85
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 234.09,
+        "btw_per_stuk": 49.16
+      }
+    ]
+  }
+}

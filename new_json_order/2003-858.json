@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2003-858",
+    "orderdatum": "03-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 55",
+      "postcode": "4367 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "87926106"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 177.43,
+        "btw_per_stuk": 37.26
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 74.82,
+        "btw_per_stuk": 15.71
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 22.94,
+        "btw_per_stuk": 4.82
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 302.44,
+        "btw_per_stuk": 63.51
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 176.7,
+        "btw_per_stuk": 37.11
+      }
+    ]
+  }
+}

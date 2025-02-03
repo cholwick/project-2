@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2006-506",
+    "orderdatum": "25-03-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 373",
+      "postcode": "1148 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "52309567"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 325.62,
+        "btw_per_stuk": 68.38
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 264.97,
+        "btw_per_stuk": 55.64
+      }
+    ]
+  }
+}

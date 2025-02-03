@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2004-290",
+    "orderdatum": "20-04-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 278",
+      "postcode": "6214 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "34398239"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 257.59,
+        "btw_per_stuk": 54.09
+      }
+    ]
+  }
+}

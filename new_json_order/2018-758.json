@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2018-758",
+    "orderdatum": "28-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 376",
+      "postcode": "8651 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "60922958"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 244.68,
+        "btw_per_stuk": 51.38
+      },
+      {
+        "productnaam": "Adobe Photoshop",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 52.79,
+        "btw_per_stuk": 11.09
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 198.86,
+        "btw_per_stuk": 41.76
+      }
+    ]
+  }
+}

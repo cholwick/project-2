@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2011-756",
+    "orderdatum": "26-12-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 433",
+      "postcode": "5048 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "86615413"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 298.26,
+        "btw_per_stuk": 62.63
+      },
+      {
+        "productnaam": "Oracle Solaris",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 91.27,
+        "btw_per_stuk": 19.17
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 88.2,
+        "btw_per_stuk": 18.52
+      },
+      {
+        "productnaam": "Microsoft Dynamics 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 81.73,
+        "btw_per_stuk": 17.16
+      },
+      {
+        "productnaam": "Oracle WebLogic Server",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 349.25,
+        "btw_per_stuk": 73.34
+      }
+    ]
+  }
+}

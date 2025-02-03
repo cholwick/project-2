@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2012-006",
+    "orderdatum": "04-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 562",
+      "postcode": "1299 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "29165055"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 186.03,
+        "btw_per_stuk": 39.07
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 254.87,
+        "btw_per_stuk": 53.52
+      },
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 233.25,
+        "btw_per_stuk": 48.98
+      },
+      {
+        "productnaam": "Oracle Cloud",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 158.13,
+        "btw_per_stuk": 33.21
+      },
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 478.35,
+        "btw_per_stuk": 100.45
+      }
+    ]
+  }
+}

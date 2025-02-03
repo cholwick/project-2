@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2023-649",
+    "orderdatum": "13-12-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 357",
+      "postcode": "8958 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "77924719"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 485.46,
+        "btw_per_stuk": 101.95
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 325.61,
+        "btw_per_stuk": 68.38
+      },
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 69.77,
+        "btw_per_stuk": 14.65
+      }
+    ]
+  }
+}

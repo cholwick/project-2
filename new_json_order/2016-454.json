@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2016-454",
+    "orderdatum": "01-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 429",
+      "postcode": "5771 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "61856334"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 314.63,
+        "btw_per_stuk": 66.07
+      },
+      {
+        "productnaam": "Adobe Creative Cloud",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 11.81,
+        "btw_per_stuk": 2.48
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 368.64,
+        "btw_per_stuk": 77.41
+      }
+    ]
+  }
+}

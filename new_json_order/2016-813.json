@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2016-813",
+    "orderdatum": "25-04-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 920",
+      "postcode": "7963 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "19593252"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle VirtualBox",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 212.88,
+        "btw_per_stuk": 44.7
+      }
+    ]
+  }
+}

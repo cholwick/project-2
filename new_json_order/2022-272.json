@@ -1,0 +1,46 @@
+{
+  "order": {
+    "ordernummer": "2022-272",
+    "orderdatum": "09-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 500",
+      "postcode": "4129 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "44299042"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 315.87,
+        "btw_per_stuk": 66.33
+      },
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 112.34,
+        "btw_per_stuk": 23.59
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 14.38,
+        "btw_per_stuk": 3.02
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 170.37,
+        "btw_per_stuk": 35.78
+      },
+      {
+        "productnaam": "Oracle Database 19c",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 30.63,
+        "btw_per_stuk": 6.43
+      }
+    ]
+  }
+}

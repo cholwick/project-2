@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2022-161",
+    "orderdatum": "21-10-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 847",
+      "postcode": "7083 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "68329053"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft Power BI",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 165.98,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Windows Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 36.22,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Google Webservices",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 358.8,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

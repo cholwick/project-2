@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2010-121",
+    "orderdatum": "23-02-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 629",
+      "postcode": "3364 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "40223763"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 118.05,
+        "btw_per_stuk": 24.79
+      },
+      {
+        "productnaam": "Adobe InDesign",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 152.04,
+        "btw_per_stuk": 31.93
+      }
+    ]
+  }
+}

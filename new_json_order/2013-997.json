@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2013-997",
+    "orderdatum": "06-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 420",
+      "postcode": "7951 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "63943110"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Ads",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 206.38,
+        "btw_per_stuk": 43.34
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 190.39,
+        "btw_per_stuk": 39.98
+      },
+      {
+        "productnaam": "Microsoft Office 365",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 412.76,
+        "btw_per_stuk": 86.68
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 251.01,
+        "btw_per_stuk": 52.71
+      }
+    ]
+  }
+}

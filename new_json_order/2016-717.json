@@ -1,0 +1,28 @@
+{
+  "order": {
+    "ordernummer": "2016-717",
+    "orderdatum": "26-10-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 390",
+      "postcode": "7299 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "77198470"
+    },
+    "producten": [
+      {
+        "productnaam": "Google Workspace",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 274.82,
+        "btw_percentage": 21.0
+      },
+      {
+        "productnaam": "Microsoft Visual Studio 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 355.55,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

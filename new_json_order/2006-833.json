@@ -1,0 +1,34 @@
+{
+  "order": {
+    "ordernummer": "2006-833",
+    "orderdatum": "07-11-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 875",
+      "postcode": "6854 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "47930471"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Premiere Pro",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 72.52,
+        "btw_per_stuk": 15.23
+      },
+      {
+        "productnaam": "Google Analytics",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 96.31,
+        "btw_per_stuk": 20.23
+      },
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 112.65,
+        "btw_per_stuk": 23.66
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2002-575",
+    "orderdatum": "11-11-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 76",
+      "postcode": "6994 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52320498"
+    },
+    "producten": [
+      {
+        "productnaam": "Oracle MySQL",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 53.58,
+        "btw_per_stuk": 11.25
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 463.72,
+        "btw_per_stuk": 97.38
+      },
+      {
+        "productnaam": "Microsoft Azure",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 146.08,
+        "btw_per_stuk": 30.68
+      },
+      {
+        "productnaam": "Google Ads",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 432.3,
+        "btw_per_stuk": 90.78
+      }
+    ]
+  }
+}

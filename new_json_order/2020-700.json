@@ -1,0 +1,22 @@
+{
+  "order": {
+    "ordernummer": "2020-700",
+    "orderdatum": "20-11-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Mercurius B.V.",
+      "adres": "Kerkstraat 760",
+      "postcode": "5683 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "37048005"
+    },
+    "producten": [
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 192.55,
+        "btw_percentage": 21.0
+      }
+    ]
+  }
+}

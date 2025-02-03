@@ -1,0 +1,40 @@
+{
+  "order": {
+    "ordernummer": "2005-676",
+    "orderdatum": "02-11-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 85",
+      "postcode": "7600 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "27122564"
+    },
+    "producten": [
+      {
+        "productnaam": "Microsoft SQL Server 2019",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 205.0,
+        "btw_per_stuk": 43.05
+      },
+      {
+        "productnaam": "Oracle VM",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 451.77,
+        "btw_per_stuk": 94.87
+      },
+      {
+        "productnaam": "Google Cloud Platform",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 325.35,
+        "btw_per_stuk": 68.32
+      },
+      {
+        "productnaam": "Adobe Illustrator",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 358.69,
+        "btw_per_stuk": 75.32
+      }
+    ]
+  }
+}
