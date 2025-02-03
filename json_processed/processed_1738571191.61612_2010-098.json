@@ -1,0 +1,41 @@
+{
+    "factuur": {
+        "factuurnummer": "2010-098",
+        "factuurdatum": "24-03-2022",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 316",
+            "postcode": "4111 AB",
+            "stad": "Rotterdam",
+            "KVK-nummer": "11320289"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E243",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 385.37,
+                "btw_per_stuk": 80.93,
+                "totaal": 1865.2
+            },
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 26.16,
+                "btw_per_stuk": 5.49,
+                "totaal": 94.95
+            }
+        ],
+        "totaal_excl_btw": 1619.96,
+        "totaal_btw": 340.19,
+        "totaal_incl_btw": 1960.15
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

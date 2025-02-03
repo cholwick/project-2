@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2022-104",
+        "factuurdatum": "24-03-2022",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 715",
+            "postcode": "3953 AA",
+            "stad": "Amsterdam",
+            "KVK-nummer": "95576207"
+        },
+        "producten": [
+            {
+                "productnaam": "MSI AERO 32G OC",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 268.9,
+                "btw_per_stuk": 56.47,
+                "totaal": 325.37
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T15",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 126.4,
+                "btw_per_stuk": 26.54,
+                "totaal": 764.7
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 188.96,
+                "btw_per_stuk": 39.68,
+                "totaal": 914.56
+            },
+            {
+                "productnaam": "MSI AERO 32G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 135.48,
+                "btw_per_stuk": 28.45,
+                "totaal": 327.86
+            }
+        ],
+        "totaal_excl_btw": 1927.7,
+        "totaal_btw": 404.79,
+        "totaal_incl_btw": 2332.49
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

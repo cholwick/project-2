@@ -1,0 +1,41 @@
+{
+    "factuur": {
+        "factuurnummer": "2009-602",
+        "factuurdatum": "14-02-2021",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 151",
+            "postcode": "6519 AA",
+            "stad": "Utrecht",
+            "KVK-nummer": "77802662"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 104.36,
+                "btw_per_stuk": 21.92,
+                "totaal": 505.12
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 314.01,
+                "btw_per_stuk": 65.94,
+                "totaal": 1139.85
+            }
+        ],
+        "totaal_excl_btw": 1359.47,
+        "totaal_btw": 285.5,
+        "totaal_incl_btw": 1644.97
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

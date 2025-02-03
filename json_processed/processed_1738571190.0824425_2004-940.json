@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2004-940",
+        "factuurdatum": "17-02-2020",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 602",
+            "postcode": "5712 AB",
+            "stad": "Rotterdam",
+            "KVK-nummer": "63277287"
+        },
+        "producten": [
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 348.98,
+                "btw_per_stuk": 73.29,
+                "totaal": 844.54
+            },
+            {
+                "productnaam": "HP EliteDisplay E243",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 207.45,
+                "btw_per_stuk": 43.56,
+                "totaal": 502.02
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 456.31,
+                "btw_per_stuk": 95.83,
+                "totaal": 552.14
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 187.26,
+                "btw_per_stuk": 39.32,
+                "totaal": 679.74
+            },
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 357.43,
+                "btw_per_stuk": 75.06,
+                "totaal": 2162.45
+            }
+        ],
+        "totaal_excl_btw": 3918.1,
+        "totaal_btw": 822.79,
+        "totaal_incl_btw": 4740.89
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

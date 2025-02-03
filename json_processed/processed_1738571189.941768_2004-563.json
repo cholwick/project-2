@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2004-563",
+        "factuurdatum": "01-01-2021",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 5",
+            "postcode": "9770 AC",
+            "stad": "Utrecht",
+            "KVK-nummer": "69373121"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 54.36,
+                "btw_per_stuk": 11.42,
+                "totaal": 65.78
+            },
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 450.8,
+                "btw_per_stuk": 94.67,
+                "totaal": 2727.35
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 317.71,
+                "btw_per_stuk": 66.72,
+                "totaal": 768.86
+            }
+        ],
+        "totaal_excl_btw": 2943.78,
+        "totaal_btw": 618.21,
+        "totaal_incl_btw": 3561.99
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

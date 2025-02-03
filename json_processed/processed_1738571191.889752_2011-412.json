@@ -1,0 +1,34 @@
+{
+    "factuur": {
+        "factuurnummer": "2011-412",
+        "factuurdatum": "01-04-2022",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 453",
+            "postcode": "3130 AB",
+            "stad": "Amsterdam",
+            "KVK-nummer": "60983488"
+        },
+        "producten": [
+            {
+                "productnaam": "Logitech gaming mouse G502",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 488.79,
+                "btw_per_stuk": 102.65,
+                "totaal": 2957.2
+            }
+        ],
+        "totaal_excl_btw": 2443.95,
+        "totaal_btw": 513.25,
+        "totaal_incl_btw": 2957.2
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

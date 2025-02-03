@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2020-037",
+        "factuurdatum": "13-03-2020",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 735",
+            "postcode": "2807 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "61899309"
+        },
+        "producten": [
+            {
+                "productnaam": "MSI AERO 16G OC",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 49.62,
+                "btw_per_stuk": 10.42,
+                "totaal": 180.12
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 401.98,
+                "btw_per_stuk": 84.42,
+                "totaal": 2432.0
+            },
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 101.48,
+                "btw_per_stuk": 21.31,
+                "totaal": 491.16
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 410.77,
+                "btw_per_stuk": 86.26,
+                "totaal": 994.06
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 274.42,
+                "btw_per_stuk": 57.63,
+                "totaal": 664.1
+            }
+        ],
+        "totaal_excl_btw": 3935.06,
+        "totaal_btw": 826.38,
+        "totaal_incl_btw": 4761.44
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

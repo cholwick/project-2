@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2004-298",
+        "factuurdatum": "21-03-2024",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 813",
+            "postcode": "7880 AB",
+            "stad": "Amsterdam",
+            "KVK-nummer": "54031465"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 371.38,
+                "btw_per_stuk": 77.99,
+                "totaal": 898.74
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T15",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 391.1,
+                "btw_per_stuk": 82.13,
+                "totaal": 2366.15
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 416.86,
+                "btw_per_stuk": 87.54,
+                "totaal": 1008.8
+            }
+        ],
+        "totaal_excl_btw": 3531.98,
+        "totaal_btw": 741.71,
+        "totaal_incl_btw": 4273.69
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

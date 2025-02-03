@@ -1,0 +1,41 @@
+{
+    "factuur": {
+        "factuurnummer": "2001-128",
+        "factuurdatum": "27-01-2022",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 313",
+            "postcode": "2332 AB",
+            "stad": "Rotterdam",
+            "KVK-nummer": "84928690"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 429.78,
+                "btw_per_stuk": 90.25,
+                "totaal": 1560.09
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 352.98,
+                "btw_per_stuk": 74.13,
+                "totaal": 854.22
+            }
+        ],
+        "totaal_excl_btw": 1995.3,
+        "totaal_btw": 419.01,
+        "totaal_incl_btw": 2414.31
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

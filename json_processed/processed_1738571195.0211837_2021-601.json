@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2021-601",
+        "factuurdatum": "25-01-2020",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 44",
+            "postcode": "3691 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "28396743"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 389.89,
+                "btw_per_stuk": 81.88,
+                "totaal": 1415.31
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 351.78,
+                "btw_per_stuk": 73.87,
+                "totaal": 1276.95
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 489.83,
+                "btw_per_stuk": 102.86,
+                "totaal": 2370.76
+            }
+        ],
+        "totaal_excl_btw": 4184.33,
+        "totaal_btw": 878.69,
+        "totaal_incl_btw": 5063.02
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

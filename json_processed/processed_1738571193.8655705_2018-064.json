@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2018-064",
+        "factuurdatum": "24-02-2023",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 406",
+            "postcode": "1449 AB",
+            "stad": "Amsterdam",
+            "KVK-nummer": "50874822"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 137.1,
+                "btw_per_stuk": 28.79,
+                "totaal": 829.45
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T15",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 206.15,
+                "btw_per_stuk": 43.29,
+                "totaal": 997.76
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 257.38,
+                "btw_per_stuk": 54.05,
+                "totaal": 622.86
+            },
+            {
+                "productnaam": "Razor gaming keyboard",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 370.62,
+                "btw_per_stuk": 77.83,
+                "totaal": 1345.35
+            }
+        ],
+        "totaal_excl_btw": 3136.72,
+        "totaal_btw": 658.7,
+        "totaal_incl_btw": 3795.42
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

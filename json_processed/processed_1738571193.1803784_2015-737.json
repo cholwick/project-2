@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2015-737",
+        "factuurdatum": "07-08-2021",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 488",
+            "postcode": "4872 AC",
+            "stad": "Amsterdam",
+            "KVK-nummer": "70602624"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 249.85,
+                "btw_per_stuk": 52.47,
+                "totaal": 302.32
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 266.73,
+                "btw_per_stuk": 56.01,
+                "totaal": 322.74
+            },
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 280.98,
+                "btw_per_stuk": 59.01,
+                "totaal": 339.99
+            }
+        ],
+        "totaal_excl_btw": 797.56,
+        "totaal_btw": 167.49,
+        "totaal_incl_btw": 965.05
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "factuur": {
+        "factuurnummer": "2003-163",
+        "factuurdatum": "01-03-2021",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 821",
+            "postcode": "2696 AA",
+            "stad": "Amsterdam",
+            "KVK-nummer": "16613029"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E233",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 462.62,
+                "btw_per_stuk": 97.15,
+                "totaal": 2239.08
+            }
+        ],
+        "totaal_excl_btw": 1850.48,
+        "totaal_btw": 388.6,
+        "totaal_incl_btw": 2239.08
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

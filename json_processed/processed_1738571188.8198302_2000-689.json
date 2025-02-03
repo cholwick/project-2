@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2000-689",
+        "factuurdatum": "23-09-2023",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 89",
+            "postcode": "2253 AA",
+            "stad": "Amsterdam",
+            "KVK-nummer": "93584643"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 475.09,
+                "btw_per_stuk": 99.77,
+                "totaal": 574.86
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 26.01,
+                "btw_per_stuk": 5.46,
+                "totaal": 62.94
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 201.96,
+                "btw_per_stuk": 42.41,
+                "totaal": 1221.85
+            }
+        ],
+        "totaal_excl_btw": 1536.91,
+        "totaal_btw": 322.74,
+        "totaal_incl_btw": 1859.65
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

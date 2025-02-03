@@ -45,13 +45,11 @@
         "totaal_incl_btw": 3123.56
     },
     "bedrijfsgegevens": {
-        "bedrijfsgegevens": {
-            "bedrijfsnaam": "Soft log",
-            "adres": "1234 CK,Rottendam",
-            "kvknummer": "123456789",
-            "btwnummer": "NL 12345678901",
-            "telefoonnummer": "+088 98 73 87 32",
-            "email": "info@softlog.nl"
-        }
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
     }
 }

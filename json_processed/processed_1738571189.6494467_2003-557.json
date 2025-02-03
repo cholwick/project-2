@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2003-557",
+        "factuurdatum": "05-04-2022",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 90",
+            "postcode": "2282 AB",
+            "stad": "Rotterdam",
+            "KVK-nummer": "66682735"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 273.66,
+                "btw_per_stuk": 57.47,
+                "totaal": 1655.65
+            },
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 410.94,
+                "btw_per_stuk": 86.3,
+                "totaal": 994.48
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 272.5,
+                "btw_per_stuk": 57.23,
+                "totaal": 1318.92
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 126.42,
+                "btw_per_stuk": 26.55,
+                "totaal": 764.85
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 369.4,
+                "btw_per_stuk": 77.57,
+                "totaal": 893.94
+            }
+        ],
+        "totaal_excl_btw": 4651.08,
+        "totaal_btw": 976.76,
+        "totaal_incl_btw": 5627.84
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

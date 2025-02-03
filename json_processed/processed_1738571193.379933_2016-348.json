@@ -1,0 +1,34 @@
+{
+    "factuur": {
+        "factuurnummer": "2016-348",
+        "factuurdatum": "13-04-2020",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 751",
+            "postcode": "9518 AA",
+            "stad": "Utrecht",
+            "KVK-nummer": "54589767"
+        },
+        "producten": [
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 473.28,
+                "btw_per_stuk": 99.39,
+                "totaal": 2863.35
+            }
+        ],
+        "totaal_excl_btw": 2366.4,
+        "totaal_btw": 496.95,
+        "totaal_incl_btw": 2863.35
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

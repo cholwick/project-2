@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2004-092",
+        "factuurdatum": "14-05-2022",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 659",
+            "postcode": "2034 AC",
+            "stad": "Amsterdam",
+            "KVK-nummer": "86743727"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E233",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 427.07,
+                "btw_per_stuk": 89.68,
+                "totaal": 516.75
+            },
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 117.98,
+                "btw_per_stuk": 24.78,
+                "totaal": 285.52
+            },
+            {
+                "productnaam": "HP EliteDisplay E233",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 298.85,
+                "btw_per_stuk": 62.76,
+                "totaal": 1446.44
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 144.51,
+                "btw_per_stuk": 30.35,
+                "totaal": 349.72
+            },
+            {
+                "productnaam": "MSI AERO 32G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 454.66,
+                "btw_per_stuk": 95.48,
+                "totaal": 1100.28
+            }
+        ],
+        "totaal_excl_btw": 3056.77,
+        "totaal_btw": 641.94,
+        "totaal_incl_btw": 3698.71
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

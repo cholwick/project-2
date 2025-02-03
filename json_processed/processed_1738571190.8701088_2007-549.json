@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2007-549",
+        "factuurdatum": "19-08-2024",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 171",
+            "postcode": "9553 AA",
+            "stad": "Rotterdam",
+            "KVK-nummer": "45900896"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 493.57,
+                "btw_per_stuk": 103.65,
+                "totaal": 2986.1
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 276.84,
+                "btw_per_stuk": 58.14,
+                "totaal": 669.96
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 194.33,
+                "btw_per_stuk": 40.81,
+                "totaal": 470.28
+            }
+        ],
+        "totaal_excl_btw": 3410.19,
+        "totaal_btw": 716.15,
+        "totaal_incl_btw": 4126.34
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

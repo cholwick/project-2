@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2016-039",
+        "factuurdatum": "14-07-2021",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 656",
+            "postcode": "7062 AC",
+            "stad": "Rotterdam",
+            "KVK-nummer": "86895854"
+        },
+        "producten": [
+            {
+                "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 269.04,
+                "btw_per_stuk": 56.5,
+                "totaal": 976.62
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 326.25,
+                "btw_per_stuk": 68.51,
+                "totaal": 394.76
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 43.67,
+                "btw_per_stuk": 9.17,
+                "totaal": 158.52
+            }
+        ],
+        "totaal_excl_btw": 1264.38,
+        "totaal_btw": 265.52,
+        "totaal_incl_btw": 1529.9
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

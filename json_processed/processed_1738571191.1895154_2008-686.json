@@ -1,0 +1,34 @@
+{
+    "factuur": {
+        "factuurnummer": "2008-686",
+        "factuurdatum": "20-12-2024",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 581",
+            "postcode": "8305 AC",
+            "stad": "Amsterdam",
+            "KVK-nummer": "59057450"
+        },
+        "producten": [
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 369.15,
+                "btw_per_stuk": 77.52,
+                "totaal": 2233.35
+            }
+        ],
+        "totaal_excl_btw": 1845.75,
+        "totaal_btw": 387.6,
+        "totaal_incl_btw": 2233.35
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

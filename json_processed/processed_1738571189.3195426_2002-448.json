@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2002-448",
+        "factuurdatum": "05-05-2024",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 208",
+            "postcode": "1186 AA",
+            "stad": "Utrecht",
+            "KVK-nummer": "37882854"
+        },
+        "producten": [
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 214.09,
+                "btw_per_stuk": 44.96,
+                "totaal": 518.1
+            },
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 208.37,
+                "btw_per_stuk": 43.76,
+                "totaal": 756.39
+            },
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 278.37,
+                "btw_per_stuk": 58.46,
+                "totaal": 336.83
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 387.99,
+                "btw_per_stuk": 81.48,
+                "totaal": 2347.35
+            }
+        ],
+        "totaal_excl_btw": 3271.61,
+        "totaal_btw": 687.06,
+        "totaal_incl_btw": 3958.67
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2014-543",
+        "factuurdatum": "21-01-2021",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 279",
+            "postcode": "4434 AC",
+            "stad": "Utrecht",
+            "KVK-nummer": "92936736"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 298.35,
+                "btw_per_stuk": 62.65,
+                "totaal": 1805.0
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 353.15,
+                "btw_per_stuk": 74.16,
+                "totaal": 2136.55
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 54.72,
+                "btw_per_stuk": 11.49,
+                "totaal": 331.05
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 437.38,
+                "btw_per_stuk": 91.85,
+                "totaal": 1587.69
+            },
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 12.29,
+                "btw_per_stuk": 2.58,
+                "totaal": 59.48
+            }
+        ],
+        "totaal_excl_btw": 4892.4,
+        "totaal_btw": 1027.37,
+        "totaal_incl_btw": 5919.77
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

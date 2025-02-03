@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2015-284",
+        "factuurdatum": "20-03-2020",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 983",
+            "postcode": "1105 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "56821261"
+        },
+        "producten": [
+            {
+                "productnaam": "Logitech gaming mouse G502",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 216.05,
+                "btw_per_stuk": 45.37,
+                "totaal": 261.42
+            },
+            {
+                "productnaam": "MSI AERO 16G OC",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 420.34,
+                "btw_per_stuk": 88.27,
+                "totaal": 1525.83
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 57.97,
+                "btw_per_stuk": 12.17,
+                "totaal": 140.28
+            },
+            {
+                "productnaam": "HP EliteDisplay E243",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 394.97,
+                "btw_per_stuk": 82.94,
+                "totaal": 2389.55
+            },
+            {
+                "productnaam": "Razor gaming keyboard",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 38.8,
+                "btw_per_stuk": 8.15,
+                "totaal": 46.95
+            }
+        ],
+        "totaal_excl_btw": 3606.66,
+        "totaal_btw": 757.37,
+        "totaal_incl_btw": 4364.03
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

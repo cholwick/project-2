@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2015-772",
+        "factuurdatum": "25-11-2020",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 302",
+            "postcode": "2099 AA",
+            "stad": "Utrecht",
+            "KVK-nummer": "93094116"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 114.28,
+                "btw_per_stuk": 24.0,
+                "totaal": 691.4
+            },
+            {
+                "productnaam": "MSI AERO 32G OC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 388.53,
+                "btw_per_stuk": 81.59,
+                "totaal": 2350.6
+            },
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 281.83,
+                "btw_per_stuk": 59.18,
+                "totaal": 341.01
+            }
+        ],
+        "totaal_excl_btw": 2795.88,
+        "totaal_btw": 587.13,
+        "totaal_incl_btw": 3383.01
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

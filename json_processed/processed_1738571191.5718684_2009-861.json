@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2009-861",
+        "factuurdatum": "10-10-2022",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 173",
+            "postcode": "1544 AC",
+            "stad": "Rotterdam",
+            "KVK-nummer": "88914649"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 410.81,
+                "btw_per_stuk": 86.27,
+                "totaal": 994.16
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 352.95,
+                "btw_per_stuk": 74.12,
+                "totaal": 1281.21
+            },
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 347.56,
+                "btw_per_stuk": 72.99,
+                "totaal": 2102.75
+            },
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 108.73,
+                "btw_per_stuk": 22.83,
+                "totaal": 131.56
+            }
+        ],
+        "totaal_excl_btw": 3727.0,
+        "totaal_btw": 782.68,
+        "totaal_incl_btw": 4509.68
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

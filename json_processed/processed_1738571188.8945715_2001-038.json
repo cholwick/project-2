@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2001-038",
+        "factuurdatum": "18-06-2024",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 153",
+            "postcode": "3918 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "58195181"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 391.19,
+                "btw_per_stuk": 82.15,
+                "totaal": 946.68
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 47.13,
+                "btw_per_stuk": 9.9,
+                "totaal": 285.15
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 293.43,
+                "btw_per_stuk": 61.62,
+                "totaal": 1065.15
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 130.05,
+                "btw_per_stuk": 27.31,
+                "totaal": 472.08
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 19.36,
+                "btw_per_stuk": 4.07,
+                "totaal": 117.15
+            }
+        ],
+        "totaal_excl_btw": 2385.27,
+        "totaal_btw": 500.94,
+        "totaal_incl_btw": 2886.21
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

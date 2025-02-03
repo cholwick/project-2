@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2014-277",
+        "factuurdatum": "08-04-2020",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 961",
+            "postcode": "4836 AC",
+            "stad": "Utrecht",
+            "KVK-nummer": "65301603"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 349.92,
+                "btw_per_stuk": 73.48,
+                "totaal": 2117.0
+            },
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 453.8,
+                "btw_per_stuk": 95.3,
+                "totaal": 2745.5
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 22.05,
+                "btw_per_stuk": 4.63,
+                "totaal": 80.04
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 209.48,
+                "btw_per_stuk": 43.99,
+                "totaal": 1267.35
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 110.8,
+                "btw_per_stuk": 23.27,
+                "totaal": 134.07
+            }
+        ],
+        "totaal_excl_btw": 5242.95,
+        "totaal_btw": 1101.01,
+        "totaal_incl_btw": 6343.96
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

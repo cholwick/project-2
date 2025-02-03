@@ -1,0 +1,34 @@
+{
+    "factuur": {
+        "factuurnummer": "2015-070",
+        "factuurdatum": "26-09-2021",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 636",
+            "postcode": "5966 AA",
+            "stad": "Amsterdam",
+            "KVK-nummer": "62286591"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 338.44,
+                "btw_per_stuk": 71.07,
+                "totaal": 409.51
+            }
+        ],
+        "totaal_excl_btw": 338.44,
+        "totaal_btw": 71.07,
+        "totaal_incl_btw": 409.51
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

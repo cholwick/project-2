@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2012-495",
+        "factuurdatum": "08-08-2021",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 924",
+            "postcode": "5168 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "92878031"
+        },
+        "producten": [
+            {
+                "productnaam": "Lenovo Thinkpad T15",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 205.52,
+                "btw_per_stuk": 43.16,
+                "totaal": 248.68
+            },
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 452.75,
+                "btw_per_stuk": 95.08,
+                "totaal": 1643.49
+            },
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 155.34,
+                "btw_per_stuk": 32.62,
+                "totaal": 375.92
+            }
+        ],
+        "totaal_excl_btw": 1874.45,
+        "totaal_btw": 393.64,
+        "totaal_incl_btw": 2268.09
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "factuur": {
+        "factuurnummer": "2015-489",
+        "factuurdatum": "15-03-2020",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 556",
+            "postcode": "3651 AB",
+            "stad": "Amsterdam",
+            "KVK-nummer": "73139552"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 428.14,
+                "btw_per_stuk": 89.91,
+                "totaal": 2072.2
+            },
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 408.22,
+                "btw_per_stuk": 85.73,
+                "totaal": 2469.75
+            }
+        ],
+        "totaal_excl_btw": 3753.66,
+        "totaal_btw": 788.29,
+        "totaal_incl_btw": 4541.95
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

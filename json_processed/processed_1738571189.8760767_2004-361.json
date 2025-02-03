@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2004-361",
+        "factuurdatum": "18-01-2022",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 638",
+            "postcode": "5432 AC",
+            "stad": "Utrecht",
+            "KVK-nummer": "52999935"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 469.64,
+                "btw_per_stuk": 98.62,
+                "totaal": 568.26
+            },
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 291.79,
+                "btw_per_stuk": 61.28,
+                "totaal": 353.07
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 327.28,
+                "btw_per_stuk": 68.73,
+                "totaal": 396.01
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 454.81,
+                "btw_per_stuk": 95.51,
+                "totaal": 1100.64
+            }
+        ],
+        "totaal_excl_btw": 1998.33,
+        "totaal_btw": 419.65,
+        "totaal_incl_btw": 2417.98
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

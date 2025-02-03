@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2020-889",
+        "factuurdatum": "26-07-2020",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 828",
+            "postcode": "4251 AC",
+            "stad": "Utrecht",
+            "KVK-nummer": "89642153"
+        },
+        "producten": [
+            {
+                "productnaam": "HP EliteDisplay E243",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 490.2,
+                "btw_per_stuk": 102.94,
+                "totaal": 593.14
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 210.86,
+                "btw_per_stuk": 44.28,
+                "totaal": 1020.56
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 69.01,
+                "btw_per_stuk": 14.49,
+                "totaal": 83.5
+            },
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 81.41,
+                "btw_per_stuk": 17.1,
+                "totaal": 394.04
+            },
+            {
+                "productnaam": "HP EliteDisplay E243",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 352.94,
+                "btw_per_stuk": 74.12,
+                "totaal": 854.12
+            }
+        ],
+        "totaal_excl_btw": 2434.17,
+        "totaal_btw": 511.19,
+        "totaal_incl_btw": 2945.36
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2004-184",
+        "factuurdatum": "23-02-2021",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 961",
+            "postcode": "2068 AC",
+            "stad": "Amsterdam",
+            "KVK-nummer": "45656252"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 416.48,
+                "btw_per_stuk": 87.46,
+                "totaal": 503.94
+            },
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 280.49,
+                "btw_per_stuk": 58.9,
+                "totaal": 1018.17
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 159.59,
+                "btw_per_stuk": 33.51,
+                "totaal": 772.4
+            }
+        ],
+        "totaal_excl_btw": 1896.31,
+        "totaal_btw": 398.2,
+        "totaal_incl_btw": 2294.51
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "factuur": {
+        "factuurnummer": "2001-385",
+        "factuurdatum": "17-08-2022",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 675",
+            "postcode": "8900 AB",
+            "stad": "Rotterdam",
+            "KVK-nummer": "90664365"
+        },
+        "producten": [
+            {
+                "productnaam": "Lenovo Thinkpad T15",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 464.8,
+                "btw_per_stuk": 97.61,
+                "totaal": 2812.05
+            },
+            {
+                "productnaam": "HP EliteDisplay E243",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 166.37,
+                "btw_per_stuk": 34.94,
+                "totaal": 1006.55
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 338.29,
+                "btw_per_stuk": 71.04,
+                "totaal": 1227.99
+            }
+        ],
+        "totaal_excl_btw": 4170.72,
+        "totaal_btw": 875.87,
+        "totaal_incl_btw": 5046.59
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

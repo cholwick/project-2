@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2017-661",
+        "factuurdatum": "02-05-2021",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 677",
+            "postcode": "3901 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "85722265"
+        },
+        "producten": [
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 55.11,
+                "btw_per_stuk": 11.57,
+                "totaal": 133.36
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719DC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 219.59,
+                "btw_per_stuk": 46.11,
+                "totaal": 531.4
+            },
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 453.78,
+                "btw_per_stuk": 95.29,
+                "totaal": 2745.35
+            },
+            {
+                "productnaam": "Dell UltraSharp U2419H",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 117.23,
+                "btw_per_stuk": 24.62,
+                "totaal": 567.4
+            }
+        ],
+        "totaal_excl_btw": 3287.22,
+        "totaal_btw": 690.29,
+        "totaal_incl_btw": 3977.51
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

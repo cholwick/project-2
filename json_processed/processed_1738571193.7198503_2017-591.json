@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2017-591",
+        "factuurdatum": "21-11-2020",
+        "betaaltermijn": "60-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 531",
+            "postcode": "5236 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "46469204"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 117.03,
+                "btw_per_stuk": 24.58,
+                "totaal": 283.22
+            },
+            {
+                "productnaam": "MSI AERO 32G OC",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 160.28,
+                "btw_per_stuk": 33.66,
+                "totaal": 193.94
+            },
+            {
+                "productnaam": "Dell UltraSharp U2719D",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 268.07,
+                "btw_per_stuk": 56.29,
+                "totaal": 324.36
+            },
+            {
+                "productnaam": "Lenovo Thinkpad T14s",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 422.4,
+                "btw_per_stuk": 88.7,
+                "totaal": 1533.3
+            }
+        ],
+        "totaal_excl_btw": 1929.61,
+        "totaal_btw": 405.21,
+        "totaal_incl_btw": 2334.82
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

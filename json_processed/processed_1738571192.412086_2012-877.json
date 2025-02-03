@@ -1,0 +1,62 @@
+{
+    "factuur": {
+        "factuurnummer": "2012-877",
+        "factuurdatum": "25-10-2024",
+        "betaaltermijn": "90-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 247",
+            "postcode": "4366 AC",
+            "stad": "Utrecht",
+            "KVK-nummer": "57652775"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard PRO",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 494.32,
+                "btw_per_stuk": 103.81,
+                "totaal": 2392.52
+            },
+            {
+                "productnaam": "Razor gaming keyboard",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 186.22,
+                "btw_per_stuk": 39.11,
+                "totaal": 450.66
+            },
+            {
+                "productnaam": "MSI AERO 16G OC",
+                "aantal": 4,
+                "prijs_per_stuk_excl_btw": 304.94,
+                "btw_per_stuk": 64.04,
+                "totaal": 1475.92
+            },
+            {
+                "productnaam": "MSI AERO 64G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 469.06,
+                "btw_per_stuk": 98.5,
+                "totaal": 1135.12
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 474.96,
+                "btw_per_stuk": 99.74,
+                "totaal": 1149.4
+            }
+        ],
+        "totaal_excl_btw": 5457.52,
+        "totaal_btw": 1146.1,
+        "totaal_incl_btw": 6603.62
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

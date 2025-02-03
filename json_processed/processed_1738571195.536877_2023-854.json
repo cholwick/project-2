@@ -1,0 +1,34 @@
+{
+    "factuur": {
+        "factuurnummer": "2023-854",
+        "factuurdatum": "01-03-2020",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 718",
+            "postcode": "4170 AA",
+            "stad": "Amsterdam",
+            "KVK-nummer": "24981858"
+        },
+        "producten": [
+            {
+                "productnaam": "Razor gaming keyboard ULTIMATE",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 456.13,
+                "btw_per_stuk": 95.79,
+                "totaal": 1103.84
+            }
+        ],
+        "totaal_excl_btw": 912.26,
+        "totaal_btw": 191.58,
+        "totaal_incl_btw": 1103.84
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "factuur": {
+        "factuurnummer": "2015-789",
+        "factuurdatum": "24-04-2023",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 248",
+            "postcode": "7577 AC",
+            "stad": "Rotterdam",
+            "KVK-nummer": "83810425"
+        },
+        "producten": [
+            {
+                "productnaam": "Lenovo Thinkpad T14",
+                "aantal": 5,
+                "prijs_per_stuk_excl_btw": 474.83,
+                "btw_per_stuk": 99.71,
+                "totaal": 2872.7
+            },
+            {
+                "productnaam": "HP EliteDisplay E223",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 27.76,
+                "btw_per_stuk": 5.83,
+                "totaal": 100.77
+            },
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 279.83,
+                "btw_per_stuk": 58.76,
+                "totaal": 677.18
+            },
+            {
+                "productnaam": "Logitech gaming mouse G502 HERO",
+                "aantal": 1,
+                "prijs_per_stuk_excl_btw": 78.11,
+                "btw_per_stuk": 16.4,
+                "totaal": 94.51
+            }
+        ],
+        "totaal_excl_btw": 3095.2,
+        "totaal_btw": 649.96,
+        "totaal_incl_btw": 3745.16
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}

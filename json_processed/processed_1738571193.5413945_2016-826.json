@@ -1,0 +1,41 @@
+{
+    "factuur": {
+        "factuurnummer": "2016-826",
+        "factuurdatum": "27-08-2021",
+        "betaaltermijn": "30-dagen",
+        "klant": {
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 659",
+            "postcode": "8172 AB",
+            "stad": "Utrecht",
+            "KVK-nummer": "30577734"
+        },
+        "producten": [
+            {
+                "productnaam": "MSI AERO 8G OC",
+                "aantal": 3,
+                "prijs_per_stuk_excl_btw": 46.74,
+                "btw_per_stuk": 9.82,
+                "totaal": 169.68
+            },
+            {
+                "productnaam": "Razor gaming keyboard",
+                "aantal": 2,
+                "prijs_per_stuk_excl_btw": 216.09,
+                "btw_per_stuk": 45.38,
+                "totaal": 522.94
+            }
+        ],
+        "totaal_excl_btw": 572.4,
+        "totaal_btw": 120.22,
+        "totaal_incl_btw": 692.62
+    },
+    "bedrijfsgegevens": {
+        "bedrijfsnaam": "Soft log",
+        "adres": "1234 CK, Rottendam",
+        "kvknummer": "123456789",
+        "btwnummer": "NL 12345678901",
+        "telefoonnummer": "+088 98 73 87 32",
+        "email": "info@softlog.nl"
+    }
+}
