@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2008-222",
+    "factuurdatum": "25-09-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 745",
+      "postcode": "7433 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "18998844"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 26.13,
+        "btw_per_stuk": 5.49
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 286.21,
+        "btw_per_stuk": 60.1
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 300.35,
+        "btw_per_stuk": 63.07
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 384.09,
+        "btw_per_stuk": 80.66
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 343.98,
+        "btw_per_stuk": 72.24
+      }
+    ],
+    "totaal_excl_btw": 2765.26,
+    "totaal_btw": 580.71,
+    "totaal_incl_btw": 3345.97
+  }
+}

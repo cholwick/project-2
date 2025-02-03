@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2021-408",
+    "factuurdatum": "24-10-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 778",
+      "postcode": "9975 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "92902910"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 351.86,
+        "btw_per_stuk": 73.89
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 478.5,
+        "btw_per_stuk": 100.48
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 144.39,
+        "btw_per_stuk": 30.32
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 377.96,
+        "btw_per_stuk": 79.37
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 336.15,
+        "btw_per_stuk": 70.59
+      }
+    ],
+    "totaal_excl_btw": 5477.17,
+    "totaal_btw": 1150.17,
+    "totaal_incl_btw": 6627.34
+  }
+}

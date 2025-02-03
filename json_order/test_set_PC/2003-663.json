@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-663",
+    "factuurdatum": "08-08-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 542",
+      "postcode": "1392 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "79806751"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 452.96,
+        "btw_per_stuk": 95.12
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 344.31,
+        "btw_per_stuk": 72.31
+      }
+    ],
+    "totaal_excl_btw": 2174.51,
+    "totaal_btw": 456.67,
+    "totaal_incl_btw": 2631.18
+  }
+}

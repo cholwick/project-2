@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2016-620",
+    "factuurdatum": "16-05-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 973",
+      "postcode": "3690 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "64587434"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 237.86,
+        "btw_per_stuk": 49.95
+      }
+    ],
+    "totaal_excl_btw": 475.72,
+    "totaal_btw": 99.9,
+    "totaal_incl_btw": 575.62
+  }
+}

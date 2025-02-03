@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2002-553",
+    "factuurdatum": "08-11-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 992",
+      "postcode": "3185 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "53796362"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 40.69,
+        "btw_per_stuk": 8.54
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 231.77,
+        "btw_per_stuk": 48.67
+      }
+    ],
+    "totaal_excl_btw": 435.22,
+    "totaal_btw": 91.37,
+    "totaal_incl_btw": 526.59
+  }
+}

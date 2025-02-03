@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-983",
+    "factuurdatum": "21-06-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 261",
+      "postcode": "7279 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "29976706"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 150.37,
+        "btw_per_stuk": 31.58
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.41,
+        "btw_per_stuk": 65.61
+      }
+    ],
+    "totaal_excl_btw": 1064.26,
+    "totaal_btw": 223.51,
+    "totaal_incl_btw": 1287.77
+  }
+}

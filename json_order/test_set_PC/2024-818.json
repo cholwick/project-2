@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2024-818",
+    "factuurdatum": "01-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 738",
+      "postcode": "3034 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "98665410"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 437.72,
+        "btw_per_stuk": 91.92
+      }
+    ],
+    "totaal_excl_btw": 437.72,
+    "totaal_btw": 91.92,
+    "totaal_incl_btw": 529.64
+  }
+}

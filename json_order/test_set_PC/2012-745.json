@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-745",
+    "factuurdatum": "13-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 362",
+      "postcode": "6288 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "28499325"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 383.69,
+        "btw_per_stuk": 80.57
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 126.51,
+        "btw_per_stuk": 26.57
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 419.91,
+        "btw_per_stuk": 88.18
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 325.09,
+        "btw_per_stuk": 68.27
+      }
+    ],
+    "totaal_excl_btw": 2745.2,
+    "totaal_btw": 576.49,
+    "totaal_incl_btw": 3321.69
+  }
+}

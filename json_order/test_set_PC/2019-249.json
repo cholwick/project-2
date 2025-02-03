@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-249",
+    "factuurdatum": "28-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 398",
+      "postcode": "8046 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65736023"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 159.55,
+        "btw_per_stuk": 33.51
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 452.66,
+        "btw_per_stuk": 95.06
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 53.89,
+        "btw_per_stuk": 11.32
+      }
+    ],
+    "totaal_excl_btw": 1278.31,
+    "totaal_btw": 268.46,
+    "totaal_incl_btw": 1546.77
+  }
+}

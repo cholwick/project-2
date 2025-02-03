@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-336",
+    "factuurdatum": "18-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 484",
+      "postcode": "9483 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "23750173"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 183.25,
+        "btw_per_stuk": 38.48
+      }
+    ],
+    "totaal_excl_btw": 916.25,
+    "totaal_btw": 192.4,
+    "totaal_incl_btw": 1108.65
+  }
+}

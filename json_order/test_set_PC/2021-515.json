@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2021-515",
+    "factuurdatum": "14-07-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 986",
+      "postcode": "5899 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "87289923"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 184.68,
+        "btw_per_stuk": 38.78
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 330.68,
+        "btw_per_stuk": 69.44
+      }
+    ],
+    "totaal_excl_btw": 884.72,
+    "totaal_btw": 185.78,
+    "totaal_incl_btw": 1070.5
+  }
+}

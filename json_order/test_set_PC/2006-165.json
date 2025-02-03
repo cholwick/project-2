@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2006-165",
+    "factuurdatum": "12-03-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 301",
+      "postcode": "2996 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "20296404"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 202.31,
+        "btw_per_stuk": 42.49
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 127.81,
+        "btw_per_stuk": 26.84
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 362.61,
+        "btw_per_stuk": 76.15
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 416.98,
+        "btw_per_stuk": 87.57
+      }
+    ],
+    "totaal_excl_btw": 3061.84,
+    "totaal_btw": 643.02,
+    "totaal_incl_btw": 3704.86
+  }
+}

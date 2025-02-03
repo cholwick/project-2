@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2009-657",
+    "factuurdatum": "08-09-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 514",
+      "postcode": "1731 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "70337133"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 180.06,
+        "btw_per_stuk": 37.81
+      }
+    ],
+    "totaal_excl_btw": 180.06,
+    "totaal_btw": 37.81,
+    "totaal_incl_btw": 217.87
+  }
+}

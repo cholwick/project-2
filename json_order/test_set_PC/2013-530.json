@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2013-530",
+    "factuurdatum": "17-05-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 972",
+      "postcode": "3728 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "56886297"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 130.9,
+        "btw_per_stuk": 27.49
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 421.41,
+        "btw_per_stuk": 88.5
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 359.41,
+        "btw_per_stuk": 75.48
+      }
+    ],
+    "totaal_excl_btw": 2154.14,
+    "totaal_btw": 452.39,
+    "totaal_incl_btw": 2606.53
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2005-521",
+    "factuurdatum": "25-05-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 263",
+      "postcode": "3623 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "68522436"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 135.93,
+        "btw_per_stuk": 28.55
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 103.95,
+        "btw_per_stuk": 21.83
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 487.96,
+        "btw_per_stuk": 102.47
+      }
+    ],
+    "totaal_excl_btw": 2255.49,
+    "totaal_btw": 473.66,
+    "totaal_incl_btw": 2729.15
+  }
+}

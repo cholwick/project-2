@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2011-905",
+    "factuurdatum": "23-03-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 371",
+      "postcode": "4931 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "43266394"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 116.44,
+        "btw_per_stuk": 24.45
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 37.53,
+        "btw_per_stuk": 7.88
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 248.43,
+        "btw_per_stuk": 52.17
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 484.5,
+        "btw_per_stuk": 101.74
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 253.41,
+        "btw_per_stuk": 53.22
+      }
+    ],
+    "totaal_excl_btw": 3845.65,
+    "totaal_btw": 807.58,
+    "totaal_incl_btw": 4653.23
+  }
+}

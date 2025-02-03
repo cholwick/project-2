@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2004-092",
+    "factuurdatum": "14-05-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 659",
+      "postcode": "2034 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "86743727"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 427.07,
+        "btw_per_stuk": 89.68
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 117.98,
+        "btw_per_stuk": 24.78
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 298.85,
+        "btw_per_stuk": 62.76
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 144.51,
+        "btw_per_stuk": 30.35
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 454.66,
+        "btw_per_stuk": 95.48
+      }
+    ],
+    "totaal_excl_btw": 3056.77,
+    "totaal_btw": 641.94,
+    "totaal_incl_btw": 3698.71
+  }
+}

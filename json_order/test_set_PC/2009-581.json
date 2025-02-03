@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2009-581",
+    "factuurdatum": "04-09-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 408",
+      "postcode": "8228 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "61685996"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 63.44,
+        "btw_per_stuk": 13.32
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 187.87,
+        "btw_per_stuk": 39.45
+      }
+    ],
+    "totaal_excl_btw": 251.31,
+    "totaal_btw": 52.77,
+    "totaal_incl_btw": 304.08
+  }
+}

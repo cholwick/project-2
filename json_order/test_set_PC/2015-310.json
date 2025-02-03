@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2015-310",
+    "factuurdatum": "12-05-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 560",
+      "postcode": "5112 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "44912198"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 101.04,
+        "btw_per_stuk": 21.22
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 480.25,
+        "btw_per_stuk": 100.85
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 22.96,
+        "btw_per_stuk": 4.82
+      }
+    ],
+    "totaal_excl_btw": 2929.41,
+    "totaal_btw": 615.17,
+    "totaal_incl_btw": 3544.58
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2024-489",
+    "factuurdatum": "01-05-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 331",
+      "postcode": "5404 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "89756963"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 185.71,
+        "btw_per_stuk": 39.0
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 261.51,
+        "btw_per_stuk": 54.92
+      }
+    ],
+    "totaal_excl_btw": 1788.88,
+    "totaal_btw": 375.68,
+    "totaal_incl_btw": 2164.56
+  }
+}

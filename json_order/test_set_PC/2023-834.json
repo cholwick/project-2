@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2023-834",
+    "factuurdatum": "12-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 888",
+      "postcode": "6235 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "97061118"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 361.94,
+        "btw_per_stuk": 76.01
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 248.08,
+        "btw_per_stuk": 52.1
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 446.71,
+        "btw_per_stuk": 93.81
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 382.92,
+        "btw_per_stuk": 80.41
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 30.33,
+        "btw_per_stuk": 6.37
+      }
+    ],
+    "totaal_excl_btw": 4539.79,
+    "totaal_btw": 953.37,
+    "totaal_incl_btw": 5493.16
+  }
+}

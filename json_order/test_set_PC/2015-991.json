@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2015-991",
+    "factuurdatum": "02-08-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 661",
+      "postcode": "7074 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "81459455"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 316.75,
+        "btw_per_stuk": 66.52
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 66.78,
+        "btw_per_stuk": 14.02
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 295.01,
+        "btw_per_stuk": 61.95
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 273.34,
+        "btw_per_stuk": 57.4
+      }
+    ],
+    "totaal_excl_btw": 3032.68,
+    "totaal_btw": 636.85,
+    "totaal_incl_btw": 3669.53
+  }
+}

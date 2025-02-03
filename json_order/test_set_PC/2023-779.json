@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2023-779",
+    "factuurdatum": "10-02-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 962",
+      "postcode": "9163 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "89119815"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 477.33,
+        "btw_per_stuk": 100.24
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 326.05,
+        "btw_per_stuk": 68.47
+      }
+    ],
+    "totaal_excl_btw": 4016.9,
+    "totaal_btw": 843.55,
+    "totaal_incl_btw": 4860.45
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2021-464",
+    "factuurdatum": "08-03-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 399",
+      "postcode": "2176 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "12584121"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 319.62,
+        "btw_per_stuk": 67.12
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 144.8,
+        "btw_per_stuk": 30.41
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 394.64,
+        "btw_per_stuk": 82.87
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 380.8,
+        "btw_per_stuk": 79.97
+      }
+    ],
+    "totaal_excl_btw": 4889.66,
+    "totaal_btw": 1026.82,
+    "totaal_incl_btw": 5916.48
+  }
+}

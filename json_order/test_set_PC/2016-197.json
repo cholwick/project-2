@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2016-197",
+    "factuurdatum": "21-08-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 592",
+      "postcode": "2570 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "78542594"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 485.2,
+        "btw_per_stuk": 101.89
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 401.27,
+        "btw_per_stuk": 84.27
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 328.16,
+        "btw_per_stuk": 68.91
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 143.33,
+        "btw_per_stuk": 30.1
+      }
+    ],
+    "totaal_excl_btw": 3686.32,
+    "totaal_btw": 774.12,
+    "totaal_incl_btw": 4460.44
+  }
+}

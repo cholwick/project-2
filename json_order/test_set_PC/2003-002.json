@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-002",
+    "factuurdatum": "27-11-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 383",
+      "postcode": "1962 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "25158344"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 127.86,
+        "btw_per_stuk": 26.85
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 179.53,
+        "btw_per_stuk": 37.7
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 74.28,
+        "btw_per_stuk": 15.6
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 432.39,
+        "btw_per_stuk": 90.8
+      }
+    ],
+    "totaal_excl_btw": 1630.03,
+    "totaal_btw": 342.3,
+    "totaal_incl_btw": 1972.33
+  }
+}

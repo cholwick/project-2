@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2023-876",
+    "factuurdatum": "03-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 991",
+      "postcode": "5328 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "71370977"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 439.22,
+        "btw_per_stuk": 92.24
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 236.66,
+        "btw_per_stuk": 49.7
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 23.35,
+        "btw_per_stuk": 4.9
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 24.8,
+        "btw_per_stuk": 5.21
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 224.11,
+        "btw_per_stuk": 47.06
+      }
+    ],
+    "totaal_excl_btw": 2760.72,
+    "totaal_btw": 579.75,
+    "totaal_incl_btw": 3340.47
+  }
+}

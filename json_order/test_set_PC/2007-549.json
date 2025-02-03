@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-549",
+    "factuurdatum": "19-08-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 171",
+      "postcode": "9553 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "45900896"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 493.57,
+        "btw_per_stuk": 103.65
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 276.84,
+        "btw_per_stuk": 58.14
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 194.33,
+        "btw_per_stuk": 40.81
+      }
+    ],
+    "totaal_excl_btw": 3410.19,
+    "totaal_btw": 716.15,
+    "totaal_incl_btw": 4126.34
+  }
+}

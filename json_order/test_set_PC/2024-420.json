@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2024-420",
+    "factuurdatum": "28-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 908",
+      "postcode": "2778 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "17912619"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 25.28,
+        "btw_per_stuk": 5.31
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 391.28,
+        "btw_per_stuk": 82.17
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 187.0,
+        "btw_per_stuk": 39.27
+      }
+    ],
+    "totaal_excl_btw": 1573.12,
+    "totaal_btw": 330.36,
+    "totaal_incl_btw": 1903.48
+  }
+}

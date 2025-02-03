@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-763",
+    "factuurdatum": "25-02-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 21",
+      "postcode": "1156 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "39701570"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 74.39,
+        "btw_per_stuk": 15.62
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 412.01,
+        "btw_per_stuk": 86.52
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 331.88,
+        "btw_per_stuk": 69.69
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 145.2,
+        "btw_per_stuk": 30.49
+      }
+    ],
+    "totaal_excl_btw": 2493.49,
+    "totaal_btw": 523.61,
+    "totaal_incl_btw": 3017.1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-082",
+    "factuurdatum": "19-02-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 918",
+      "postcode": "1731 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "86972840"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 464.39,
+        "btw_per_stuk": 97.52
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 343.04,
+        "btw_per_stuk": 72.04
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 282.77,
+        "btw_per_stuk": 59.38
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 400.52,
+        "btw_per_stuk": 84.11
+      }
+    ],
+    "totaal_excl_btw": 6252.04,
+    "totaal_btw": 1312.92,
+    "totaal_incl_btw": 7564.96
+  }
+}

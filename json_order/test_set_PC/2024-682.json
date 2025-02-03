@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2024-682",
+    "factuurdatum": "11-06-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 89",
+      "postcode": "9132 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "20826532"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 374.88,
+        "btw_per_stuk": 78.72
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 465.06,
+        "btw_per_stuk": 97.66
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 332.23,
+        "btw_per_stuk": 69.77
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 437.48,
+        "btw_per_stuk": 91.87
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 418.32,
+        "btw_per_stuk": 87.85
+      }
+    ],
+    "totaal_excl_btw": 5950.41,
+    "totaal_btw": 1249.56,
+    "totaal_incl_btw": 7199.97
+  }
+}

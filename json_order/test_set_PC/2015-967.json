@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2015-967",
+    "factuurdatum": "18-11-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 390",
+      "postcode": "1774 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "65552407"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 450.39,
+        "btw_per_stuk": 94.58
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 374.08,
+        "btw_per_stuk": 78.56
+      }
+    ],
+    "totaal_excl_btw": 2473.41,
+    "totaal_btw": 519.42,
+    "totaal_incl_btw": 2992.83
+  }
+}

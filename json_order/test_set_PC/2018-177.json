@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2018-177",
+    "factuurdatum": "15-12-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 27",
+      "postcode": "2920 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "82788841"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 222.2,
+        "btw_per_stuk": 46.66
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 322.81,
+        "btw_per_stuk": 67.79
+      }
+    ],
+    "totaal_excl_btw": 2079.43,
+    "totaal_btw": 436.67,
+    "totaal_incl_btw": 2516.1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2002-315",
+    "factuurdatum": "05-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 420",
+      "postcode": "5782 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27989857"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 412.46,
+        "btw_per_stuk": 86.62
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 320.75,
+        "btw_per_stuk": 67.36
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 417.06,
+        "btw_per_stuk": 87.58
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 90.78,
+        "btw_per_stuk": 19.06
+      }
+    ],
+    "totaal_excl_btw": 4227.32,
+    "totaal_btw": 887.74,
+    "totaal_incl_btw": 5115.06
+  }
+}

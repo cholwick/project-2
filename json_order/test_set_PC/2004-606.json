@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2004-606",
+    "factuurdatum": "28-07-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 321",
+      "postcode": "3671 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "49580680"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 356.27,
+        "btw_per_stuk": 74.82
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 369.16,
+        "btw_per_stuk": 77.52
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 366.03,
+        "btw_per_stuk": 76.87
+      }
+    ],
+    "totaal_excl_btw": 4744.76,
+    "totaal_btw": 996.41,
+    "totaal_incl_btw": 5741.17
+  }
+}

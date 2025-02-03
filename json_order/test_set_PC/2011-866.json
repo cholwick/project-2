@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2011-866",
+    "factuurdatum": "24-10-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 421",
+      "postcode": "4376 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "93912185"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 488.59,
+        "btw_per_stuk": 102.6
+      }
+    ],
+    "totaal_excl_btw": 1465.77,
+    "totaal_btw": 307.8,
+    "totaal_incl_btw": 1773.57
+  }
+}

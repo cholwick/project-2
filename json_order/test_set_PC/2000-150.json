@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2000-150",
+    "factuurdatum": "05-12-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 327",
+      "postcode": "2039 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "82323064"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 94.46,
+        "btw_per_stuk": 19.84
+      }
+    ],
+    "totaal_excl_btw": 472.3,
+    "totaal_btw": 99.2,
+    "totaal_incl_btw": 571.5
+  }
+}

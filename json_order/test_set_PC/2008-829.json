@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2008-829",
+    "factuurdatum": "09-01-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 61",
+      "postcode": "6891 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "66406074"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 345.14,
+        "btw_per_stuk": 72.48
+      }
+    ],
+    "totaal_excl_btw": 1725.7,
+    "totaal_btw": 362.4,
+    "totaal_incl_btw": 2088.1
+  }
+}

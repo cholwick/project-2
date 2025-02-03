@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-586",
+    "factuurdatum": "14-01-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 242",
+      "postcode": "7140 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "49068488"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 224.18,
+        "btw_per_stuk": 47.08
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 368.97,
+        "btw_per_stuk": 77.48
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 318.87,
+        "btw_per_stuk": 66.96
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 407.01,
+        "btw_per_stuk": 85.47
+      }
+    ],
+    "totaal_excl_btw": 4222.55,
+    "totaal_btw": 886.71,
+    "totaal_incl_btw": 5109.26
+  }
+}

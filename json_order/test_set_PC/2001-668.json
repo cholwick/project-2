@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2001-668",
+    "factuurdatum": "02-06-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 643",
+      "postcode": "3043 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "91981583"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 42.42,
+        "btw_per_stuk": 8.91
+      }
+    ],
+    "totaal_excl_btw": 42.42,
+    "totaal_btw": 8.91,
+    "totaal_incl_btw": 51.33
+  }
+}

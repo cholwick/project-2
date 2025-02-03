@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2014-163",
+    "factuurdatum": "23-04-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 810",
+      "postcode": "2992 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "92929820"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 111.56,
+        "btw_per_stuk": 23.43
+      }
+    ],
+    "totaal_excl_btw": 446.24,
+    "totaal_btw": 93.72,
+    "totaal_incl_btw": 539.96
+  }
+}

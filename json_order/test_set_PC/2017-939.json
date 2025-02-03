@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2017-939",
+    "factuurdatum": "25-07-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 132",
+      "postcode": "1928 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "77382066"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 469.87,
+        "btw_per_stuk": 98.67
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 234.09,
+        "btw_per_stuk": 49.16
+      }
+    ],
+    "totaal_excl_btw": 2580.06,
+    "totaal_btw": 541.81,
+    "totaal_incl_btw": 3121.87
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2001-453",
+    "factuurdatum": "10-11-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 770",
+      "postcode": "5581 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "45778930"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 36.37,
+        "btw_per_stuk": 7.64
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 11.93,
+        "btw_per_stuk": 2.51
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 323.1,
+        "btw_per_stuk": 67.85
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 142.97,
+        "btw_per_stuk": 30.02
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 360.3,
+        "btw_per_stuk": 75.66
+      }
+    ],
+    "totaal_excl_btw": 4194.59,
+    "totaal_btw": 880.85,
+    "totaal_incl_btw": 5075.44
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2009-486",
+    "factuurdatum": "20-07-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 794",
+      "postcode": "4419 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "79128008"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 446.94,
+        "btw_per_stuk": 93.86
+      }
+    ],
+    "totaal_excl_btw": 2234.7,
+    "totaal_btw": 469.3,
+    "totaal_incl_btw": 2704.0
+  }
+}

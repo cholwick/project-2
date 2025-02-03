@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2008-585",
+    "factuurdatum": "06-02-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 244",
+      "postcode": "6887 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "78203287"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 290.64,
+        "btw_per_stuk": 61.03
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 474.33,
+        "btw_per_stuk": 99.61
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 220.41,
+        "btw_per_stuk": 46.29
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 92.92,
+        "btw_per_stuk": 19.51
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 195.56,
+        "btw_per_stuk": 41.07
+      }
+    ],
+    "totaal_excl_btw": 4107.91,
+    "totaal_btw": 862.67,
+    "totaal_incl_btw": 4970.58
+  }
+}

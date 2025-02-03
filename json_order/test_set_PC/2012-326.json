@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-326",
+    "factuurdatum": "16-11-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 72",
+      "postcode": "2755 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "55352862"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 286.89,
+        "btw_per_stuk": 60.25
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 70.6,
+        "btw_per_stuk": 14.83
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 59.96,
+        "btw_per_stuk": 12.59
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 214.86,
+        "btw_per_stuk": 45.12
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 134.17,
+        "btw_per_stuk": 28.18
+      }
+    ],
+    "totaal_excl_btw": 2704.62,
+    "totaal_btw": 568.01,
+    "totaal_incl_btw": 3272.63
+  }
+}

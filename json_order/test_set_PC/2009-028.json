@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2009-028",
+    "factuurdatum": "14-01-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 677",
+      "postcode": "9863 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "45087896"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 370.82,
+        "btw_per_stuk": 77.87
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 131.01,
+        "btw_per_stuk": 27.51
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 251.4,
+        "btw_per_stuk": 52.79
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 411.73,
+        "btw_per_stuk": 86.46
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 360.03,
+        "btw_per_stuk": 75.61
+      }
+    ],
+    "totaal_excl_btw": 4957.38,
+    "totaal_btw": 1041.02,
+    "totaal_incl_btw": 5998.4
+  }
+}

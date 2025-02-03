@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2005-622",
+    "factuurdatum": "21-02-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 98",
+      "postcode": "3347 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "83240759"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 81.33,
+        "btw_per_stuk": 17.08
+      }
+    ],
+    "totaal_excl_btw": 162.66,
+    "totaal_btw": 34.16,
+    "totaal_incl_btw": 196.82
+  }
+}

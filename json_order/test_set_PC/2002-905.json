@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2002-905",
+    "factuurdatum": "16-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 963",
+      "postcode": "7321 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "75342873"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 183.09,
+        "btw_per_stuk": 38.45
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 128.84,
+        "btw_per_stuk": 27.06
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 386.34,
+        "btw_per_stuk": 81.13
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 68.63,
+        "btw_per_stuk": 14.41
+      }
+    ],
+    "totaal_excl_btw": 3250.51,
+    "totaal_btw": 682.6,
+    "totaal_incl_btw": 3933.11
+  }
+}

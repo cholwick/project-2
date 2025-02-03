@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2014-514",
+    "factuurdatum": "19-05-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 970",
+      "postcode": "5447 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "35192208"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 338.72,
+        "btw_per_stuk": 71.13
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 400.86,
+        "btw_per_stuk": 84.18
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 168.59,
+        "btw_per_stuk": 35.4
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 211.84,
+        "btw_per_stuk": 44.49
+      }
+    ],
+    "totaal_excl_btw": 2828.36,
+    "totaal_btw": 593.94,
+    "totaal_incl_btw": 3422.3
+  }
+}

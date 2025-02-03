@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2009-984",
+    "factuurdatum": "03-11-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 260",
+      "postcode": "7901 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "95109929"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 455.5,
+        "btw_per_stuk": 95.66
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 77.21,
+        "btw_per_stuk": 16.21
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 406.83,
+        "btw_per_stuk": 85.43
+      }
+    ],
+    "totaal_excl_btw": 3274.12,
+    "totaal_btw": 687.56,
+    "totaal_incl_btw": 3961.68
+  }
+}

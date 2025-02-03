@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2001-863",
+    "factuurdatum": "23-04-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 926",
+      "postcode": "4865 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "14245844"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 180.42,
+        "btw_per_stuk": 37.89
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 260.34,
+        "btw_per_stuk": 54.67
+      }
+    ],
+    "totaal_excl_btw": 982.02,
+    "totaal_btw": 206.23,
+    "totaal_incl_btw": 1188.25
+  }
+}

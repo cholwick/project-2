@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-616",
+    "factuurdatum": "04-07-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 755",
+      "postcode": "1774 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "33616304"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 358.47,
+        "btw_per_stuk": 75.28
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 315.69,
+        "btw_per_stuk": 66.29
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 383.18,
+        "btw_per_stuk": 80.47
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 485.42,
+        "btw_per_stuk": 101.94
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 99.33,
+        "btw_per_stuk": 20.86
+      }
+    ],
+    "totaal_excl_btw": 3758.66,
+    "totaal_btw": 789.31,
+    "totaal_incl_btw": 4547.97
+  }
+}

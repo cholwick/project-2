@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-060",
+    "factuurdatum": "01-02-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 260",
+      "postcode": "7897 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "87784587"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 447.47,
+        "btw_per_stuk": 93.97
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 406.25,
+        "btw_per_stuk": 85.31
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 466.08,
+        "btw_per_stuk": 97.88
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 280.23,
+        "btw_per_stuk": 58.85
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 496.14,
+        "btw_per_stuk": 104.19
+      }
+    ],
+    "totaal_excl_btw": 5713.93,
+    "totaal_btw": 1199.93,
+    "totaal_incl_btw": 6913.86
+  }
+}

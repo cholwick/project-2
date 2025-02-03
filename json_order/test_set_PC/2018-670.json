@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2018-670",
+    "factuurdatum": "15-12-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 36",
+      "postcode": "3407 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39222574"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 312.14,
+        "btw_per_stuk": 65.55
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 153.35,
+        "btw_per_stuk": 32.2
+      }
+    ],
+    "totaal_excl_btw": 772.19,
+    "totaal_btw": 162.15,
+    "totaal_incl_btw": 934.34
+  }
+}

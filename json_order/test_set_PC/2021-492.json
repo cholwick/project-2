@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2021-492",
+    "factuurdatum": "12-01-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 777",
+      "postcode": "6384 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "88739196"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 370.19,
+        "btw_per_stuk": 77.74
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 105.16,
+        "btw_per_stuk": 22.08
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 153.46,
+        "btw_per_stuk": 32.23
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 263.26,
+        "btw_per_stuk": 55.28
+      }
+    ],
+    "totaal_excl_btw": 2152.56,
+    "totaal_btw": 452.02,
+    "totaal_incl_btw": 2604.58
+  }
+}

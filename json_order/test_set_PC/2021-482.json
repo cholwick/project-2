@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2021-482",
+    "factuurdatum": "23-04-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 732",
+      "postcode": "6118 AA",
+      "stad": "Utrecht",
+      "KVK-nummer": "58004025"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 186.79,
+        "btw_per_stuk": 39.23
+      }
+    ],
+    "totaal_excl_btw": 933.95,
+    "totaal_btw": 196.15,
+    "totaal_incl_btw": 1130.1
+  }
+}

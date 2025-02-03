@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-027",
+    "factuurdatum": "22-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 522",
+      "postcode": "2842 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "82858843"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 36.41,
+        "btw_per_stuk": 7.65
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 217.35,
+        "btw_per_stuk": 45.64
+      }
+    ],
+    "totaal_excl_btw": 1195.98,
+    "totaal_btw": 251.15,
+    "totaal_incl_btw": 1447.13
+  }
+}

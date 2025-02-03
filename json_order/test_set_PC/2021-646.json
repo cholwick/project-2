@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2021-646",
+    "factuurdatum": "14-02-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 849",
+      "postcode": "1188 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "99666722"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 431.95,
+        "btw_per_stuk": 90.71
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 463.81,
+        "btw_per_stuk": 97.4
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 456.0,
+        "btw_per_stuk": 95.76
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 408.2,
+        "btw_per_stuk": 85.72
+      }
+    ],
+    "totaal_excl_btw": 6167.83,
+    "totaal_btw": 1295.24,
+    "totaal_incl_btw": 7463.07
+  }
+}

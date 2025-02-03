@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-901",
+    "factuurdatum": "09-08-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 131",
+      "postcode": "9718 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "26449591"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 423.81,
+        "btw_per_stuk": 89.0
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 53.76,
+        "btw_per_stuk": 11.29
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 207.15,
+        "btw_per_stuk": 43.5
+      }
+    ],
+    "totaal_excl_btw": 1847.01,
+    "totaal_btw": 387.87,
+    "totaal_incl_btw": 2234.88
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-668",
+    "factuurdatum": "03-05-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 975",
+      "postcode": "5092 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "15513337"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 61.87,
+        "btw_per_stuk": 12.99
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 398.37,
+        "btw_per_stuk": 83.66
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 498.74,
+        "btw_per_stuk": 104.74
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 257.82,
+        "btw_per_stuk": 54.14
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 150.88,
+        "btw_per_stuk": 31.68
+      }
+    ],
+    "totaal_excl_btw": 5060.9,
+    "totaal_btw": 1062.79,
+    "totaal_incl_btw": 6123.69
+  }
+}

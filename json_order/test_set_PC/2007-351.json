@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-351",
+    "factuurdatum": "19-12-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 381",
+      "postcode": "7227 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "16338517"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 391.75,
+        "btw_per_stuk": 82.27
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 23.61,
+        "btw_per_stuk": 4.96
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 457.42,
+        "btw_per_stuk": 96.06
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 178.3,
+        "btw_per_stuk": 37.44
+      }
+    ],
+    "totaal_excl_btw": 2850.77,
+    "totaal_btw": 598.67,
+    "totaal_incl_btw": 3449.44
+  }
+}

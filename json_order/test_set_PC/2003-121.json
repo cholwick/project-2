@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-121",
+    "factuurdatum": "23-09-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 559",
+      "postcode": "4247 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "27903336"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 229.68,
+        "btw_per_stuk": 48.23
+      }
+    ],
+    "totaal_excl_btw": 229.68,
+    "totaal_btw": 48.23,
+    "totaal_incl_btw": 277.91
+  }
+}

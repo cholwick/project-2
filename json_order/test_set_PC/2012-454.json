@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-454",
+    "factuurdatum": "21-05-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 67",
+      "postcode": "6836 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "95453627"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 10.0,
+        "btw_per_stuk": 2.1
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 285.33,
+        "btw_per_stuk": 59.92
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 382.07,
+        "btw_per_stuk": 80.23
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 93.13,
+        "btw_per_stuk": 19.56
+      }
+    ],
+    "totaal_excl_btw": 2988.99,
+    "totaal_btw": 627.68,
+    "totaal_incl_btw": 3616.67
+  }
+}

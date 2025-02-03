@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2016-588",
+    "factuurdatum": "14-03-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 642",
+      "postcode": "3929 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "24506226"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 123.05,
+        "btw_per_stuk": 25.84
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 176.68,
+        "btw_per_stuk": 37.1
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 499.45,
+        "btw_per_stuk": 104.88
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 454.97,
+        "btw_per_stuk": 95.54
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 360.25,
+        "btw_per_stuk": 75.65
+      }
+    ],
+    "totaal_excl_btw": 4855.38,
+    "totaal_btw": 1019.59,
+    "totaal_incl_btw": 5874.97
+  }
+}

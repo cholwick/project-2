@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2020-866",
+    "factuurdatum": "02-08-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 494",
+      "postcode": "1788 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39477318"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 426.16,
+        "btw_per_stuk": 89.49
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 493.86,
+        "btw_per_stuk": 103.71
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 97.76,
+        "btw_per_stuk": 20.53
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 53.29,
+        "btw_per_stuk": 11.19
+      }
+    ],
+    "totaal_excl_btw": 1778.09,
+    "totaal_btw": 373.39,
+    "totaal_incl_btw": 2151.48
+  }
+}

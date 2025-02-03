@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2009-658",
+    "factuurdatum": "01-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 142",
+      "postcode": "3325 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "14668828"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 57.24,
+        "btw_per_stuk": 12.02
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 42.48,
+        "btw_per_stuk": 8.92
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 142.94,
+        "btw_per_stuk": 30.02
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 11.03,
+        "btw_per_stuk": 2.32
+      }
+    ],
+    "totaal_excl_btw": 581.31,
+    "totaal_btw": 122.08,
+    "totaal_incl_btw": 703.39
+  }
+}

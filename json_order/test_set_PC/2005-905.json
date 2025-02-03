@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2005-905",
+    "factuurdatum": "19-06-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 282",
+      "postcode": "5779 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "25649324"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 359.07,
+        "btw_per_stuk": 75.4
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 337.32,
+        "btw_per_stuk": 70.84
+      }
+    ],
+    "totaal_excl_btw": 2132.67,
+    "totaal_btw": 447.84,
+    "totaal_incl_btw": 2580.51
+  }
+}

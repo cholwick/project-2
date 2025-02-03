@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-946",
+    "factuurdatum": "11-06-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 257",
+      "postcode": "1621 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "78293134"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 473.03,
+        "btw_per_stuk": 99.34
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 438.0,
+        "btw_per_stuk": 91.98
+      }
+    ],
+    "totaal_excl_btw": 4117.15,
+    "totaal_btw": 864.62,
+    "totaal_incl_btw": 4981.77
+  }
+}

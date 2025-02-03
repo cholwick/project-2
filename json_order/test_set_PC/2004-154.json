@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2004-154",
+    "factuurdatum": "04-09-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 924",
+      "postcode": "9130 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "27384004"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 294.07,
+        "btw_per_stuk": 61.75
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 492.88,
+        "btw_per_stuk": 103.5
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 43.13,
+        "btw_per_stuk": 9.06
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 108.91,
+        "btw_per_stuk": 22.87
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 10.36,
+        "btw_per_stuk": 2.18
+      }
+    ],
+    "totaal_excl_btw": 2811.99,
+    "totaal_btw": 590.51,
+    "totaal_incl_btw": 3402.5
+  }
+}

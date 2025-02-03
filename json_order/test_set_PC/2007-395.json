@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-395",
+    "factuurdatum": "28-07-2020",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 828",
+      "postcode": "1236 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "24232832"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 287.71,
+        "btw_per_stuk": 60.42
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 69.87,
+        "btw_per_stuk": 14.67
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 375.14,
+        "btw_per_stuk": 78.78
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 465.74,
+        "btw_per_stuk": 97.81
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 172.86,
+        "btw_per_stuk": 36.3
+      }
+    ],
+    "totaal_excl_btw": 3383.4,
+    "totaal_btw": 710.51,
+    "totaal_incl_btw": 4093.91
+  }
+}

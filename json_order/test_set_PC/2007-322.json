@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-322",
+    "factuurdatum": "06-05-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 364",
+      "postcode": "3606 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "67563260"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 246.37,
+        "btw_per_stuk": 51.74
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 265.54,
+        "btw_per_stuk": 55.76
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 13.09,
+        "btw_per_stuk": 2.75
+      }
+    ],
+    "totaal_excl_btw": 1834.46,
+    "totaal_btw": 385.24,
+    "totaal_incl_btw": 2219.7
+  }
+}

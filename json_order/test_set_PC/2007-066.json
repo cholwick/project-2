@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-066",
+    "factuurdatum": "12-06-2024",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 478",
+      "postcode": "4048 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "50496041"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 353.59,
+        "btw_per_stuk": 74.25
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 232.77,
+        "btw_per_stuk": 48.88
+      }
+    ],
+    "totaal_excl_btw": 819.13,
+    "totaal_btw": 172.01,
+    "totaal_incl_btw": 991.14
+  }
+}

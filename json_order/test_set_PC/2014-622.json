@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2014-622",
+    "factuurdatum": "07-02-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 735",
+      "postcode": "2665 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "92959529"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 71.95,
+        "btw_per_stuk": 15.11
+      }
+    ],
+    "totaal_excl_btw": 287.8,
+    "totaal_btw": 60.44,
+    "totaal_incl_btw": 348.24
+  }
+}

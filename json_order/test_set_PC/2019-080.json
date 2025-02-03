@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-080",
+    "factuurdatum": "21-12-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 507",
+      "postcode": "8528 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "30236514"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 317.89,
+        "btw_per_stuk": 66.76
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 347.09,
+        "btw_per_stuk": 72.89
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 346.79,
+        "btw_per_stuk": 72.83
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 346.48,
+        "btw_per_stuk": 72.76
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 255.54,
+        "btw_per_stuk": 53.66
+      }
+    ],
+    "totaal_excl_btw": 5353.06,
+    "totaal_btw": 1124.15,
+    "totaal_incl_btw": 6477.21
+  }
+}

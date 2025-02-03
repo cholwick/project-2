@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2003-198",
+    "factuurdatum": "25-09-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 446",
+      "postcode": "8053 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "87660006"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 209.52,
+        "btw_per_stuk": 44.0
+      }
+    ],
+    "totaal_excl_btw": 419.04,
+    "totaal_btw": 88.0,
+    "totaal_incl_btw": 507.04
+  }
+}

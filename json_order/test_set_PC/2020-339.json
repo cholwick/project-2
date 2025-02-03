@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2020-339",
+    "factuurdatum": "22-07-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 906",
+      "postcode": "4834 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "16984032"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 459.31,
+        "btw_per_stuk": 96.46
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 338.56,
+        "btw_per_stuk": 71.1
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 320.14,
+        "btw_per_stuk": 67.23
+      }
+    ],
+    "totaal_excl_btw": 2398.57,
+    "totaal_btw": 503.71,
+    "totaal_incl_btw": 2902.28
+  }
+}

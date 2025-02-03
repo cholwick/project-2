@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2013-277",
+    "factuurdatum": "10-04-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 157",
+      "postcode": "9103 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "93736947"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 219.58,
+        "btw_per_stuk": 46.11
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 374.26,
+        "btw_per_stuk": 78.59
+      }
+    ],
+    "totaal_excl_btw": 2375.36,
+    "totaal_btw": 498.8,
+    "totaal_incl_btw": 2874.16
+  }
+}

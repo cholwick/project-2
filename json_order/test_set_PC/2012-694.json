@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2012-694",
+    "factuurdatum": "08-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 438",
+      "postcode": "8523 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "41318098"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 435.25,
+        "btw_per_stuk": 91.4
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 354.7,
+        "btw_per_stuk": 74.49
+      }
+    ],
+    "totaal_excl_btw": 2450.4,
+    "totaal_btw": 514.58,
+    "totaal_incl_btw": 2964.98
+  }
+}

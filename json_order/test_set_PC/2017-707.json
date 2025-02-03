@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2017-707",
+    "factuurdatum": "26-04-2021",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 768",
+      "postcode": "1944 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "30159192"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 313.69,
+        "btw_per_stuk": 65.87
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 145.9,
+        "btw_per_stuk": 30.64
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 181.0,
+        "btw_per_stuk": 38.01
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 314.02,
+        "btw_per_stuk": 65.94
+      }
+    ],
+    "totaal_excl_btw": 3465.45,
+    "totaal_btw": 727.7,
+    "totaal_incl_btw": 4193.15
+  }
+}

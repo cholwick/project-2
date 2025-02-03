@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2005-271",
+    "factuurdatum": "13-03-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 387",
+      "postcode": "5646 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "63260418"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 327.2,
+        "btw_per_stuk": 68.71
+      }
+    ],
+    "totaal_excl_btw": 1636.0,
+    "totaal_btw": 343.55,
+    "totaal_incl_btw": 1979.55
+  }
+}

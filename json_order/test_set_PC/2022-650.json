@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2022-650",
+    "factuurdatum": "28-01-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 808",
+      "postcode": "3645 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "52663877"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 91.15,
+        "btw_per_stuk": 19.14
+      }
+    ],
+    "totaal_excl_btw": 364.6,
+    "totaal_btw": 76.56,
+    "totaal_incl_btw": 441.16
+  }
+}

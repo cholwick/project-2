@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2002-659",
+    "factuurdatum": "24-07-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 407",
+      "postcode": "9492 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "62012811"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 36.28,
+        "btw_per_stuk": 7.62
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 238.02,
+        "btw_per_stuk": 49.98
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 77.4,
+        "btw_per_stuk": 16.25
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 371.52,
+        "btw_per_stuk": 78.02
+      }
+    ],
+    "totaal_excl_btw": 1344.38,
+    "totaal_btw": 282.31,
+    "totaal_incl_btw": 1626.69
+  }
+}

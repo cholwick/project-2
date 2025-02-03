@@ -1,117 +1,79 @@
 from fpdf import FPDF
 import json
+import os
 
-with open('myfile.json') as file:#open the json file
-    data = json.load(file)
+# Directory containing JSON files
+json_folder = "json_files"  # Change this to your folder name
+
+# List to store all product data
+producten = []
+
+# Loop through all JSON files in the folder
+for filename in os.listdir(json_folder):
+    if filename.endswith(".json"):  # Ensure it's a JSON file
+        with open(os.path.join(json_folder, filename)) as file:
+            data = json.load(file)
+
+            # Extract product data and append to the list
+            for product in data['order']['producten']:
+                producten.append({
+                    "Productnaam": product['productnaam'],
+                    "Aantal": product['aantal'],
+                    "Prijs per stuk": product['prijs_per_stuk_excl_btw'],
+                    "BTW": product['btw'],
+                    "BTW_percentage": product['btw_percentage'],
+                    "Totaal": product['totaal'],
+                })
 
 
-
-# class maken voor de pdf file
+# PDF Class with Pagination Support
 class PDF(FPDF):
     def create_table(self, table_data, title_size, title, cell_width):
-        # You need to define how to generate the table here.
-        # Example: loop through the data and create cells
-        
         self.set_font("Helvetica", "B", title_size)
-        self.cell(0, 10, title, ln=True)  # Title van de tabel
-        
-        # maakt de font van het text
-        self.set_font("Helvetica", "", 10)
+        self.cell(0, 10, title, ln=True)
+        self.ln(5)
 
-        # Column headers
-        headers = list(table_data.keys())
-        self.cell(cell_width, 10, headers[0], border=1)
-        self.cell(cell_width, 10, headers[1], border=1)
-        self.cell(cell_width, 10, headers[2], border=1)
-        self.cell(cell_width, 10, headers[3], border=1)
-        self.cell(cell_width, 10, headers[4], border=1)
-        self.cell(cell_width, 10, headers[5], border=1)
-        self.ln()  # beweeg naar de volgende regel
+        if not table_data:
+            print("ERROR: table_data is empty!")
+            return
 
-        # Table data (values)
-        print(table_data.values())	
-        rows = zip(table_data.values())
-        for row in rows:
-            for item in row:
-                self.cell(cell_width, 10, str(item), border=1)
-                
+        # Headers
+        headers = list(table_data[0].keys())
 
-# maakt een pdf file aan
-pdf = PDF("p", "mm", "A4")
+        # Print column headers
+        for header in headers:
+            self.cell(cell_width, 10, str(header), border=1)
+        self.ln()
+
+        # Print each row with pagination
+        for row in table_data:
+            if self.get_y() > 260:  # Check if we reached the bottom (adjust if needed)
+                self.add_page()
+                # Reprint headers
+                for header in headers:
+                    self.cell(cell_width, 10, str(header), border=1)
+                self.ln()
+
+            # Print row data
+            for key in headers:
+                self.cell(cell_width, 10, str(row[key]), border=1)
+            self.ln()
+
+
+# Create a PDF instance
+pdf = PDF("P", "mm", "A4")
 pdf.add_page()
 
-# Set font voor text
+# Set font for the title
 pdf.set_font("Helvetica", "B", 24)
 
-
-
-#data uit de json file halen
-order = data['order']
-klant = order['klant']
-
-# ik maak een loop for de data van de klant
-# en zet het in een dictionary
-# ik gebruik de dictionary om de persoolijke data te behouden
-# en de factuur te maken
-klant_data = {
-    "Naam": klant['naam'],
-    "Adres": klant['adres'],
-    "Postcode": klant['postcode'],
-    "stad": klant['stad'],
-    "KVk-nummer": klant['KVK-nummer'],
-    }
-
-informatie={
-    "Datum":order["orderdatum"],
-    "Factuurnummer":order["ordernummer"],
-    "Betaaltermijn":order["betaaltermijn"],
-    }
-
-# Add a cell (no need for ln=True anymore, instead use new_x and new_y)
-#factuur header info
-pdf.cell(140, 10, "factuur")
+# Add a title
+pdf.cell(140, 10, "Factuur")
 pdf.cell(40, 10, "Soft log", ln=1)
-pdf.set_font("Helvetica", "", 12)
-pdf.cell(25, 10, "Datum:",  border=1)
-pdf.set_font("Helvetica", "B", 20)
-pdf.cell(115, 10, "factuurnummer:", border=False, align="C")
+pdf.ln(10)  # Line break
 
-pdf.set_font("Helvetica", "", 12)
-pdf.cell(0, 10, "+088 98 73 87 32",ln=1)
+# Generate the table
+pdf.create_table(table_data=producten, title_size=20, title="Factuur data", cell_width=37)
 
-pdf.cell(90, 10, informatie["Datum"])
-pdf.cell(50, 10, informatie["Factuurnummer"],)
-pdf.cell(10, 10, "info@softlog.nl",ln=1)
-
-pdf.cell(140, 10, "Factuur aan:")
-pdf.cell(40, 10, klant_data["KVk-nummer"], ln=1)
-
-pdf.cell(140, 10, klant_data["Naam"])
-pdf.cell(40, 10, "BTW id: NL 12345678901", ln=1)
-
-pdf.cell(70, 10, klant_data["Adres"])
-
-# Insert a line break
-pdf.ln(30)
-
-# Add the table (using the create_table method from the PDF class)
-# ik wil de data uit de json file halen en in een tabel zetten
-# eerst ga ik een loop maken om de data uit de json file te halen
-# en in een dictionary te zetten
-# de dictionary ga ik gebruiken om de tabel te maken
-
-for product in data['order']['producten']:
-    producten = {
-        "Productnaam": product['productnaam'],
-        "Aantal": product['aantal'],
-        "Prijs per stuk": product['prijs_per_stuk_excl_btw'],
-        "BTW": product['btw'],
-        "BTW_percentage": product['btw_percentage'],
-        "Totaal": product['totaal'],
-        }
-
-# Use the create_table method of the PDF class
-pdf.create_table(table_data = producten, title_size=20, title="Factuur data", cell_width=37)
-
-# Save de output
+# Save output
 pdf.output("output.pdf")

@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2007-390",
+    "factuurdatum": "09-12-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 213",
+      "postcode": "8905 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "34126333"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 224.32,
+        "btw_per_stuk": 47.11
+      }
+    ],
+    "totaal_excl_btw": 448.64,
+    "totaal_btw": 94.22,
+    "totaal_incl_btw": 542.86
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2006-555",
+    "factuurdatum": "11-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 77",
+      "postcode": "1210 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "37304314"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 339.07,
+        "btw_per_stuk": 71.2
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 135.31,
+        "btw_per_stuk": 28.42
+      }
+    ],
+    "totaal_excl_btw": 1084.07,
+    "totaal_btw": 227.66,
+    "totaal_incl_btw": 1311.73
+  }
+}

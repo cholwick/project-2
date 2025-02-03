@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2019-576",
+    "factuurdatum": "19-08-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 369",
+      "postcode": "2879 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "21173492"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 173.6,
+        "btw_per_stuk": 36.46
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 200.14,
+        "btw_per_stuk": 42.03
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 20.69,
+        "btw_per_stuk": 4.34
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 399.54,
+        "btw_per_stuk": 83.9
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 494.38,
+        "btw_per_stuk": 103.82
+      }
+    ],
+    "totaal_excl_btw": 2303.89,
+    "totaal_btw": 483.81,
+    "totaal_incl_btw": 2787.7
+  }
+}

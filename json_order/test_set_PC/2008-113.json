@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2008-113",
+    "factuurdatum": "24-08-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 575",
+      "postcode": "8871 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "28085133"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 122.05,
+        "btw_per_stuk": 25.63
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 42.18,
+        "btw_per_stuk": 8.86
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 294.13,
+        "btw_per_stuk": 61.77
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 220.75,
+        "btw_per_stuk": 46.36
+      }
+    ],
+    "totaal_excl_btw": 2544.36,
+    "totaal_btw": 534.34,
+    "totaal_incl_btw": 3078.7
+  }
+}

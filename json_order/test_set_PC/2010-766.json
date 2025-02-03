@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2010-766",
+    "factuurdatum": "27-10-2024",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 110",
+      "postcode": "3811 AC",
+      "stad": "Utrecht",
+      "KVK-nummer": "25939304"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 272.31,
+        "btw_per_stuk": 57.19
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 112.53,
+        "btw_per_stuk": 23.63
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 332.92,
+        "btw_per_stuk": 69.91
+      }
+    ],
+    "totaal_excl_btw": 2261.14,
+    "totaal_btw": 474.84,
+    "totaal_incl_btw": 2735.98
+  }
+}

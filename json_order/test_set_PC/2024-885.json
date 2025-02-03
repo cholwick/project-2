@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2024-885",
+    "factuurdatum": "12-04-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Kerkstraat 819",
+      "postcode": "4501 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "71448435"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 29.95,
+        "btw_per_stuk": 6.29
+      },
+      {
+        "productnaam": "MSI AERO 32G OC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 404.9,
+        "btw_per_stuk": 85.03
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 181.74,
+        "btw_per_stuk": 38.17
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 396.37,
+        "btw_per_stuk": 83.24
+      }
+    ],
+    "totaal_excl_btw": 3240.62,
+    "totaal_btw": 680.55,
+    "totaal_incl_btw": 3921.17
+  }
+}

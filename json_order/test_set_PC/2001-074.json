@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2001-074",
+    "factuurdatum": "23-07-2023",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Hoofdstraat 352",
+      "postcode": "6875 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "40877107"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 296.61,
+        "btw_per_stuk": 62.29
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 188.25,
+        "btw_per_stuk": 39.53
+      },
+      {
+        "productnaam": "MSI AERO 8G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 479.07,
+        "btw_per_stuk": 100.6
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 279.13,
+        "btw_per_stuk": 58.62
+      }
+    ],
+    "totaal_excl_btw": 3826.55,
+    "totaal_btw": 803.56,
+    "totaal_incl_btw": 4630.11
+  }
+}

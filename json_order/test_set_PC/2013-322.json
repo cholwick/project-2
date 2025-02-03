@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2013-322",
+    "factuurdatum": "21-03-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 513",
+      "postcode": "4163 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "73182556"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 164.72,
+        "btw_per_stuk": 34.59
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 252.43,
+        "btw_per_stuk": 53.01
+      }
+    ],
+    "totaal_excl_btw": 1086.73,
+    "totaal_btw": 228.21,
+    "totaal_incl_btw": 1314.94
+  }
+}

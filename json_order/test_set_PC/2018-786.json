@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2018-786",
+    "factuurdatum": "28-12-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 229",
+      "postcode": "2023 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "74029143"
+    },
+    "producten": [
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 182.66,
+        "btw_per_stuk": 38.36
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 76.39,
+        "btw_per_stuk": 16.04
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 181.67,
+        "btw_per_stuk": 38.15
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 319.43,
+        "btw_per_stuk": 67.08
+      }
+    ],
+    "totaal_excl_btw": 3130.86,
+    "totaal_btw": 657.48,
+    "totaal_incl_btw": 3788.34
+  }
+}

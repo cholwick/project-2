@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2018-189",
+    "factuurdatum": "22-06-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 536",
+      "postcode": "4987 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "54435570"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 52.07,
+        "btw_per_stuk": 10.93
+      }
+    ],
+    "totaal_excl_btw": 208.28,
+    "totaal_btw": 43.72,
+    "totaal_incl_btw": 252.0
+  }
+}

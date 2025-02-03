@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2000-879",
+    "factuurdatum": "28-11-2020",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Schoolstraat 859",
+      "postcode": "3973 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "96383439"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 351.97,
+        "btw_per_stuk": 73.91
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 459.57,
+        "btw_per_stuk": 96.51
+      },
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 323.74,
+        "btw_per_stuk": 67.99
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 274.44,
+        "btw_per_stuk": 57.63
+      },
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 452.48,
+        "btw_per_stuk": 95.02
+      }
+    ],
+    "totaal_excl_btw": 6184.85,
+    "totaal_btw": 1298.79,
+    "totaal_incl_btw": 7483.64
+  }
+}

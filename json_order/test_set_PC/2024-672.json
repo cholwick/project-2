@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2024-672",
+    "factuurdatum": "10-06-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Hoofdstraat 354",
+      "postcode": "9919 AC",
+      "stad": "Rotterdam",
+      "KVK-nummer": "16546564"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 209.62,
+        "btw_per_stuk": 44.02
+      }
+    ],
+    "totaal_excl_btw": 628.86,
+    "totaal_btw": 132.06,
+    "totaal_incl_btw": 760.92
+  }
+}

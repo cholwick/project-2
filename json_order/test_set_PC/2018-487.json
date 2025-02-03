@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2018-487",
+    "factuurdatum": "20-05-2022",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 612",
+      "postcode": "8188 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "35923547"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 70.61,
+        "btw_per_stuk": 14.83
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 219.96,
+        "btw_per_stuk": 46.19
+      },
+      {
+        "productnaam": "Dell UltraSharp U2419H",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 61.39,
+        "btw_per_stuk": 12.89
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 383.07,
+        "btw_per_stuk": 80.44
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 285.46,
+        "btw_per_stuk": 59.95
+      }
+    ],
+    "totaal_excl_btw": 2364.94,
+    "totaal_btw": 496.65,
+    "totaal_incl_btw": 2861.59
+  }
+}

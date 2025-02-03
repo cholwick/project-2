@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2016-408",
+    "factuurdatum": "21-04-2024",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 991",
+      "postcode": "9719 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "91324889"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 95.04,
+        "btw_per_stuk": 19.96
+      }
+    ],
+    "totaal_excl_btw": 475.2,
+    "totaal_btw": 99.8,
+    "totaal_incl_btw": 575.0
+  }
+}

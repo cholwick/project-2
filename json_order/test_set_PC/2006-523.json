@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2006-523",
+    "factuurdatum": "14-11-2022",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 735",
+      "postcode": "6949 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "11694517"
+    },
+    "producten": [
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 128.15,
+        "btw_per_stuk": 26.91
+      },
+      {
+        "productnaam": "Razor gaming keyboard",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 265.1,
+        "btw_per_stuk": 55.67
+      },
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 267.81,
+        "btw_per_stuk": 56.24
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14s",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 138.98,
+        "btw_per_stuk": 29.19
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 375.29,
+        "btw_per_stuk": 78.81
+      }
+    ],
+    "totaal_excl_btw": 3815.46,
+    "totaal_btw": 801.26,
+    "totaal_incl_btw": 4616.72
+  }
+}

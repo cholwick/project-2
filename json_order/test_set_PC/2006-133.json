@@ -1,0 +1,25 @@
+{
+  "factuur": {
+    "factuurnummer": "2006-133",
+    "factuurdatum": "03-01-2023",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 716",
+      "postcode": "9147 AC",
+      "stad": "Amsterdam",
+      "KVK-nummer": "22241811"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 174.4,
+        "btw_per_stuk": 36.62
+      }
+    ],
+    "totaal_excl_btw": 174.4,
+    "totaal_btw": 36.62,
+    "totaal_incl_btw": 211.02
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "factuur": {
+    "factuurnummer": "2001-567",
+    "factuurdatum": "15-05-2023",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Kerkstraat 579",
+      "postcode": "7866 AB",
+      "stad": "Amsterdam",
+      "KVK-nummer": "20271503"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E233",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 155.33,
+        "btw_per_stuk": 32.62
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 37.27,
+        "btw_per_stuk": 7.83
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 LIGHTSPEED",
+        "aantal": 1,
+        "prijs_per_stuk_excl_btw": 187.94,
+        "btw_per_stuk": 39.47
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 327.06,
+        "btw_per_stuk": 68.68
+      }
+    ],
+    "totaal_excl_btw": 1510.8,
+    "totaal_btw": 317.28,
+    "totaal_incl_btw": 1828.08
+  }
+}

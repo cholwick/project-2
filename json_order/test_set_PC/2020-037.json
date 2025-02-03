@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2020-037",
+    "factuurdatum": "13-03-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Hoofdstraat 735",
+      "postcode": "2807 AB",
+      "stad": "Utrecht",
+      "KVK-nummer": "61899309"
+    },
+    "producten": [
+      {
+        "productnaam": "MSI AERO 16G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 49.62,
+        "btw_per_stuk": 10.42
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 401.98,
+        "btw_per_stuk": 84.42
+      },
+      {
+        "productnaam": "Razor gaming keyboard ULTIMATE",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 101.48,
+        "btw_per_stuk": 21.31
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719DC",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 410.77,
+        "btw_per_stuk": 86.26
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502 HERO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 274.42,
+        "btw_per_stuk": 57.63
+      }
+    ],
+    "totaal_excl_btw": 3935.06,
+    "totaal_btw": 826.38,
+    "totaal_incl_btw": 4761.44
+  }
+}

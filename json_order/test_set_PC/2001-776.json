@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2001-776",
+    "factuurdatum": "08-01-2022",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 493",
+      "postcode": "4084 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "39866780"
+    },
+    "producten": [
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 421.53,
+        "btw_per_stuk": 88.52
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T15",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 385.97,
+        "btw_per_stuk": 81.05
+      }
+    ],
+    "totaal_excl_btw": 3651.53,
+    "totaal_btw": 766.8,
+    "totaal_incl_btw": 4418.33
+  }
+}

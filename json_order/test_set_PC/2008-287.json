@@ -1,0 +1,31 @@
+{
+  "factuur": {
+    "factuurnummer": "2008-287",
+    "factuurdatum": "20-10-2021",
+    "betaaltermijn": "90-dagen",
+    "klant": {
+      "naam": "PC Sputnik B.V.",
+      "adres": "Schoolstraat 847",
+      "postcode": "5031 AA",
+      "stad": "Amsterdam",
+      "KVK-nummer": "83006818"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 278.11,
+        "btw_per_stuk": 58.4
+      },
+      {
+        "productnaam": "MSI AERO 64G OC",
+        "aantal": 3,
+        "prijs_per_stuk_excl_btw": 88.91,
+        "btw_per_stuk": 18.67
+      }
+    ],
+    "totaal_excl_btw": 1379.17,
+    "totaal_btw": 289.61,
+    "totaal_incl_btw": 1668.78
+  }
+}

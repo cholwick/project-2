@@ -1,0 +1,37 @@
+{
+  "factuur": {
+    "factuurnummer": "2023-512",
+    "factuurdatum": "10-06-2021",
+    "betaaltermijn": "60-dagen",
+    "klant": {
+      "naam": "PC Jupiter B.V.",
+      "adres": "Schoolstraat 821",
+      "postcode": "8661 AA",
+      "stad": "Rotterdam",
+      "KVK-nummer": "34624677"
+    },
+    "producten": [
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 471.07,
+        "btw_per_stuk": 98.92
+      },
+      {
+        "productnaam": "Lenovo Thinkpad T14",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 181.7,
+        "btw_per_stuk": 38.16
+      },
+      {
+        "productnaam": "Dell UltraSharp U2719D",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 241.59,
+        "btw_per_stuk": 50.73
+      }
+    ],
+    "totaal_excl_btw": 3759.14,
+    "totaal_btw": 789.4,
+    "totaal_incl_btw": 4548.54
+  }
+}

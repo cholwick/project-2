@@ -1,0 +1,49 @@
+{
+  "factuur": {
+    "factuurnummer": "2023-274",
+    "factuurdatum": "20-08-2020",
+    "betaaltermijn": "30-dagen",
+    "klant": {
+      "naam": "PC Saturnus B.V.",
+      "adres": "Kerkstraat 792",
+      "postcode": "3377 AB",
+      "stad": "Rotterdam",
+      "KVK-nummer": "83113575"
+    },
+    "producten": [
+      {
+        "productnaam": "HP EliteDisplay E243",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 283.25,
+        "btw_per_stuk": 59.48
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 392.1,
+        "btw_per_stuk": 82.34
+      },
+      {
+        "productnaam": "HP EliteDisplay E223",
+        "aantal": 4,
+        "prijs_per_stuk_excl_btw": 108.79,
+        "btw_per_stuk": 22.85
+      },
+      {
+        "productnaam": "Logitech gaming mouse G502",
+        "aantal": 5,
+        "prijs_per_stuk_excl_btw": 283.57,
+        "btw_per_stuk": 59.55
+      },
+      {
+        "productnaam": "Razor gaming keyboard PRO",
+        "aantal": 2,
+        "prijs_per_stuk_excl_btw": 377.4,
+        "btw_per_stuk": 79.25
+      }
+    ],
+    "totaal_excl_btw": 3958.51,
+    "totaal_btw": 831.29,
+    "totaal_incl_btw": 4789.8
+  }
+}
