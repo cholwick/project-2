@@ -7,12 +7,20 @@
 import time
 import json
 import os
+import shutil  # Nodig om bestanden te verplaatsen
 
-mappad = r"C:\school\code\project-2\json_order\test_set_PC"
-factuurmap = r"C:\school\code\project-2\json_invoice"
-procesedmap = r"C:\school\code\project-2\json_processed"
+# Definieer de paden van de mappen
+script_dir = os.path.dirname(os.path.abspath(__file__))  # Zorgt ervoor dat de paden relatief zijn aan de script-locatie
+mappad = os.path.join(script_dir, "JSON_ORDER")  # Map met inkomende orders
+factuurmap = os.path.join(script_dir, "JSON_INVOICE")  # Map waar facturen worden opgeslagen
+processedmap = os.path.join(script_dir, "JSON_PROCESSED")  # Map waar verwerkte orders worden opgeslagen
 
-# Loop door alle bestanden in de map
+# Zorg ervoor dat de mappen bestaan
+os.makedirs(mappad, exist_ok=True)
+os.makedirs(factuurmap, exist_ok=True)
+os.makedirs(processedmap, exist_ok=True)
+
+# Loop door alle bestanden in JSON_ORDER
 for bestand in os.listdir(mappad):
     print(f"Found file: {bestand}")  # toets om te kijken of de data goed is
     if bestand.endswith(".json"):  
@@ -51,7 +59,7 @@ for bestand in os.listdir(mappad):
             product["totaal"] = totaal_product
             totaal += totaal_product  # Correct optellen van totaalbedrag
 
-        print(totaal)  # Controleer totaalbedrag
+        print(f"Totaal bedrag incl. BTW: {totaal}")  # Controleer totaalbedrag
 
         # totalen berekenen en opslaan
         totalen = {"totaal_incld_btw": totaal}
@@ -70,15 +78,21 @@ for bestand in os.listdir(mappad):
         
         data.update(bedrijfsgegevens)  # bedrijfsgegevens toevoegen aan JSON
 
-        # Zorg ervoor dat de bestandsnaam uniek blijft in de verwerkte map
-        output_file_path = os.path.join(procesedmap, f"processed_{time.time()}_{bestand}")
+        # Factuurbestand maken in JSON_INVOICE
+        factuur_bestand = os.path.join(factuurmap, f"factuur_{time.time()}_{bestand}")
 
         try:
-            # maakt een nieuwe json file aan met de nieuwe data
-            with open(output_file_path, "w", encoding="utf-8") as out_file:
+            # maakt een nieuwe json file aan met de factuurgegevens
+            with open(factuur_bestand, "w", encoding="utf-8") as out_file:
                 json.dump(data, out_file, indent=4)
-            print(f"Bestand succesvol opgeslagen als: {output_file_path}")
+            print(f"Factuur succesvol opgeslagen als: {factuur_bestand}")
         except Exception as e:
-            print(f"Fout bij opslaan van {bestand}: {e}")
+            print(f"Fout bij opslaan van factuur {bestand}: {e}")
 
-
+        # Verplaatst het originele bestand naar JSON_PROCESSED
+        processed_bestand = os.path.join(processedmap, bestand)
+        try:
+            shutil.move(bestandspad, processed_bestand)
+            print(f"Bestand verplaatst naar: {processed_bestand}")
+        except Exception as e:
+            print(f"Fout bij verplaatsen van {bestand}: {e}")
